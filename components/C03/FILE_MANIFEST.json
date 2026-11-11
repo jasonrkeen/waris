@@ -1,0 +1,70 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "mandatory_companion_documents": [
+    "README.md",
+    "ATTRIBUTION_AND_RIGHTS.md",
+    "METHODS_AND_LIMITS.md"
+  ],
+  "files": {
+    ".gitignore": {
+      "sha256": "8a59d708026c6ba416a8f1372ec3c45ec90b2e93262a3280661a0ff0f32064c5",
+      "bytes": 104
+    },
+    "ATTRIBUTION_AND_RIGHTS.md": {
+      "sha256": "cf60248b6741d568924dd093c49bbea3472e1c82952e9acc5a04c566de129e70",
+      "bytes": 4524
+    },
+    "LICENSE_FIRST_PARTY_CODE.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "metadata/metadata_reconciliation.json": {
+      "sha256": "c668532788d0e647be0c00110bb48efed2c6b99de3f80e47accae918c75d0517",
+      "bytes": 801
+    },
+    "metadata/metadata_verification.csv": {
+      "sha256": "af95997ad892fd7facf06765764a47be2631b0e57aab071853eeb3c016de658d",
+      "bytes": 20879
+    },
+    "metadata/ukrstat_observation_query_candidates.csv": {
+      "sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+      "bytes": 29080
+    },
+    "METHODS_AND_LIMITS.md": {
+      "sha256": "082e52eb6f4f68f39dd7b674a1f8c4917464f2e1a3e39feff8d44764787180c1",
+      "bytes": 4220
+    },
+    "procurement/procurement_frame_weighted_estimates.csv": {
+      "sha256": "a1a67abb834e623f2c8485f84d6f98c56b4456575523b688493cfe9229028a6c",
+      "bytes": 1039
+    },
+    "procurement/procurement_observed_summary.csv": {
+      "sha256": "4b17f1d3921d0672e36302a20856f7a7dbcc1ca896a74b3171f74df46b1c1367",
+      "bytes": 990
+    },
+    "PUBLIC_PROVENANCE.json": {
+      "sha256": "1f5de379acd7ae1db13f19325a63fe8094110dd670ccff280a64a0060dc2d46e",
+      "bytes": 905
+    },
+    "README.md": {
+      "sha256": "b7d7c3b4c338ab9458266d80085c01545e1ca2829dbd6c6e9047d46d767c654d",
+      "bytes": 4267
+    },
+    "tools/public_projection.py": {
+      "sha256": "b39b174d39d65bcef53e8cb59aef73c62abab86e30e20936f0be0f7ab144380d",
+      "bytes": 5082
+    },
+    "tools/reconcile_metadata.py": {
+      "sha256": "93dbb3b7501fa39cd876bb0fd46f68519c20a4d67394a81ceba3650ccc2461cf",
+      "bytes": 4280
+    },
+    "tools/test_metadata.py": {
+      "sha256": "b060fda53c64e3faa3150402feefeac99875ce5f6757f0e74fd0cde16382d8b4",
+      "bytes": 1132
+    },
+    "tools/test_projection.py": {
+      "sha256": "ca267936ceac0adb6a40c7bf9692bb05d91dfb4e125555ebf08ef9440d998056",
+      "bytes": 2612
+    }
+  }
+}

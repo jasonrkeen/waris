@@ -1,0 +1,151 @@
+oblast,sector,prewar_revenue_index_2021,current_revenue_index
+Cherkasy,Agriculture and grain trade,103.65660495705318,97.03945324652244
+Cherkasy,Construction and reconstruction,110.55277569835394,146.35611700535202
+Cherkasy,Defense-adjacent manufacturing,103.4694327842798,132.64781114770008
+Cherkasy,Financial and payment services,108.9190500544413,123.43352403440522
+Cherkasy,Fuel and logistics,97.78165163745687,94.5142758067155
+Cherkasy,Retail and consumer goods,125.69977121044553,105.61876697342984
+Chernihiv,Agriculture and grain trade,79.80556274061034,72.14782753436614
+Chernihiv,Construction and reconstruction,84.69176411994493,80.25626606646206
+Chernihiv,Defense-adjacent manufacturing,105.2130837225503,112.9101134564304
+Chernihiv,Financial and payment services,95.46204935152733,117.65263945364777
+Chernihiv,Fuel and logistics,105.48130285068893,102.88014813863244
+Chernihiv,Retail and consumer goods,107.98462130767344,94.03292719459282
+Chernivtsi,Agriculture and grain trade,87.71803008853762,104.58637093883209
+Chernivtsi,Construction and reconstruction,95.32228236213078,80.79695826068524
+Chernivtsi,Defense-adjacent manufacturing,92.14254765484732,111.70749099456778
+Chernivtsi,Financial and payment services,88.41859885321153,78.18880030587982
+Chernivtsi,Fuel and logistics,104.97291319931196,103.68879721894218
+Chernivtsi,Retail and consumer goods,98.09638195553575,76.80103811313799
+Dnipropetrovsk,Agriculture and grain trade,115.6720209004819,119.51590159626616
+Dnipropetrovsk,Construction and reconstruction,120.68398864939957,141.48659772668418
+Dnipropetrovsk,Defense-adjacent manufacturing,82.43869597795596,98.83838566001377
+Dnipropetrovsk,Financial and payment services,97.313694197434,88.37309210104334
+Dnipropetrovsk,Fuel and logistics,104.0508945855872,151.67623091340533
+Dnipropetrovsk,Retail and consumer goods,110.99083050827215,82.93145822729566
+Donetsk,Agriculture and grain trade,89.47767066198894,56.678726817258834
+Donetsk,Construction and reconstruction,95.58101251854363,88.59115041343263
+Donetsk,Defense-adjacent manufacturing,98.75814078320847,116.43381464293775
+Donetsk,Financial and payment services,103.15299070176566,123.21445975797215
+Donetsk,Fuel and logistics,97.14191507230402,97.04198807802526
+Donetsk,Retail and consumer goods,91.34130359748583,110.31161188372585
+Ivano-Frankivsk,Agriculture and grain trade,103.93594580456931,133.44989308117604
+Ivano-Frankivsk,Construction and reconstruction,120.78773926491934,172.06419415870573
+Ivano-Frankivsk,Defense-adjacent manufacturing,81.0208672065527,144.18589436314937
+Ivano-Frankivsk,Financial and payment services,113.86374443328036,133.28211687578147
+Ivano-Frankivsk,Fuel and logistics,85.86035652262161,116.87918137829713
+Ivano-Frankivsk,Retail and consumer goods,85.93591368886221,79.59740736077737
+Kharkiv,Agriculture and grain trade,89.63985682312742,86.77405327715314
+Kharkiv,Construction and reconstruction,102.42767430197432,135.26810258590592
+Kharkiv,Defense-adjacent manufacturing,76.08327554735013,35.326380524407206
+Kharkiv,Financial and payment services,106.3607764672176,101.78173987577603
+Kharkiv,Fuel and logistics,119.2510523382057,136.7334249075682
+Kharkiv,Retail and consumer goods,103.31529015194265,63.53157798368406
+Kherson,Agriculture and grain trade,99.17034478328632,94.07919186204569
+Kherson,Construction and reconstruction,83.41382181547552,95.50443464001802
+Kherson,Defense-adjacent manufacturing,113.27192043888758,94.2428289758426
+Kherson,Financial and payment services,103.99684447141907,94.05029129861634
+Kherson,Fuel and logistics,92.14860067974934,106.92408770064029
+Kherson,Retail and consumer goods,113.37510933492852,102.80464285361816
+Khmelnytskyi,Agriculture and grain trade,100.07606874834723,143.76660231052517
+Khmelnytskyi,Construction and reconstruction,89.78155372977079,114.9674360005875
+Khmelnytskyi,Defense-adjacent manufacturing,103.09874587987234,151.23739257163427
+Khmelnytskyi,Financial and payment services,110.77378490092657,130.6720984703746
+Khmelnytskyi,Fuel and logistics,76.11025605851202,70.04958140772703
+Khmelnytskyi,Retail and consumer goods,93.28513256740612,85.18566920801277
+Kirovohrad,Agriculture and grain trade,71.26887634119434,53.09945510602623
+Kirovohrad,Construction and reconstruction,108.48219569078861,135.503123218804
+Kirovohrad,Defense-adjacent manufacturing,102.82538041971917,159.80963879962135
+Kirovohrad,Financial and payment services,96.96979198836442,95.64119638186637
+Kirovohrad,Fuel and logistics,85.0663385487871,85.39058103563818
+Kirovohrad,Retail and consumer goods,106.5811350499576,98.5386824071859
+Kyiv,Agriculture and grain trade,102.89991663785005,74.51710303761772
+Kyiv,Construction and reconstruction,79.77283219138229,105.01380177040065
+Kyiv,Defense-adjacent manufacturing,101.97268843572763,109.12524332991886
+Kyiv,Financial and payment services,106.95473370971773,126.45160854246397
+Kyiv,Fuel and logistics,92.63227838328524,134.43630558029176
+Kyiv,Retail and consumer goods,87.5129673698508,80.88828646957835
+Kyiv City,Agriculture and grain trade,85.03219036366997,100.72936464350359
+Kyiv City,Construction and reconstruction,96.32121254455531,104.1905776087831
+Kyiv City,Defense-adjacent manufacturing,103.94041567397846,127.21168001982964
+Kyiv City,Financial and payment services,95.31186876880965,132.12028976380546
+Kyiv City,Fuel and logistics,121.42382073069673,134.7148277266617
+Kyiv City,Retail and consumer goods,82.8743631737651,69.542805415528
+Luhansk,Agriculture and grain trade,114.5502260419792,91.93253968740773
+Luhansk,Construction and reconstruction,93.72737564596383,50.993013545152
+Luhansk,Defense-adjacent manufacturing,97.34156661123039,137.61960363868184
+Luhansk,Financial and payment services,89.01812660984889,84.18836580119232
+Luhansk,Fuel and logistics,104.65243769514417,113.86216470952311
+Luhansk,Retail and consumer goods,94.49391408220839,69.82211671104658
+Lviv,Agriculture and grain trade,95.78857141338426,95.27035097686357
+Lviv,Construction and reconstruction,86.31806897048523,78.8644924001799
+Lviv,Defense-adjacent manufacturing,84.64190850831976,157.63197221512348
+Lviv,Financial and payment services,107.67551691397482,128.82579999576814
+Lviv,Fuel and logistics,80.56153606729876,64.01849916688376
+Lviv,Retail and consumer goods,95.53939964097167,77.102655935008
+Mykolaiv,Agriculture and grain trade,100.724631141093,82.99341123897793
+Mykolaiv,Construction and reconstruction,87.01087363134056,82.88202839234829
+Mykolaiv,Defense-adjacent manufacturing,114.57027794714202,74.60815188036814
+Mykolaiv,Financial and payment services,103.27844827422547,106.13446875442423
+Mykolaiv,Fuel and logistics,112.31004211462286,109.061306247011
+Mykolaiv,Retail and consumer goods,96.17072083586923,84.15198328996215
+Odesa,Agriculture and grain trade,122.04864010585024,104.39321393702008
+Odesa,Construction and reconstruction,91.51282564058243,103.64732767217136
+Odesa,Defense-adjacent manufacturing,69.97960187008414,34.23865396447796
+Odesa,Financial and payment services,98.7589586371044,102.87235624780065
+Odesa,Fuel and logistics,76.75639680753501,87.24810113446968
+Odesa,Retail and consumer goods,92.981510380804,73.59945766031262
+Poltava,Agriculture and grain trade,105.74650646224553,87.0700586382621
+Poltava,Construction and reconstruction,100.8390349719379,98.28949400462456
+Poltava,Defense-adjacent manufacturing,104.59462883662059,39.95661055580587
+Poltava,Financial and payment services,111.28347357860306,136.43673207397677
+Poltava,Fuel and logistics,116.36114454502838,86.01885310805335
+Poltava,Retail and consumer goods,97.21276804090918,95.57482231586643
+Rivne,Agriculture and grain trade,99.97696176188384,105.87389399099052
+Rivne,Construction and reconstruction,111.09229308624921,123.64185396457017
+Rivne,Defense-adjacent manufacturing,109.07497796355767,151.7075141450627
+Rivne,Financial and payment services,101.56917025493853,111.32348574675184
+Rivne,Fuel and logistics,82.99789488883751,88.56669103081036
+Rivne,Retail and consumer goods,96.36856288635464,98.57100500016085
+Sumy,Agriculture and grain trade,95.95801638831288,96.53334356500487
+Sumy,Construction and reconstruction,99.94440433330786,119.85206668305358
+Sumy,Defense-adjacent manufacturing,117.34151148311841,113.02242682135896
+Sumy,Financial and payment services,101.42017496065846,123.60708118304075
+Sumy,Fuel and logistics,109.66814367091001,143.51630856723187
+Sumy,Retail and consumer goods,88.53249799118322,72.93204479785749
+Ternopil,Agriculture and grain trade,92.96097897914919,109.07390120847373
+Ternopil,Construction and reconstruction,107.83893859937473,113.93246860226677
+Ternopil,Defense-adjacent manufacturing,97.07324667787195,60.73806640091454
+Ternopil,Financial and payment services,104.2244136616351,98.90068356440642
+Ternopil,Fuel and logistics,111.68396213612908,157.1081094143437
+Ternopil,Retail and consumer goods,115.64278081369704,111.33413470543083
+Vinnytsia,Agriculture and grain trade,98.93444262744998,74.21049219010865
+Vinnytsia,Construction and reconstruction,112.22852431890115,152.15608418314764
+Vinnytsia,Defense-adjacent manufacturing,107.35558456569518,132.44720303545802
+Vinnytsia,Financial and payment services,104.39451517340724,125.96223180432916
+Vinnytsia,Fuel and logistics,70.58953445751897,54.24925497259484
+Vinnytsia,Retail and consumer goods,95.05900698778422,63.08407769018348
+Volyn,Agriculture and grain trade,117.81902544080621,100.88675604484158
+Volyn,Construction and reconstruction,127.37959452731275,140.26256392543814
+Volyn,Defense-adjacent manufacturing,97.94122587740382,95.58081530090593
+Volyn,Financial and payment services,107.41828857598361,125.78326211113993
+Volyn,Fuel and logistics,85.65569230842277,140.04762897445346
+Volyn,Retail and consumer goods,106.714484447394,94.88765412945682
+Zakarpattia,Agriculture and grain trade,120.87577650317215,115.14377948187875
+Zakarpattia,Construction and reconstruction,107.80298806694037,147.07269261663444
+Zakarpattia,Defense-adjacent manufacturing,66.66406863125712,87.26401250492502
+Zakarpattia,Financial and payment services,86.11042441319893,58.367043862024886
+Zakarpattia,Fuel and logistics,104.36437780411555,93.31726126040584
+Zakarpattia,Retail and consumer goods,124.04211292481611,121.33254465712739
+Zaporizhzhia,Agriculture and grain trade,82.17933425047076,85.82909646657751
+Zaporizhzhia,Construction and reconstruction,98.51428846804409,106.02275025642086
+Zaporizhzhia,Defense-adjacent manufacturing,114.94761952206248,149.9086768050213
+Zaporizhzhia,Financial and payment services,95.07592031985868,98.86828430541755
+Zaporizhzhia,Fuel and logistics,132.52894632661992,138.98737508420544
+Zaporizhzhia,Retail and consumer goods,110.99116362735518,105.50549015382903
+Zhytomyr,Agriculture and grain trade,103.49477700216856,89.73337255616238
+Zhytomyr,Construction and reconstruction,104.03681126427847,111.42250257191984
+Zhytomyr,Defense-adjacent manufacturing,107.85591434137343,132.5246479673416
+Zhytomyr,Financial and payment services,111.65366808187494,114.84802436151428
+Zhytomyr,Fuel and logistics,106.90655811999873,91.0385196091605
+Zhytomyr,Retail and consumer goods,99.89446372617314,117.07086214767118

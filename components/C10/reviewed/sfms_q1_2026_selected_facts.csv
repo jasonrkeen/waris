@@ -1,0 +1,11 @@
+source_row,reporting_period,category_as_published,row_role,referral_documents,source_reported_associated_funds_million_UAH,category_label_repeated_in_source,context_only,used_in_scoring,used_in_monte_carlo
+1,2026-Q1,members of the Cabinet of Ministers of Ukraine and their deputies,category,13,0.00,False,True,False,False
+2,2026-Q1,members of parliament and deputies of local councils,category,5,41.28,False,True,False,False
+3,2026-Q1,heads of the central executive authorities,category,4,0.00,True,True,False,False
+4,2026-Q1,civil servants,category,7,27117.94,False,True,False,False
+5,2026-Q1,judges,category,2,0.00,False,True,False,False
+6,2026-Q1,senior commanders and the rest of the soldiers,category,17,16.57,False,True,False,False
+7,2026-Q1,heads of state enterprises,category,7,63.08,False,True,False,False
+8,2026-Q1,heads of the central executive authorities,category,1,2.24,True,True,False,False
+9,2026-Q1,other persons,category,14,0.00,False,True,False,False
+total,2026-Q1,total,published_total_do_not_add,70,27241.11,False,True,False,False

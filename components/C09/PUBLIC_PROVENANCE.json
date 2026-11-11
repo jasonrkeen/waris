@@ -1,0 +1,14 @@
+{
+  "review_date_local": "2026-10-22",
+  "synthetic_seed": 42,
+  "historical_rescale_numeric_cells_reproduced": 1200,
+  "revenue_indices_are_synthetic": true,
+  "empirical_sector_allocation_validated": false,
+  "actual_control_effectiveness_validated": false,
+  "historical_runtime_execution_authenticated": false,
+  "mixed_current_scores_bundled": false,
+  "source_candidate_changed": false,
+  "full_research_release": "blocked",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

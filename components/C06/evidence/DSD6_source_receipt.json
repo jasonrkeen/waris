@@ -1,0 +1,10 @@
+[
+  {
+    "artifact": "dsd6",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/datastructure/SSSU/DSD_REGIONAL_ACCOUNTS/6.0.0?detail=full&references=all",
+    "retrieved_at_utc": "2026-10-20T23:52:15.123807+00:00",
+    "http_status": 200,
+    "bytes": 5197594,
+    "sha256": "ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394"
+  }
+]

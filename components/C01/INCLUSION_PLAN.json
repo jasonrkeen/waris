@@ -1,0 +1,667 @@
+{
+  "package_id": "WARIS-rc13-selected-appendix-review-1",
+  "date": "2026-10-23",
+  "status": "selected_historical_appendix_local_review_full_release_blocked",
+  "published": false,
+  "grp": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "eligible_inventory_rows": 23,
+  "unique_historical_files": 20,
+  "duplicate_aliases": 3,
+  "selection_scope": "Only these 23 historical ledger rows; other previously reviewed replacement/study/literature outputs require a separate final inclusion decision.",
+  "entries": [
+    {
+      "original_artifact": "data/raw/oblast_name_crosswalk.csv",
+      "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A01",
+      "package_path": "artifacts/methods/oblast_name_crosswalk.csv",
+      "companion": "companions/A01.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "data/raw/operational_review_artifact_crosswalk.csv",
+      "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A02",
+      "package_path": "artifacts/methods/operational_review_artifact_crosswalk.csv",
+      "companion": "companions/A02.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "data/raw/prozorro_procurement_crosswalk.csv",
+      "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A03",
+      "package_path": "artifacts/methods/prozorro_procurement_crosswalk.csv",
+      "companion": "companions/A03.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "data/raw/synthetic_oblast_sector_inputs.csv",
+      "sha256": "539bc3cf8c0f3b186e168acdc27f91a3f451a08c8a6d35e5214fdda752129029",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A04",
+      "package_path": "artifacts/synthetic/synthetic_oblast_sector_inputs.csv",
+      "companion": "companions/A04.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/analyst_review_summary.csv",
+      "sha256": "ed8dad38db1c5022d98349afdfa175aaac76c905a76f248eb8c30a4c7746744f",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A05",
+      "package_path": "artifacts/workflow/analyst_review_summary.csv",
+      "companion": "companions/A05.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/false_positive_controls.csv",
+      "sha256": "5221e02c4d3eed674fd4081a007cfa01aa0b91c6b2819f6af2a349f4b276cd3a",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A06",
+      "package_path": "artifacts/workflow/false_positive_controls.csv",
+      "companion": "companions/A06.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/false_positive_risk_register.csv",
+      "sha256": "577b33283a4667c035698cee1c87c7a301747503572832282706ed3cf0e1623f",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A07",
+      "package_path": "artifacts/methods/false_positive_risk_register.csv",
+      "companion": "companions/A07.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/false_positive_summary.csv",
+      "sha256": "674cb3f41fedd36d8a4b3a834c5e503ad7c5d583067b1ed2102a4b149b6171b8",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A08",
+      "package_path": "artifacts/workflow/false_positive_summary.csv",
+      "companion": "companions/A08.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/model_monitoring_plan.csv",
+      "sha256": "74b34b4756191e7be57442dd973af2fc0238635c32796bd2a754ab8a48ef27eb",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A09",
+      "package_path": "artifacts/methods/model_monitoring_plan.csv",
+      "companion": "companions/A09.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/oblast_name_crosswalk.csv",
+      "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+      "package_action": "duplicate_alias_to_selected_file",
+      "canonical_id": "A01",
+      "package_path": "artifacts/methods/oblast_name_crosswalk.csv",
+      "companion": "companions/A01.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/official_baseline_benchmark_comparison.csv",
+      "sha256": "e11c34ac1b4496b60d1366c87d248ac9e6cdc15bbb0eba7db797b82c29ed395a",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A10",
+      "package_path": "artifacts/benchmark/official_baseline_benchmark_comparison.csv",
+      "companion": "companions/A10.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/official_baseline_geography_crosswalk_check.csv",
+      "sha256": "530f229292389c6d2b11ef566608894623801943ab98eb6ab140c564fe3c3e17",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A11",
+      "package_path": "artifacts/geography/official_baseline_geography_crosswalk_check.csv",
+      "companion": "companions/A11.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/official_baseline_operational_controls_context_bridge.csv",
+      "sha256": "6743766a40c03c19b073762b6479a6cf83ab4775fdae51ab7a5148c9506a27c2",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A12",
+      "package_path": "artifacts/operational/official_baseline_operational_controls_context_bridge.csv",
+      "companion": "companions/A12.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/official_baseline_period_coverage.csv",
+      "sha256": "2480d005bae60a48b81863ac896aed9f49ac701b2ddcd88202c48d26c7cc5806",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A13",
+      "package_path": "artifacts/benchmark/official_baseline_period_coverage.csv",
+      "companion": "companions/A13.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/official_baseline_rescale_scenario.csv",
+      "sha256": "fa3d58f9eb07ddf0bd29ef9d17c6b10a1ee0a7b147d2496a9d2c02e92f2d92aa",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A14",
+      "package_path": "artifacts/illustrative_scenario/official_baseline_rescale_scenario.csv",
+      "companion": "companions/A14.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/operational_review_artifact_crosswalk.csv",
+      "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+      "package_action": "duplicate_alias_to_selected_file",
+      "canonical_id": "A02",
+      "package_path": "artifacts/methods/operational_review_artifact_crosswalk.csv",
+      "companion": "companions/A02.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/prozorro_procurement_crosswalk.csv",
+      "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+      "package_action": "duplicate_alias_to_selected_file",
+      "canonical_id": "A03",
+      "package_path": "artifacts/methods/prozorro_procurement_crosswalk.csv",
+      "companion": "companions/A03.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_confirmed_oblast_baseline_candidates.csv",
+      "sha256": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A15",
+      "package_path": "artifacts/historical_extraction/ukrstat_confirmed_oblast_baseline_candidates.csv",
+      "companion": "companions/A15.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_confirmed_series_parsed.csv",
+      "sha256": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A16",
+      "package_path": "artifacts/historical_extraction/ukrstat_confirmed_series_parsed.csv",
+      "companion": "companions/A16.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_oblast_baseline_candidates.csv",
+      "sha256": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A17",
+      "package_path": "artifacts/historical_extraction/ukrstat_oblast_baseline_candidates.csv",
+      "companion": "companions/A17.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_observation_query_candidates.csv",
+      "sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A18",
+      "package_path": "artifacts/metadata/ukrstat_observation_query_candidates.csv",
+      "companion": "companions/A18.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_regional_accounts_metadata_clues.csv",
+      "sha256": "366e2bd2dab2de2fb7c85c10b9cdd25867de7c429304878b4e2919214bb8db55",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A19",
+      "package_path": "artifacts/metadata/ukrstat_regional_accounts_metadata_clues.csv",
+      "companion": "companions/A19.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    },
+    {
+      "original_artifact": "outputs/tables/ukrstat_registry_references.csv",
+      "sha256": "e16cb2a2b7373e38cd51b32c4ade7d4db540568ded6608bfbcd2e67007dc0043",
+      "package_action": "selected_once_for_historical_appendix",
+      "canonical_id": "A20",
+      "package_path": "artifacts/metadata/ukrstat_registry_references.csv",
+      "companion": "companions/A20.md",
+      "runtime_loading": "not_integrated",
+      "historical_eligibility_unchanged": true
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "A01",
+      "artifact_path": "artifacts/methods/oblast_name_crosswalk.csv",
+      "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+      "rows": 25,
+      "role": "First-party name-alignment reference, with source-derived geography attribution.",
+      "limitations": "25 selected WARIS names; mappings are a project convention. No historical boundary equivalence, complete territorial scope or economic comparability follows. WARIS excludes Crimea and Sevastopol from its selected universe, not from Ukraine.",
+      "companion": "companions/A01.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/geography/verified_top_level_geography_20261020.csv",
+        "support/geography/geography_reconciliation.json",
+        "support/geography/dated_scope_2026-10-20.md"
+      ],
+      "group": "methods",
+      "original_aliases": [
+        "data/raw/oblast_name_crosswalk.csv",
+        "outputs/tables/oblast_name_crosswalk.csv"
+      ]
+    },
+    {
+      "id": "A02",
+      "artifact_path": "artifacts/methods/operational_review_artifact_crosswalk.csv",
+      "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+      "rows": 15,
+      "role": "First-party proposed workflow/artifact catalogue.",
+      "limitations": "15 declarations reference named outputs, including excluded score-selected workflow files. References are not an instruction to bundle or load those files. No measured control effectiveness or completed review. The old catalogue can mention numeric confidence outputs now retired by rc13.",
+      "companion": "companions/A02.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip"
+      ],
+      "group": "methods",
+      "original_aliases": [
+        "data/raw/operational_review_artifact_crosswalk.csv",
+        "outputs/tables/operational_review_artifact_crosswalk.csv"
+      ]
+    },
+    {
+      "id": "A03",
+      "artifact_path": "artifacts/methods/prozorro_procurement_crosswalk.csv",
+      "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+      "rows": 101,
+      "role": "First-party review-only keyword and field-mapping catalogue.",
+      "limitations": "101 rules are heuristic project choices, not measured tender facts, validated sector classifiers or evidence of misconduct. No tender-level inputs or study membership is included; no inherited procurement scoring approval.",
+      "companion": "companions/A03.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip"
+      ],
+      "group": "methods",
+      "original_aliases": [
+        "data/raw/prozorro_procurement_crosswalk.csv",
+        "outputs/tables/prozorro_procurement_crosswalk.csv"
+      ]
+    },
+    {
+      "id": "A04",
+      "artifact_path": "artifacts/synthetic/synthetic_oblast_sector_inputs.csv",
+      "sha256": "539bc3cf8c0f3b186e168acdc27f91a3f451a08c8a6d35e5214fdda752129029",
+      "rows": 150,
+      "role": "Historical first-party seed42 synthetic input illustration.",
+      "limitations": "150 rows (25 regions x 6 sectors); every numeric field is generated, including conflict/procurement/sanctions labels. Real geography names do not make these measurements. No provider evidence or wartime coverage follows. Original bytes lack an in-table synthetic marker, so the companion and synthetic directory label must travel with every export.",
+      "companion": "companions/A04.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip"
+      ],
+      "group": "synthetic",
+      "original_aliases": [
+        "data/raw/synthetic_oblast_sector_inputs.csv"
+      ]
+    },
+    {
+      "id": "A05",
+      "artifact_path": "artifacts/workflow/analyst_review_summary.csv",
+      "sha256": "ed8dad38db1c5022d98349afdfa175aaac76c905a76f248eb8c30a4c7746744f",
+      "rows": 7,
+      "role": "Historical first-party workflow count declarations.",
+      "limitations": "Seven rows. Queue 25, questions 200, zero completed analyst dispositions/dates. All 25 queue and 200 checklist statuses not_started. No selected queue, questions or checklist content included. Count consistency does not authenticate original run execution.",
+      "companion": "companions/A05.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/workflow/qualified_operational_recount.json"
+      ],
+      "group": "workflow",
+      "original_aliases": [
+        "outputs/tables/analyst_review_summary.csv"
+      ]
+    },
+    {
+      "id": "A06",
+      "artifact_path": "artifacts/workflow/false_positive_controls.csv",
+      "sha256": "5221e02c4d3eed674fd4081a007cfa01aa0b91c6b2819f6af2a349f4b276cd3a",
+      "rows": 7,
+      "role": "Historical first-party check declarations.",
+      "limitations": "Seven rows: six pass and one review_required (FPC-006). These are documentation checks, not measured false-positive performance, all-code-path enforcement or current source separation. Original core ACLED/basic-procurement blends existed; rc13 retires the ACLED blend.",
+      "companion": "companions/A06.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/workflow/qualified_operational_recount.json"
+      ],
+      "group": "workflow",
+      "original_aliases": [
+        "outputs/tables/false_positive_controls.csv"
+      ]
+    },
+    {
+      "id": "A07",
+      "artifact_path": "artifacts/methods/false_positive_risk_register.csv",
+      "sha256": "577b33283a4667c035698cee1c87c7a301747503572832282706ed3cf0e1623f",
+      "rows": 7,
+      "role": "First-party risk/mitigation definitions.",
+      "limitations": "Seven proposed controls; named risks and evidence requirements are hypotheses/guidance, not observed false-positive rates, successful case reviews or SME certification.",
+      "companion": "companions/A07.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip"
+      ],
+      "group": "methods",
+      "original_aliases": [
+        "outputs/tables/false_positive_risk_register.csv"
+      ]
+    },
+    {
+      "id": "A08",
+      "artifact_path": "artifacts/workflow/false_positive_summary.csv",
+      "sha256": "674cb3f41fedd36d8a4b3a834c5e503ad7c5d583067b1ed2102a4b149b6171b8",
+      "rows": 8,
+      "role": "Historical first-party count/status summary.",
+      "limitations": "Eight rows; no empirical false-positive denominator, measured error rate or analyst clearance. Historical source-freshness flags do not establish provider freshness now.",
+      "companion": "companions/A08.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/workflow/qualified_operational_recount.json"
+      ],
+      "group": "workflow",
+      "original_aliases": [
+        "outputs/tables/false_positive_summary.csv"
+      ]
+    },
+    {
+      "id": "A09",
+      "artifact_path": "artifacts/methods/model_monitoring_plan.csv",
+      "sha256": "74b34b4756191e7be57442dd973af2fc0238635c32796bd2a754ab8a48ef27eb",
+      "rows": 22,
+      "role": "First-party proposed monitoring schedule.",
+      "limitations": "Plan entries and suggested triggers are not monitoring execution, source freshness, prospective evaluation, incidents detected or control effectiveness.",
+      "companion": "companions/A09.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip"
+      ],
+      "group": "methods",
+      "original_aliases": [
+        "outputs/tables/model_monitoring_plan.csv"
+      ]
+    },
+    {
+      "id": "A10",
+      "artifact_path": "artifacts/benchmark/official_baseline_benchmark_comparison.csv",
+      "sha256": "e11c34ac1b4496b60d1366c87d248ac9e6cdc15bbb0eba7db797b82c29ed395a",
+      "rows": 25,
+      "role": "Historical non-scoring comparison of official 2021 GRP scale and arbitrary synthetic prewar indices.",
+      "limitations": "25 rows/250 reconstructed numeric cells. Ratios/gaps compare unlike constructs; they are not actual revenue errors, overstatement, AML risk, forecast validity or validated financial ratios. Synthetic sums use six sectors; regional min/max/relative support matters.",
+      "companion": "companions/A10.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/benchmark/independent_benchmark_reconstruction.csv"
+      ],
+      "group": "benchmark",
+      "original_aliases": [
+        "outputs/tables/official_baseline_benchmark_comparison.csv"
+      ]
+    },
+    {
+      "id": "A11",
+      "artifact_path": "artifacts/geography/official_baseline_geography_crosswalk_check.csv",
+      "sha256": "530f229292389c6d2b11ef566608894623801943ab98eb6ab140c564fe3c3e17",
+      "rows": 25,
+      "role": "Historical mapping-control appendix, with dated top-level identity reconciliation.",
+      "limitations": "25 selected top-level identities were checked against the separately retrieved official KATOTTG workbook; pending wording remains unchanged. Current identity check is not historical boundary equivalence, original acquisition authentication or approval for economic use.",
+      "companion": "companions/A11.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/geography/verified_top_level_geography_20261020.csv",
+        "support/geography/geography_reconciliation.json",
+        "support/geography/dated_scope_2026-10-20.md"
+      ],
+      "group": "geography",
+      "original_aliases": [
+        "outputs/tables/official_baseline_geography_crosswalk_check.csv"
+      ]
+    },
+    {
+      "id": "A12",
+      "artifact_path": "artifacts/operational/official_baseline_operational_controls_context_bridge.csv",
+      "sha256": "6743766a40c03c19b073762b6479a6cf83ab4775fdae51ab7a5148c9506a27c2",
+      "rows": 4,
+      "role": "Historical first-party documentation bridge with benchmark context.",
+      "limitations": "Four rows. File availability, control labels, gap summaries, freshness declarations and matching historical run-ID/version do not authenticate execution, current freshness or effective controls. No completed review or empirical false-positive result. All actual retained score/MC-use flags are false; legacy masking review is excluded.",
+      "companion": "companions/A12.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/workflow/qualified_operational_recount.json",
+        "support/operational/operational_recount.json",
+        "support/operational/operational_claims_reviewed.csv",
+        "support/benchmark/independent_benchmark_reconstruction.csv"
+      ],
+      "group": "operational",
+      "original_aliases": [
+        "outputs/tables/official_baseline_operational_controls_context_bridge.csv"
+      ]
+    },
+    {
+      "id": "A13",
+      "artifact_path": "artifacts/benchmark/official_baseline_period_coverage.csv",
+      "sha256": "2480d005bae60a48b81863ac896aed9f49ac701b2ddcd88202c48d26c7cc5806",
+      "rows": 1,
+      "role": "Historical one-row fixed-universe coverage declaration.",
+      "limitations": "One row reports 25 parseable selected annual observations labelled 2021-01-01. This is a normalized annual label, not an observation day. Coverage is the fixed 25-region universe/year, not all Ukrainian territories, contemporary economy or national sector representativeness.",
+      "companion": "companions/A13.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv"
+      ],
+      "group": "benchmark",
+      "original_aliases": [
+        "outputs/tables/official_baseline_period_coverage.csv"
+      ]
+    },
+    {
+      "id": "A14",
+      "artifact_path": "artifacts/illustrative_scenario/official_baseline_rescale_scenario.csv",
+      "sha256": "fa3d58f9eb07ddf0bd29ef9d17c6b10a1ee0a7b147d2496a9d2c02e92f2d92aa",
+      "rows": 150,
+      "role": "Historical non-production mathematical illustration; not economic sector allocation.",
+      "limitations": "150 rows/1200 numeric cells reproduced from first-party synthetic B/C indices and official 2021 regional GRP anchors. I=100*GRP/mean(regional GRP); q=B/sum_region(B); Bprime=6*I*q; Cprime=Bprime*C/B. Sums are index units, not currency; synthetic shares are not measured sector-economic shares. Exactly six unique positive sector rows per 25 regions are required. Unequal support changes the legacy denominator; no imputation, calibration or approval.",
+      "companion": "companions/A14.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/rescale/rescale_arithmetic_reconstruction.csv",
+        "support/rescale/synthetic_seed42_inputs.csv",
+        "support/rescale/scenario_scope_findings.json"
+      ],
+      "group": "illustrative_scenario",
+      "original_aliases": [
+        "outputs/tables/official_baseline_rescale_scenario.csv"
+      ]
+    },
+    {
+      "id": "A15",
+      "artifact_path": "artifacts/historical_extraction/ukrstat_confirmed_oblast_baseline_candidates.csv",
+      "sha256": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+      "rows": 1,
+      "role": "One-region historical candidate with a typed current companion, not an activated replacement.",
+      "limitations": "One Dnipropetrovsk 2021 row; 35 historical cells replayed. Blank unit/update fields and pending statuses remain omissions/declarations. Correct typed unit is UAH millions; source UPDATED is not access time. January-1 denotes an annual label; latest means retained-response latest, not current latest. source_url is a locator, not a recovered request receipt.",
+      "companion": "companions/A15.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/typed/confirmed_series_reconciled.csv",
+        "support/typed/oblast_candidates_reconciled.csv",
+        "support/typed/dated_attribution_2026-10-20.md",
+        "support/typed/dated_provenance_2026-10-20.json"
+      ],
+      "group": "historical_extraction",
+      "original_aliases": [
+        "outputs/tables/ukrstat_confirmed_oblast_baseline_candidates.csv"
+      ]
+    },
+    {
+      "id": "A16",
+      "artifact_path": "artifacts/historical_extraction/ukrstat_confirmed_series_parsed.csv",
+      "sha256": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+      "rows": 18,
+      "role": "Historical 18-year extraction alongside direct-label unit/period correction.",
+      "limitations": "18 annual Dnipropetrovsk values (2004–2021), not daily observations. Blank units/update fields remain historical; typed companion supplies explicit year/unit/notes. Old availability-bound period fallback happened to coincide with this contiguous series; it is not approved for sparse series. HTTP execution remains unauthenticated.",
+      "companion": "companions/A16.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/typed/confirmed_series_reconciled.csv",
+        "support/typed/oblast_candidates_reconciled.csv",
+        "support/typed/dated_attribution_2026-10-20.md",
+        "support/typed/dated_provenance_2026-10-20.json"
+      ],
+      "group": "historical_extraction",
+      "original_aliases": [
+        "outputs/tables/ukrstat_confirmed_series_parsed.csv"
+      ]
+    },
+    {
+      "id": "A17",
+      "artifact_path": "artifacts/historical_extraction/ukrstat_oblast_baseline_candidates.csv",
+      "sha256": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911",
+      "rows": 25,
+      "role": "Historical 25-region candidate table with typed unit/period/source companion.",
+      "limitations": "25 2021 values. Pending mapping labels, provisional NACE/frequency labels, blank update/unit fields and no-scoring flags are historical text. No HTTP authentication, universal current latest, scoring change or sector allocation follows. Keep direct-label replacements distinct from originals.",
+      "companion": "companions/A17.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/grp/selected_2021_observations.csv",
+        "support/grp/acquisition_receipt_2026-10-18.json",
+        "support/grp/selected_historical_note_unit_projection.csv",
+        "support/typed/confirmed_series_reconciled.csv",
+        "support/typed/oblast_candidates_reconciled.csv",
+        "support/typed/dated_attribution_2026-10-20.md",
+        "support/typed/dated_provenance_2026-10-20.json"
+      ],
+      "group": "historical_extraction",
+      "original_aliases": [
+        "outputs/tables/ukrstat_oblast_baseline_candidates.csv"
+      ]
+    },
+    {
+      "id": "A18",
+      "artifact_path": "artifacts/metadata/ukrstat_observation_query_candidates.csv",
+      "sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+      "rows": 67,
+      "role": "Historical metadata shortlist/planning appendix only.",
+      "limitations": "67 rows: 64 exact-version code/name/description matches and three first-party proposed years. Recommended periods 2021/2022/2023 are proposals, not available-observation evidence. No executed query, approved indicator, sector mapping or historical acquisition claim.",
+      "companion": "companions/A18.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/query/metadata_verification.csv",
+        "support/query/metadata_reconciliation.json"
+      ],
+      "group": "metadata",
+      "original_aliases": [
+        "outputs/tables/ukrstat_observation_query_candidates.csv"
+      ]
+    },
+    {
+      "id": "A19",
+      "artifact_path": "artifacts/metadata/ukrstat_regional_accounts_metadata_clues.csv",
+      "sha256": "366e2bd2dab2de2fb7c85c10b9cdd25867de7c429304878b4e2919214bb8db55",
+      "rows": 7,
+      "role": "Historical source-reference discovery notes with dated identity verification.",
+      "limitations": "Seven exact agency/id/version/title references. Speculative relevance labels remain historical notes, not actual DSD binding, query execution, observation support or timeless version-content guarantees.",
+      "companion": "companions/A19.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/metadata/metadata_reference_verification.csv",
+        "support/metadata/selected_source_receipts.json",
+        "support/metadata/license_portal_receipt.json"
+      ],
+      "group": "metadata",
+      "original_aliases": [
+        "outputs/tables/ukrstat_regional_accounts_metadata_clues.csv"
+      ]
+    },
+    {
+      "id": "A20",
+      "artifact_path": "artifacts/metadata/ukrstat_registry_references.csv",
+      "sha256": "e16cb2a2b7373e38cd51b32c4ade7d4db540568ded6608bfbcd2e67007dc0043",
+      "rows": 12,
+      "role": "Historical exact reference/path catalogue with dated corroboration.",
+      "limitations": "Twelve exact agency/id/version/title references and retained structure paths checked. Paths concern the retained structure response; current verification does not recover original HTTP time or establish observed values.",
+      "companion": "companions/A20.md",
+      "mandatory_files": [
+        "ATTRIBUTION_AND_SCOPE.md",
+        "LICENSE_FIRST_PARTY_METHODS.txt",
+        "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+        "support/metadata/metadata_reference_verification.csv",
+        "support/metadata/selected_source_receipts.json",
+        "support/metadata/license_portal_receipt.json"
+      ],
+      "group": "metadata",
+      "original_aliases": [
+        "outputs/tables/ukrstat_registry_references.csv"
+      ]
+    }
+  ]
+}

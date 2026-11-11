@@ -1,0 +1,11 @@
+indicator_code,indicator_name,license,license_source,underlying_provider_credit,review_date,snapshot_status,original_access_date
+NY.GDP.MKTP.CD,GDP (current US$),CC BY 4.0,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,"Country official statistics, National Statistical Organizations and/or Central Banks;
+National Accounts data files, Organisation for Economic Co-operation and Development (OECD);
+Staff estimates, World Bank (WB)",2026-10-13,historical snapshot retained; current 2024 value differs,not_verified
+GC.TAX.TOTL.GD.ZS,Tax revenue (% of GDP),CC BY 4.0,https://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS,"Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",2026-10-13,historical snapshot retained; current 2024 value differs,not_verified
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),CC BY 4.0,https://data.worldbank.org/indicator/NE.EXP.GNFS.CD,"Country official statistics, National Statistical Offices (NSOs);
+National Accounts data files, Central Banks;
+Staff estimates, World Bank (WB)",2026-10-13,historical snapshot retained; current 2024 value differs,not_verified
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),CC BY 4.0,https://data.worldbank.org/indicator/NE.IMP.GNFS.CD,"Country official statistics, National Statistical Offices (NSOs);
+National Accounts data files, Central Banks;
+Staff estimates, World Bank (WB)",2026-10-13,historical snapshot retained; current 2024 value differs,not_verified

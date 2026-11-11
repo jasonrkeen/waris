@@ -1,0 +1,15 @@
+{
+  "LICENSE_FIRST_PARTY_CODE.txt": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+  "PUBLIC_PROVENANCE.json": "6eb7ff223826ceb1f04c7ef3b13e25c508321dfb620986738241648f2b21f1b2",
+  "README.md": "8b4b32fddd9323f7f5b16968071f898a5e9a61ce6d337e6b32f625b77e37e4b5",
+  "historical/analyst_review_summary.csv": "ed8dad38db1c5022d98349afdfa175aaac76c905a76f248eb8c30a4c7746744f",
+  "historical/false_positive_controls.csv": "5221e02c4d3eed674fd4081a007cfa01aa0b91c6b2819f6af2a349f4b276cd3a",
+  "historical/false_positive_summary.csv": "674cb3f41fedd36d8a4b3a834c5e503ad7c5d583067b1ed2102a4b149b6171b8",
+  "reviewed/artifact_structure_review.csv": "675fc1a6e456c5f0a7b9d9e0b49498a9081aa3bb6d1908da5854e0e3cfe88dcd",
+  "reviewed/confidence_mapping_review.json": "7cc8a7925781feb47dc6fb5ed161bae7c518d162f6e9f0c15d4910dc17f64372",
+  "reviewed/qualified_operational_recount.json": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+  "reviewed/sfms_q1_2026_selected_facts.csv": "59ecf5bcb4fd45e4362fb6c7a89be4da0874d9f3629b575d5861292a20264116",
+  "reviewed/sfms_verification_receipt.json": "cb486e310dce5663ba6e9cd744038063c1465bef759773341377273b8897ef5b",
+  "tools/methods.py": "7edbe0576e86fc2c5a72989969509c7e260036a7808e60e3478ea3fe58a32f80",
+  "tools/test_methods.py": "128a463d0889baba65babd59f1c46335031c85a08f552bd8c13c0c954018db7c"
+}

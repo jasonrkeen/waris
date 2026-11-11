@@ -1,0 +1,78 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "mandatory_companions": [
+    "README.md",
+    "ATTRIBUTION_AND_RIGHTS.md",
+    "PUBLIC_PROVENANCE.json"
+  ],
+  "files": {
+    "ATTRIBUTION_AND_RIGHTS.md": {
+      "sha256": "01ad1e52fdaffaa1ed1072336e0c1fb6db3bb4f226f82cbecd2dced2295f8ee9",
+      "bytes": 2204
+    },
+    "historical/ukrstat_confirmed_oblast_baseline_candidates.csv": {
+      "sha256": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+      "bytes": 2750
+    },
+    "historical/ukrstat_confirmed_series_parsed.csv": {
+      "sha256": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+      "bytes": 12311
+    },
+    "historical/ukrstat_oblast_baseline_candidates.csv": {
+      "sha256": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911",
+      "bytes": 48980
+    },
+    "LICENSE_FIRST_PARTY_CODE.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "PUBLIC_PROVENANCE.json": {
+      "sha256": "28b7f66d9bbe7310bca697918248bbb7f6b9d2d0ed88a0988e069c719181add7",
+      "bytes": 917
+    },
+    "README.md": {
+      "sha256": "b5570995f4b21db25cecc79ab23231715b64d540bf5ba0c26ae3dcb100516d3f",
+      "bytes": 4205
+    },
+    "reconciled/bulk_codelist_reconciliation_summary.csv": {
+      "sha256": "cf982adf8ada1a86326cc448b1c0eaf539eb6290fb9150bcad9e1f9aaa137c78",
+      "bytes": 333
+    },
+    "reconciled/confirmed_series_reconciled.csv": {
+      "sha256": "3e52960d40139248a95184c92fd787c3d19f34deddba994d0451b9bf00158b71",
+      "bytes": 4600
+    },
+    "reconciled/constraint_metadata_summary.csv": {
+      "sha256": "0da465614c8cac6296a225d8dbd2a713d4884560dcce8de37a4668f28ad49d23",
+      "bytes": 877
+    },
+    "reconciled/oblast_candidates_reconciled.csv": {
+      "sha256": "50dce11484f8029b585886843640bc5848efce5847ff9505ec17fe33551f346e",
+      "bytes": 8218
+    },
+    "reconciled/prior_cleared_value_corroboration.json": {
+      "sha256": "ae804ddf426367718fe30a74d9e66be3401de19772ec092c5ed6e3082fad29a2",
+      "bytes": 373
+    },
+    "reconciled/query_review_plan_reconciled.csv": {
+      "sha256": "abe9cee8513bebfbaa68b7ab485b1780b7e9c49bd188c2f9853c873402c87dfd",
+      "bytes": 1678
+    },
+    "reconciled/reconciliation_summary.json": {
+      "sha256": "0c1a9c5b5cc2b73b0e86c324e89874eba954e2c579ffe679d09ec27a501c9c98",
+      "bytes": 867
+    },
+    "reconciled/response_path_scope_summary.csv": {
+      "sha256": "fbb14f5783cdecad09a46ee3bb47373953a4f9bc8f0634f1bec95f6c9f126e77",
+      "bytes": 182
+    },
+    "tools/reconcile_candidates.py": {
+      "sha256": "c1ffebf9ed69c8b571700caae7f36553fd75073718a6f0b681eec0e9e98dee49",
+      "bytes": 12960
+    },
+    "tools/test_candidates.py": {
+      "sha256": "0745101b103b66b8d5ca3b948dbb96c36e410b04703c9c859c23e2e8c40fe825",
+      "bytes": 3817
+    }
+  }
+}

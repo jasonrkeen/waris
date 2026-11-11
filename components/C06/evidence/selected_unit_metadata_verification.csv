@@ -1,0 +1,5 @@
+codelist_id,agency,version,code,label,response_sha256,basis
+CL_UNITS_OF_MEASURE,SSSU,1.38.3,1090,UAH,ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394,"selected current official same-version metadata, not original export access-date authentication"
+CL_UNIT_MULT_UA,SSSU,1.0.0,6,Millions,ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394,"selected current official same-version metadata, not original export access-date authentication"
+CL_DECIMALS,SSSU,1.0.0,0,Zero,ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394,"selected current official same-version metadata, not original export access-date authentication"
+CL_FREQ,SDMX,2.0.2,A,Annual,ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394,"selected current official same-version metadata, not original export access-date authentication"

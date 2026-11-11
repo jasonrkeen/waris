@@ -1,0 +1,19 @@
+{
+  "review_date_local": "2026-10-20",
+  "selected_benchmark_input_sha256": "37672c64b36896905ad64b63451c544be19cd0df586b481042f1d103eafb16b2",
+  "selected_input_rows": 25,
+  "synthetic_seed": 42,
+  "original_probe_records": 99,
+  "explicit_body_key_associations": 25,
+  "matched_retained_export_observation_values": 450,
+  "preview_only_ambiguous": 48,
+  "preview_only_single_compatible": 4,
+  "no_compatible_body": 22,
+  "historical_HTTP_exchanges_authenticated": 0,
+  "source_data_reacquired_in_this_pass": false,
+  "used_in_scoring": false,
+  "sector_allocation_approved": false,
+  "full_research_release": "blocked",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

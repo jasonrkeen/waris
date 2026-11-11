@@ -1,0 +1,18 @@
+{
+  "candidate": "WARIS-v0.12.0-rc13-release-review-1",
+  "receipt_id": "WARIS-RELEASE-PREP-2b3ed468b0a345afb5e9f4071d24539c",
+  "prepared_at_utc": "2026-10-26T15:12:32.849096+00:00",
+  "parent_candidate_sha256": "271977031988f4b952fd3500b0b17d490a05ed7b25216c87cee61009ec055fcf",
+  "git_metadata_only_override_paths": [
+    "runtime/.gitattributes",
+    "components/C11/.gitattributes"
+  ],
+  "security_route_selected_by_user": "github_private_vulnerability_reporting",
+  "security_reporting_configured": false,
+  "publication_authorized": false,
+  "published": false,
+  "model_code_or_research_data_changed": false,
+  "presentation_source_or_outputs_changed": false,
+  "distribution_and_review_tooling_changed": true,
+  "historical_replay_metadata_restored_only_in_disposable_copies": true
+}

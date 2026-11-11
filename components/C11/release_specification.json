@@ -1,0 +1,37 @@
+{
+  "status": "incomplete_do_not_treat_as_release_run",
+  "release_target": "full research package after all checks",
+  "publication": "not_authorized_or_performed",
+  "candidate": "0.12.0-rc5",
+  "model_version": "0.12.0",
+  "acquisition_policy_version": "nbu-query-repair-1",
+  "seed": 42,
+  "simulation_runs": 5000,
+  "nbu_report_date": "20240101",
+  "acled_event_date_window": null,
+  "acled_export_type": null,
+  "acled_pagination_and_completeness": null,
+  "account_use_entitlement_record": null,
+  "actual_live_input_manifest": null,
+  "frozen_live_run_id": null,
+  "rights_approved_inclusion_list": null,
+  "boundary_controls": {
+    "official_grp": "benchmark_only",
+    "expanded_prozorro": "review_only",
+    "fiu": "national_context_only",
+    "wartime_typologies": "literature_reference_only"
+  },
+  "open_gates": [
+    "fresh private credential configuration and authorized account access",
+    "ACLED derivative/use/attribution and applicable AI/system controls",
+    "selected Prozorro artifact provenance, attribution, privacy and public-data scope review",
+    "Ukrstat snapshot exception/status/unit/provenance and attribution checks",
+    "FIU source-file authentication; annual claims remain excluded unless exact pages verified; preserve quarterly semantic exclusion",
+    "final selected-artifact rights/privacy/lineage approval",
+    "complete frozen live run and full artifact replay",
+    "final PDF/figure attribution and visual QA",
+    "intended-platform CI and independent methodological review"
+  ],
+  "preparation_review_date": "2026-10-18",
+  "annual_report_claim_disposition": "withheld from FIU public context tables pending exact-page verification"
+}

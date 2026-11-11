@@ -1,0 +1,94 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "mandatory_companions": [
+    "README.md",
+    "ATTRIBUTION_AND_RIGHTS.md",
+    "evidence/reconciliation_summary.json"
+  ],
+  "files": {
+    "ATTRIBUTION_AND_RIGHTS.md": {
+      "sha256": "0f38e3e84125c80a6534e70009b68f4e56a39c3c29709e10c2bda61e5b5c45db",
+      "bytes": 2438
+    },
+    "evidence/DSD6_source_receipt.json": {
+      "sha256": "704333c423fd01320b35b116e60c32d90142d7942e730e21ec7df2640a8de10f",
+      "bytes": 405
+    },
+    "evidence/historical_GRP_unit_evidence_reconciled.csv": {
+      "sha256": "5b0b2a759adadc45f3d86d9fa3b91d0894a8b30809edf11e37572cbae737a640",
+      "bytes": 77853
+    },
+    "evidence/license_portal_receipt.json": {
+      "sha256": "616529d4e64c12040c6063d57ec6fa27accc16842b9db95fc2c6e4c16b8231b7",
+      "bytes": 241
+    },
+    "evidence/note_reconciliation.csv": {
+      "sha256": "b2758c7236037924e511ea3bcae3f97462fa0a62138b6e40e8e261d6b88366d5",
+      "bytes": 2539
+    },
+    "evidence/reconciliation_summary.json": {
+      "sha256": "31289c714601b657df0cea293e8319d760888f4d0c15bdda9817cd5965891a19",
+      "bytes": 19411
+    },
+    "evidence/selected_unit_metadata_verification.csv": {
+      "sha256": "926c174537894f8485d5bb959f6d1537a0133fc999813efe639795250b314057",
+      "bytes": 854
+    },
+    "evidence/series_unit_coverage.csv": {
+      "sha256": "0c5c00aa487eab6daa196a9dc4e75e0828038fe160bdc227e7a3b5b8164c3a88",
+      "bytes": 3020
+    },
+    "evidence/validation_check_scope_review.csv": {
+      "sha256": "0b955f49e6113710c1c6cd13d360fcc4e566ace86072f4c149f67dc1836a69e0",
+      "bytes": 3304
+    },
+    "evidence/validation_review_summary.json": {
+      "sha256": "213a5544a69e3adf3692dae88332869f4c2d0da2bc6c694b879e492a48296f27",
+      "bytes": 508
+    },
+    "figures/GRP_2021_chart_data.csv": {
+      "sha256": "f36bfe4f3d0b6e7d2f7341208d4d2653eccf0818b5850d715ffc5d196d30391d",
+      "bytes": 1115
+    },
+    "figures/historical_GRP_source_presence.png": {
+      "sha256": "f1b90713bb34dd5808458dd7433509dbb738c8e181d4a50ec903d21743b93711",
+      "bytes": 83396
+    },
+    "figures/historical_source_state_chart_data.csv": {
+      "sha256": "b962b745ea46f408372e08742620cfcaa9c3a93956930e532ee3db30987230a2",
+      "bytes": 125
+    },
+    "figures/legacy_check_scope_chart_data.csv": {
+      "sha256": "953b6e978a24b92417e242e7d1915a59d6e4d22b1de222fe746bad9e5b6c152e",
+      "bytes": 481
+    },
+    "figures/legacy_validation_check_scope.png": {
+      "sha256": "6a6b04139ee6a286f976ecc3ed73847c9b8f0b97ad24eafbabe66594cd17a2f2",
+      "bytes": 99161
+    },
+    "figures/official_GRP_2021_benchmark.png": {
+      "sha256": "6374767f35e3643491534e70cb7674bd1a82e77344a943605847034d6574ad41",
+      "bytes": 158178
+    },
+    "LICENSE_FIRST_PARTY_CODE.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "PUBLIC_PROVENANCE.json": {
+      "sha256": "d9f397e2a003f9ca50cdb6e578e7dfe4172a49835e1b8f05b942438e92976a82",
+      "bytes": 551
+    },
+    "README.md": {
+      "sha256": "af02b62c33a208aafa0f4e6ce4d894b78e729f18c66065ae6227efafd33dc4b6",
+      "bytes": 3861
+    },
+    "tools/reconcile_units.py": {
+      "sha256": "4ab9ced38755ca768ae9549cf25d5fa0f3c49884590e111bcbc9836ba5bb4020",
+      "bytes": 11205
+    },
+    "tools/test_reconcile_units.py": {
+      "sha256": "121f356396ecb87911effca73d48641cb97a0fbdee94a8abc61564c0e95e2062",
+      "bytes": 4602
+    }
+  }
+}

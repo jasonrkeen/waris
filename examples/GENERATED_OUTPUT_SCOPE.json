@@ -1,0 +1,15 @@
+{
+  "assembly_id": "WARIS-v0.12.0-rc13-assembled-review-1",
+  "date": "2026-10-25",
+  "new_identity": "fresh_rc13_synthetic_engineering_example_not_historical_mixed_scores",
+  "source_baseline": "0.12.0-rc13-methodology-review",
+  "seed": 42,
+  "Monte_Carlo_runs": 5000,
+  "source_network_access": false,
+  "provider_data_or_scoring_integration": false,
+  "all_numeric_fields": "generated synthetic assumptions",
+  "every_CSV_has_data_mode": "synthetic_only",
+  "official_GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "full_research_validation_or_empirical_replay": false
+}

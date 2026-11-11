@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+frozen_study/
+reference_fetches/
+outputs/
+*_PRIVATE.json

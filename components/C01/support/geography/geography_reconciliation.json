@@ -1,0 +1,14 @@
+{
+  "historical_artifact_sha256": "530f229292389c6d2b11ef566608894623801943ab98eb6ab140c564fe3c3e17",
+  "official_top_level_records": 27,
+  "waris_code_name_pairs_verified": 25,
+  "source_workbook_sha256": "5c5317759b2b90208e9b00338bc3db3c5e694272a166acf73f1543b3e18ecbea",
+  "excluded_from_WARIS_universe": [
+    "Crimea",
+    "Sevastopol"
+  ],
+  "scope": "mapping-control documentation only; no historical boundary, sector or scoring approval",
+  "source_header_base_edition": "2024-01-19 order 48",
+  "landing_link_label": "2026-07-07; retained October 20, 2026",
+  "historical_http_acquisition_recovered": false
+}

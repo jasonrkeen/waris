@@ -1,0 +1,17 @@
+{
+  "candidate": "WARIS-v0.12.0-rc13-report-dashboard-review-1",
+  "presentation_build_id": "WARIS-rc13-controlled-report-dashboard-1",
+  "build_receipt_id": "WARIS-PRESENTATION-5114b24d6d6a484cbefeccd6999d8362",
+  "built_at_utc": "2026-10-26T02:55:41.514368+00:00",
+  "date_local": "2026-10-25",
+  "parent_candidate_sha256": "6df4c8c3ca5dbd19afce8ab1acdd61baeb593f3943ed60e9dfffb6b54f481272",
+  "parent_model_code_unchanged": true,
+  "data_contract_sha256": "3d185175cd8f97ff9b3a71131015b63e2cd971194abbea217132b67efe0b9929",
+  "report_sha256": "5a757d3536709018022b212c433696b4c83a7e1c8c36be8ad9c095dab71db686",
+  "new_report_pages": 9,
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "new_acquisition": false,
+  "legacy_live_pipeline_executed": false,
+  "publication_or_push": false
+}

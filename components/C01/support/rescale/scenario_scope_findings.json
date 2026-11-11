@@ -1,0 +1,17 @@
+{
+  "current_revenue_fields_reproduced_from_fresh_seed42": true,
+  "current_revenue_is_synthetic_not_observed": true,
+  "rescale_numeric_cells_matched": 1200,
+  "max_absolute_difference": 2.2737367544323206e-13,
+  "replacement_numeric_current_scores": 25,
+  "replacement_scores_match_retained_mixed_scored_table": true,
+  "raw_synthetic_loader_score_means_missing": true,
+  "historical_input_selection_or_execution_authenticated": false,
+  "synthetic_sector_shares_are_not_observed_sector_economic_shares": true,
+  "official_GRP_row_relabel_is_not_score_replacement": true,
+  "legacy_unequal_support_denominator_relative_change": -0.03257734121514555,
+  "strict_projection_rejects_unequal_support": true,
+  "legacy_review_overwrites_true_scoring_flags": true,
+  "production_scoring_changed": false,
+  "unverified_FIU_claims": "excluded"
+}

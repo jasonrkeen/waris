@@ -1,0 +1,210 @@
+{
+  "code_baseline": "0.12.0-rc13-methodology-review",
+  "documentation_baseline": "0.12.0-rc13-docs-review-1",
+  "current_source_bundle": "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip",
+  "dependency_source_zips": {
+    "WARIS_Cleared_Research_Supplements_2026-10-18.zip": {
+      "sha256": "9c016721fad0a27d0c77a513f466f586c512d890290c849b422cf5b53fa4235f",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip": {
+      "sha256": "e20c8be3651c66b3aef62e2e40c2a65f55319e6c526617adbfab1a97f285ff3a",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip": {
+      "sha256": "901eb9b0772e12f192376b136faac51ee8d53de3601fc6b873be0bb43992d043",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Geography_Control_2026-10-20.zip": {
+      "sha256": "6e521adb6736e3883840b89a92992655dabefb9b157f591ec698ca09360fc2ad",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Procurement_Metadata_Supplement_2026-10-20.zip": {
+      "sha256": "f02468f6269d599a6590148e33265c18e44db04ffe2e938aa7d62c553035efb1",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Mixed_Metadata_SFMS_Supplement_2026-10-22.zip": {
+      "sha256": "125a4e2ee145b087e1e8b2769ab153708c4b2fd61ab8d2b731e0fd8b369f0787",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip": {
+      "sha256": "d714b5008aa80c2cdb789d0ec1eccaa3ca0e36ebbc3520fcfa94ff526b67aa72",
+      "role": "Dated reviewed source of the specifically selected companion; no blanket inclusion of other ZIP members."
+    },
+    "WARIS_Cleared_Historical_GRP_Validation_Supplement_2026-10-20.zip": {
+      "sha256": "a7ade1d02e88ce276eac41df5102418f731c3c2772f0ba18954c2bc25add2ca0",
+      "role": "Source of selected 42-row unit/notes projection; not a bulk-export inclusion."
+    },
+    "WARIS-v0.12.0-rc13-docs-review-1.zip": {
+      "sha256": "64b635f93b164e6f3e859b7c5c67f4436c9e0339b0e5cea79b5022aa444c4158",
+      "role": "Exact unchanged rc13 runtime and documentation baseline, bundled for the first-party source/config companion. Nested baseline carries its own manifest/history and is not a new runtime version."
+    }
+  },
+  "copied_or_projected_support_files": [
+    {
+      "path": "support/grp/selected_2021_observations.csv",
+      "source_zip": "WARIS_Cleared_Research_Supplements_2026-10-18.zip",
+      "source_member": "WARIS_Cleared_Research_Supplements_2026-10-18/grp/ukrstat_GRP_2021_benchmark_2026-10-18.csv",
+      "sha256": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/grp/acquisition_receipt_2026-10-18.json",
+      "source_zip": "WARIS_Cleared_Research_Supplements_2026-10-18.zip",
+      "source_member": "WARIS_Cleared_Research_Supplements_2026-10-18/grp/acquisition_receipt.json",
+      "sha256": "cb994c3f84795e89710d84ea995e8334b48748af3eef7552414d10a4e7a3ad4c",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/typed/confirmed_series_reconciled.csv",
+      "source_zip": "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Candidate_Parser_Availability_Supplement/reconciled/confirmed_series_reconciled.csv",
+      "sha256": "3e52960d40139248a95184c92fd787c3d19f34deddba994d0451b9bf00158b71",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/typed/oblast_candidates_reconciled.csv",
+      "source_zip": "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Candidate_Parser_Availability_Supplement/reconciled/oblast_candidates_reconciled.csv",
+      "sha256": "50dce11484f8029b585886843640bc5848efce5847ff9505ec17fe33551f346e",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/typed/dated_attribution_2026-10-20.md",
+      "source_zip": "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Candidate_Parser_Availability_Supplement/ATTRIBUTION_AND_RIGHTS.md",
+      "sha256": "01ad1e52fdaffaa1ed1072336e0c1fb6db3bb4f226f82cbecd2dced2295f8ee9",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/typed/dated_provenance_2026-10-20.json",
+      "source_zip": "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Candidate_Parser_Availability_Supplement/PUBLIC_PROVENANCE.json",
+      "sha256": "28b7f66d9bbe7310bca697918248bbb7f6b9d2d0ed88a0988e069c719181add7",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/metadata/metadata_reference_verification.csv",
+      "source_zip": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement/metadata/metadata_reference_verification.csv",
+      "sha256": "2521552166649200b7150331d631e1a10cbb4dd21105eb98a2d1bd4e1695853d",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/metadata/selected_source_receipts.json",
+      "source_zip": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement/metadata/selected_source_receipts.json",
+      "sha256": "bed0beea725f9bb3fc0e73aa71959f772f5cb84a9ede810f5dfd057e55ee5239",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/metadata/license_portal_receipt.json",
+      "source_zip": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement/metadata/license_portal_receipt.json",
+      "sha256": "616529d4e64c12040c6063d57ec6fa27accc16842b9db95fc2c6e4c16b8231b7",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/geography/verified_top_level_geography_20261020.csv",
+      "source_zip": "WARIS_Cleared_Geography_Control_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Geography_Control/verified_top_level_geography_20261020.csv",
+      "sha256": "9a6121f4ea9e8cf823a27108046f7863705eeb8e70d8ee0d79d6a9eb416d95c9",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/geography/geography_reconciliation.json",
+      "source_zip": "WARIS_Cleared_Geography_Control_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Geography_Control/geography_reconciliation.json",
+      "sha256": "24c4a18b9658c5a9fe91ccccf3a41d8e08c5e5cc315eb08b005756ead2261447",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/geography/dated_scope_2026-10-20.md",
+      "source_zip": "WARIS_Cleared_Geography_Control_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Geography_Control/README.md",
+      "sha256": "60f9dc142f4773ab7bde4e5cd5ca76c4599565e2eeeb96404cedc71fd7e9185a",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/query/metadata_verification.csv",
+      "source_zip": "WARIS_Cleared_Procurement_Metadata_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Procurement_Metadata_Supplement/metadata/metadata_verification.csv",
+      "sha256": "af95997ad892fd7facf06765764a47be2631b0e57aab071853eeb3c016de658d",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/query/metadata_reconciliation.json",
+      "source_zip": "WARIS_Cleared_Procurement_Metadata_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Procurement_Metadata_Supplement/metadata/metadata_reconciliation.json",
+      "sha256": "c668532788d0e647be0c00110bb48efed2c6b99de3f80e47accae918c75d0517",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/workflow/qualified_operational_recount.json",
+      "source_zip": "WARIS_Cleared_Mixed_Metadata_SFMS_Supplement_2026-10-22.zip",
+      "source_member": "reviewed/qualified_operational_recount.json",
+      "sha256": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/operational/operational_recount.json",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "source_member": "WARIS_Cleared_Operational_Scenario_Supplement/reviewed/operational_recount.json",
+      "sha256": "23c83cd9de185703c25c9a1318beec493421b15ff782a7606a3827c6cf553bfc",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/operational/operational_claims_reviewed.csv",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "source_member": "WARIS_Cleared_Operational_Scenario_Supplement/reviewed/operational_claims_reviewed.csv",
+      "sha256": "7c1a3029417ff86969efe50fc2fa5d7fffa8099f8a4764eb7787ed338e65ae67",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/rescale/rescale_arithmetic_reconstruction.csv",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "source_member": "WARIS_Cleared_Operational_Scenario_Supplement/reviewed/rescale_arithmetic_reconstruction.csv",
+      "sha256": "906570ea0d5072d2353a3d6585c6fa06935d809e75f6b15492c32d54365f355a",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/rescale/synthetic_seed42_inputs.csv",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "source_member": "WARIS_Cleared_Operational_Scenario_Supplement/reviewed/synthetic_seed42_inputs.csv",
+      "sha256": "d4bfdd69ff8383e59b063cea32d3327dcac523dfaac7e52bf8a6fb917c69e01c",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/rescale/scenario_scope_findings.json",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "source_member": "WARIS_Cleared_Operational_Scenario_Supplement/reviewed/scenario_scope_findings.json",
+      "sha256": "1c7e086590c88500193cf4a78b2bb3e367b53ce38c8f646159b85fae985d12f2",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/benchmark/independent_benchmark_reconstruction.csv",
+      "source_zip": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement/benchmark/independent_benchmark_reconstruction.csv",
+      "sha256": "37672c64b36896905ad64b63451c544be19cd0df586b481042f1d103eafb16b2",
+      "copied_unchanged": true
+    },
+    {
+      "path": "support/grp/selected_historical_note_unit_projection.csv",
+      "source_zip": "WARIS_Cleared_Historical_GRP_Validation_Supplement_2026-10-20.zip",
+      "source_member": "WARIS_Cleared_Historical_GRP_Validation_Supplement/evidence/historical_GRP_unit_evidence_reconciled.csv",
+      "transformation": "Select Dnipropetrovsk 18-year series and 2021 WARIS regions; overlapping row once; retain all columns/notes.",
+      "source_rows": 488,
+      "selected_rows": 42,
+      "sha256": "6c34a6d93c689d05b0e258991632a9e3f4f7457e14e18f85aa2794ae201d3987"
+    },
+    {
+      "path": "LICENSE_FIRST_PARTY_METHODS.txt",
+      "source_zip": "WARIS_Cleared_Research_Supplements_2026-10-18.zip",
+      "source_member": "WARIS_Cleared_Research_Supplements_2026-10-18/LICENSE_CODE_AND_FIRST_PARTY_METHODS.txt",
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "copied_unchanged": true
+    }
+  ],
+  "prior_reviews_not_refreshed": true,
+  "original_provider_acquisition_authentication": "not_established"
+}

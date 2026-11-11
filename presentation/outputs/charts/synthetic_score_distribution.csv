@@ -1,0 +1,11 @@
+score_bin_lower,score_bin_upper,synthetic_rows,data_mode
+0,10,0,synthetic_only
+10,20,3,synthetic_only
+20,30,21,synthetic_only
+30,40,41,synthetic_only
+40,50,59,synthetic_only
+50,60,23,synthetic_only
+60,70,3,synthetic_only
+70,80,0,synthetic_only
+80,90,0,synthetic_only
+90,100,0,synthetic_only

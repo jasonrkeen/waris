@@ -1,0 +1,66 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "mandatory_companions": [
+    "README.md",
+    "ATTRIBUTION_AND_RIGHTS.md",
+    "PUBLIC_PROVENANCE.json"
+  ],
+  "files": {
+    "ATTRIBUTION_AND_RIGHTS.md": {
+      "sha256": "ecaa2c893b5781524e7cd4845a99c49c8f4cff677bbabb00924f5e75c8999f69",
+      "bytes": 2206
+    },
+    "LICENSE_FIRST_PARTY_CODE.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "PUBLIC_PROVENANCE.json": {
+      "sha256": "a65ab57f07f42616d1f23718b12dce8f9db1513a7f9e71c3fce82cec5b824fab",
+      "bytes": 713
+    },
+    "README.md": {
+      "sha256": "dc60236e25d37d5914537a801fbe86aa7383ea34530318dfc15cd81ae228ceb5",
+      "bytes": 3254
+    },
+    "review/benchmark_review_memo_reconciled.md": {
+      "sha256": "ed1543aac358b1fc0709a5170457213f898f03a0f2a98493e16627f8e715fe2d",
+      "bytes": 3684
+    },
+    "review/gap_review_reconciled.csv": {
+      "sha256": "5f8ba725006461e648de378112716f38b832545105603d75ec5116becfd00a2d",
+      "bytes": 9842
+    },
+    "review/gap_summary.json": {
+      "sha256": "687e31ac32c532e1e8a63a38dbe2387ed90dbfb6024ce2912cf962f3c72470f9",
+      "bytes": 715
+    },
+    "review/merge_review_summary_reconciled.csv": {
+      "sha256": "56f653290d952cc5ddd1457d0a1fff2480781804ae84930c5449f47481632426",
+      "bytes": 1645
+    },
+    "review/probe_provenance_summary.csv": {
+      "sha256": "cbf4e2bd142c7b2ecfed689488d05449e0b1c715afa5c0613f42a9e86ff91490",
+      "bytes": 1864
+    },
+    "review/reviewed_benchmark_input.csv": {
+      "sha256": "37672c64b36896905ad64b63451c544be19cd0df586b481042f1d103eafb16b2",
+      "bytes": 5102
+    },
+    "review/scenario_posture_reviewed.csv": {
+      "sha256": "9a3a1546e2115f78039b402f8f9b8a7875ae974137af16acd2191564f2e5ad3d",
+      "bytes": 1908
+    },
+    "tools/replay_public_gap.py": {
+      "sha256": "b6b0593202d92a499f2b5f30d276e89db35b9b85e8e52cb0e2b0feaa06945a39",
+      "bytes": 556
+    },
+    "tools/review_methods.py": {
+      "sha256": "8634f8e6a943262b4884c4be28197cd6aa58cbaf240a4947b32a816fe171fcab",
+      "bytes": 8992
+    },
+    "tools/test_review_methods.py": {
+      "sha256": "e91715fab3a770dc556025c2a9ed604d9ae0fc46f6e9e31499ab805f629e843f",
+      "bytes": 3061
+    }
+  }
+}

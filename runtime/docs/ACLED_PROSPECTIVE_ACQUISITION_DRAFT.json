@@ -1,0 +1,38 @@
+{
+  "status": "draft_not_executed_not_a_historical_receipt",
+  "provider": "ACLED",
+  "account_context": "personal_research_academic_user_confirmed",
+  "download_authorized_by_this_document": false,
+  "historical_source_authenticated_by_this_document": false,
+  "before_execution": [
+    "Review applicable account/use conditions and intended outputs",
+    "Freeze the new acquisition scope and protocol separately from historical WARIS",
+    "Define whether collection is a bounded page sample or a complete frame",
+    "Do not replace missing historical dates or receipts with the new acquisition"
+  ],
+  "retained_code_recipe_not_execution_proof": {
+    "endpoint": "https://acleddata.com/api/acled/read",
+    "country": "Ukraine",
+    "event_types": ["Battles", "Explosions/Remote violence", "Violence against civilians", "Riots", "Protests", "Strategic developments"],
+    "fields": ["event_id_cnty", "event_date", "year", "event_type", "sub_event_type", "country", "admin1", "admin2", "location", "latitude", "longitude", "fatalities"],
+    "page": 1,
+    "limit": 5000,
+    "with_total": true,
+    "date_filter": null,
+    "coverage": "unverified_bounded_request_recipe_not_complete_Ukraine_frame"
+  },
+  "receipt_fields_for_an_actual_future_execution": [
+    "UTC request start and response completion",
+    "Endpoint and explicit nonsecret query parameters",
+    "HTTP status and allowlisted nonsecret response metadata",
+    "Private response-body hash and private normalized-file hash, distinguished",
+    "Rows returned, total if supplied, page/cursor and termination evidence",
+    "Duplicate identifiers and exclusion/mapping counts without public identifiers",
+    "Observation date bounds separately from acquisition UTC",
+    "Applicable terms snapshot locator/hash and account-context evidence reference",
+    "Coverage limitations, study protocol hash and source-separation posture"
+  ],
+  "never_record_or_bundle": ["passwords", "access or refresh tokens", "Authorization headers", "cookies", "raw event records in public releases"],
+  "GRP_posture": "benchmark_only",
+  "unverified_FIU_claims": "excluded"
+}

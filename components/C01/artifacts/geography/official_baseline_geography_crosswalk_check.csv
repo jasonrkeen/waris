@@ -1,0 +1,26 @@
+waris_oblast,ukrstat_oblast,region_code,mapping_status,coverage_status,notes
+Cherkasy,Cherkaska,UA71000000000010357,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Chernihiv,Chernihivska,UA74000000000025378,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Chernivtsi,Chernivetska,UA73000000000044923,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Dnipropetrovsk,Dnipropetrovska,UA12000000000090473,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Donetsk,Donetska,UA14000000000091971,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Ivano-Frankivsk,Ivano-Frankivska,UA26000000000069363,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Kharkiv,Kharkivska,UA63000000000041885,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Kherson,Khersonska,UA65000000000030969,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Khmelnytskyi,Khmelnytska,UA68000000000099709,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Kirovohrad,Kirovohradska,UA35000000000016081,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Kyiv,Kyivska,UA32000000000030281,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Luhansk,Luhanska,UA44000000000018893,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Lviv,Lvivska,UA46000000000026241,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Mykolaiv,Mykolaivska,UA48000000000039575,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Odesa,Odeska,UA51000000000030770,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Poltava,Poltavska,UA53000000000028050,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Rivne,Rivnenska,UA56000000000066151,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Sumy,Sumska,UA59000000000057109,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Ternopil,Ternopilska,UA61000000000060328,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Vinnytsia,Vinnytska,UA05000000000010236,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Volyn,Volynska,UA07000000000024379,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Zakarpattia,Zakarpatska,UA21000000000011690,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Zaporizhzhia,Zaporizka,UA23000000000064947,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Zhytomyr,Zhytomyrska,UA18000000000041385,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.
+Kyiv City,Kyiv,UA80000000000093317,mapped_to_expected_waris_oblast,single_candidate_row,Official Ukrstat candidate maps to expected WARIS geography. Still requires region-code and KATOTTG validation.

@@ -1,0 +1,21 @@
+{
+  "confirmed_numeric_values_matched": 18,
+  "single_oblast_latest_candidate_matched": 1,
+  "oblast_latest_candidates_matched": 25,
+  "selected_retained_series_observations_decoded": 450,
+  "availability_component_values_matched": 58,
+  "availability_boundary_annotations_matched": 2,
+  "availability_rows_matched": 60,
+  "component_include_flags": "false as supplied; no positive selector inferred",
+  "availability_end_is_not_observed_year": true,
+  "bulk_imported_code_rows_matched": 32934,
+  "bulk_codelist_groups": 4,
+  "response_leaf_paths_matched": 77,
+  "response_observation_values": 0,
+  "source_period_labels_read_directly": true,
+  "availability_period_fallback_used": false,
+  "source_request_time_authenticated": false,
+  "production_scoring_changed": false,
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

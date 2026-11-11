@@ -1,0 +1,74 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "scope": "MIT code and methods; provider data excluded",
+  "files": {
+    ".gitignore": {
+      "sha256": "2b3137bc6a4ea5afb0de5f2fc01f5064d4fe25849b5c7edab360b0803e397bcd",
+      "bytes": 143
+    },
+    "capture_prozorro_sample.py": {
+      "sha256": "b8e1ad793cee0257f0fa919beec1b151089dc16bcd52be0f7244521895074b1e",
+      "bytes": 5678
+    },
+    "extract_geography.py": {
+      "sha256": "e21bd95e3ef966a7cf6c3318da4e2ac172433ac4cc0e13ac0f965f65815b9e5f",
+      "bytes": 1888
+    },
+    "frame_study.py": {
+      "sha256": "acd8cf89151c38097a0d597929460e304a77bd21a09647a246d63f37c4df4cfa",
+      "bytes": 16699
+    },
+    "freeze.json": {
+      "sha256": "854a8f87f5b1b58853a56de57b7b83d8e9017ddad34a88201f3af1f3ff75fadf",
+      "bytes": 449
+    },
+    "LICENSE": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "lot_study.py": {
+      "sha256": "f3dfe8a3bf893ec17f75f675981e2240d550d607c66cfb8ea0fb2e6afd535874",
+      "bytes": 14905
+    },
+    "README.md": {
+      "sha256": "a08dec88e2bde97dc987425521e96813d0b6a7f5399f44ca342c853ab55f9d97",
+      "bytes": 4766
+    },
+    "requirements-dev.txt": {
+      "sha256": "acbf3637343b1c81c6becc55bc03673e49f216b97c5516030ecf3cf102a47acd",
+      "bytes": 186
+    },
+    "requirements.lock.txt": {
+      "sha256": "73d4817e63405a50e324d2acf6e0e7a16e6c129bc6c5f0dbd7bea10496d07f23",
+      "bytes": 909
+    },
+    "requirements.txt": {
+      "sha256": "f3fbb1804dd6e627133e97faf8b3aa5d733cdaff934dd8d6998d1e2e4a567be3",
+      "bytes": 207
+    },
+    "study_plan.json": {
+      "sha256": "a63ccf9b2071d363dd81e5b609cc767e17c7ca1777b4e1d3c681fb413d3ef8a6",
+      "bytes": 3304
+    },
+    "test_frame_study.py": {
+      "sha256": "b70f4aff0898d3efcb52e0db5e74c7f8652617dc1e183e519a5809bcc91f1176",
+      "bytes": 5151
+    },
+    "test_geography.py": {
+      "sha256": "385be7b03dcbe295e636473b40691342113e7bc65610f4cfd22fd9f9e3d7dbec",
+      "bytes": 927
+    },
+    "test_lot_study.py": {
+      "sha256": "d066bd2a1c880be20d19f34c1c77afda0034d8cf9a459f7a3feab2d07413241b",
+      "bytes": 7644
+    },
+    "verify_geography.py": {
+      "sha256": "8480401867aabd38aa70eaa9cdaf6d70048353942c1bdddd4a47e55c21a212c5",
+      "bytes": 3889
+    },
+    "verify_local.py": {
+      "sha256": "d1276b5540446a5a3ae7c9bae9c7894e85923b6fc99d5d114986517f8f326585",
+      "bytes": 1727
+    }
+  }
+}

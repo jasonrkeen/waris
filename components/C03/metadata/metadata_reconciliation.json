@@ -1,0 +1,11 @@
+{
+  "historical_artifact_sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+  "rows": 67,
+  "metadata_rows_exactly_matched": 64,
+  "first_party_proposed_periods": 3,
+  "new_retrieval_authenticates_historical_request": false,
+  "observation_availability_or_scoring_approval": false,
+  "source_scope": "Selected code/name/description facts plus first-party shortlist; no bulk codelists or statistical values bundled",
+  "frequency_namespace_correction": "Initial SSSU lookup returned 204; agency SDMX identified from retained DSD and verified with 200. Original failed receipt preserved.",
+  "source_license_basis": "Ukrstat portal default CC BY 4.0 for selected metadata; original provider/agency attribution retained, no selected metadata exception identified."
+}

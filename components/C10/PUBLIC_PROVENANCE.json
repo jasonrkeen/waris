@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-22",
+  "full_research_release": "blocked",
+  "historical_CSVs": 3,
+  "SFMS_selected_facts_rows": 10,
+  "SFMS_source_verification": "current_official_PDF_extracted_text_only",
+  "local_PDF_hash_available": false,
+  "annual_FIU_claims_included": false,
+  "GRP": "benchmark_only",
+  "mixed_scores_included": false,
+  "raw_provider_files_included": false,
+  "source_candidate_changed": false,
+  "published_or_pushed": false
+}

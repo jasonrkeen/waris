@@ -1,0 +1,8 @@
+# Tested on Python 3.12; complete resolved environment in requirements.lock.txt
+pandas==3.0.6
+numpy==2.5.4
+matplotlib==3.11.2
+reportlab==5.0.1
+requests==2.34.2
+streamlit==1.65.0
+python-dotenv==1.2.4

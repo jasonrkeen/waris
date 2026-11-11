@@ -1,0 +1,13 @@
+{
+  "review_date_local": "2026-10-20",
+  "four_historical_CSVs_copied_unchanged": true,
+  "typed_projection_new_artifact": true,
+  "benchmark_input_scope": "25 official 2021 GRP observations and seed42 synthetic prewar fields only",
+  "metadata_identity_and_title_records": 19,
+  "original_historical_HTTP_authenticated": false,
+  "sector_allocation_approved": false,
+  "used_in_scoring": false,
+  "unverified_FIU_claims": "excluded",
+  "full_research_release": "blocked",
+  "publication_or_push": false
+}

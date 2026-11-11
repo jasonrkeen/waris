@@ -1,0 +1,102 @@
+crosswalk_type,waris_sector,keyword,current_use_in_scoring,notes
+sector_keyword,Agriculture and grain trade,grain,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,wheat,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,corn,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,sunflower,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,agriculture,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,seed,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,fertilizer,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,зерн,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,пшени,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,кукуруд,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,соняш,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,сільськ,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,насін,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Agriculture and grain trade,добрив,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,construction,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,reconstruction,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,repair,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,restoration,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,building,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,road,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,bridge,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,housing,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,infrastructure,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,будівниц,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,ремонт,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,віднов,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,реконструк,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,дорог,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,міст,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,житл,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Construction and reconstruction,інфраструкт,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,fuel,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,diesel,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,gasoline,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,logistics,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,transport,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,freight,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,vehicle,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,oil,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,бензин,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,дизель,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,палив,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,логіст,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,транспорт,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,перевез,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Fuel and logistics,нафт,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,food,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,consumer,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,retail,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,clothing,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,medicine,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,supplies,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,продукт,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,спожив,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,роздріб,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,одяг,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,медикамент,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Retail and consumer goods,постач,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,bank,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,payment,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,financial,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,insurance,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,audit,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,accounting,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,банк,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,платіж,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,фінанс,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,страх,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,аудит,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Financial and payment services,бухгалтер,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,defense,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,military,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,security,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,uniform,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,protective,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,equipment,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,drone,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,vehicle repair,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,оборон,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,військ,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,безпек,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,форма,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,захис,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,обладнан,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+sector_keyword,Defense-adjacent manufacturing,дрон,not_a_scoring_field,Supports review of conservative keyword mapping used by expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,reconstruction,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,restoration,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,repair,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,recovery,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,emergency,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,critical infrastructure,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,shelter,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,damage,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,віднов,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,реконструк,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,ремонт,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,аварі,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,надзвичай,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,критич,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,укрит,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.
+reconstruction_emergency_keyword,cross_sector_indicator,пошкод,not_a_scoring_field,Supports review of reconstruction/emergency keyword exposure in expanded Prozorro procurement feature artifacts.

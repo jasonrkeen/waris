@@ -1,0 +1,304 @@
+{
+  "package_id": "WARIS-rc13-selected-appendix-review-1",
+  "date": "2026-10-23",
+  "self_hash_excluded": true,
+  "full_research_release": "blocked",
+  "files": {
+    "artifacts/benchmark/official_baseline_benchmark_comparison.csv": {
+      "sha256": "e11c34ac1b4496b60d1366c87d248ac9e6cdc15bbb0eba7db797b82c29ed395a",
+      "bytes": 11953
+    },
+    "artifacts/benchmark/official_baseline_period_coverage.csv": {
+      "sha256": "2480d005bae60a48b81863ac896aed9f49ac701b2ddcd88202c48d26c7cc5806",
+      "bytes": 318
+    },
+    "artifacts/geography/official_baseline_geography_crosswalk_check.csv": {
+      "sha256": "530f229292389c6d2b11ef566608894623801943ab98eb6ab140c564fe3c3e17",
+      "bytes": 5225
+    },
+    "artifacts/historical_extraction/ukrstat_confirmed_oblast_baseline_candidates.csv": {
+      "sha256": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+      "bytes": 2750
+    },
+    "artifacts/historical_extraction/ukrstat_confirmed_series_parsed.csv": {
+      "sha256": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+      "bytes": 12311
+    },
+    "artifacts/historical_extraction/ukrstat_oblast_baseline_candidates.csv": {
+      "sha256": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911",
+      "bytes": 48980
+    },
+    "artifacts/illustrative_scenario/official_baseline_rescale_scenario.csv": {
+      "sha256": "fa3d58f9eb07ddf0bd29ef9d17c6b10a1ee0a7b147d2496a9d2c02e92f2d92aa",
+      "bytes": 69812
+    },
+    "artifacts/metadata/ukrstat_observation_query_candidates.csv": {
+      "sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+      "bytes": 29080
+    },
+    "artifacts/metadata/ukrstat_regional_accounts_metadata_clues.csv": {
+      "sha256": "366e2bd2dab2de2fb7c85c10b9cdd25867de7c429304878b4e2919214bb8db55",
+      "bytes": 1689
+    },
+    "artifacts/metadata/ukrstat_registry_references.csv": {
+      "sha256": "e16cb2a2b7373e38cd51b32c4ade7d4db540568ded6608bfbcd2e67007dc0043",
+      "bytes": 3535
+    },
+    "artifacts/methods/false_positive_risk_register.csv": {
+      "sha256": "577b33283a4667c035698cee1c87c7a301747503572832282706ed3cf0e1623f",
+      "bytes": 4112
+    },
+    "artifacts/methods/model_monitoring_plan.csv": {
+      "sha256": "74b34b4756191e7be57442dd973af2fc0238635c32796bd2a754ab8a48ef27eb",
+      "bytes": 7935
+    },
+    "artifacts/methods/oblast_name_crosswalk.csv": {
+      "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+      "bytes": 4181
+    },
+    "artifacts/methods/operational_review_artifact_crosswalk.csv": {
+      "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+      "bytes": 5462
+    },
+    "artifacts/methods/prozorro_procurement_crosswalk.csv": {
+      "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+      "bytes": 18591
+    },
+    "artifacts/operational/official_baseline_operational_controls_context_bridge.csv": {
+      "sha256": "6743766a40c03c19b073762b6479a6cf83ab4775fdae51ab7a5148c9506a27c2",
+      "bytes": 2595
+    },
+    "artifacts/synthetic/synthetic_oblast_sector_inputs.csv": {
+      "sha256": "539bc3cf8c0f3b186e168acdc27f91a3f451a08c8a6d35e5214fdda752129029",
+      "bytes": 27646
+    },
+    "artifacts/workflow/analyst_review_summary.csv": {
+      "sha256": "ed8dad38db1c5022d98349afdfa175aaac76c905a76f248eb8c30a4c7746744f",
+      "bytes": 983
+    },
+    "artifacts/workflow/false_positive_controls.csv": {
+      "sha256": "5221e02c4d3eed674fd4081a007cfa01aa0b91c6b2819f6af2a349f4b276cd3a",
+      "bytes": 2809
+    },
+    "artifacts/workflow/false_positive_summary.csv": {
+      "sha256": "674cb3f41fedd36d8a4b3a834c5e503ad7c5d583067b1ed2102a4b149b6171b8",
+      "bytes": 1109
+    },
+    "ATTRIBUTION_AND_SCOPE.md": {
+      "sha256": "e9bafcefd3e2a6c192ee6918b20d0683dd8bd258edaf2c8979e28c2f12227606",
+      "bytes": 3659
+    },
+    "companions/A01.md": {
+      "sha256": "ac233b2c3212a1156df3e761996275c8c8e119a4f410d3c2b73b1dbd90aff016",
+      "bytes": 2735
+    },
+    "companions/A02.md": {
+      "sha256": "162c5f3764d6d554dbd2c4f61a7a27db124d6f6a396860e498641cf9c5ebd4fd",
+      "bytes": 2437
+    },
+    "companions/A03.md": {
+      "sha256": "a2284d13f7f340a68982d4ec09e5f67970c5375fb8a9f2899975afbfcf21c9d0",
+      "bytes": 2376
+    },
+    "companions/A04.md": {
+      "sha256": "3ec9f9d71a42875e0d933d0119849dc98f2476e17b95bb0b4a50a0a5d3d1de32",
+      "bytes": 2501
+    },
+    "companions/A05.md": {
+      "sha256": "db00a5a6d9549ac4e5ac1690a13c1ee24cbfa277c316f6bb985da2cb84213c65",
+      "bytes": 2504
+    },
+    "companions/A06.md": {
+      "sha256": "3518d8375c7d47882955e6a98cde4947d450c8fb1fa733674baa4c7445e929c0",
+      "bytes": 2508
+    },
+    "companions/A07.md": {
+      "sha256": "9e64d4606d55014bdd80af69019c4bd91e47bf7a86dd70ab96533680a9d9511c",
+      "bytes": 2298
+    },
+    "companions/A08.md": {
+      "sha256": "daf9d0384ec298cfb10817391936e355a635d6cea0b63e1423f97cd4b6d8f291",
+      "bytes": 2410
+    },
+    "companions/A09.md": {
+      "sha256": "cea205ac514199ab089b7c565a1d5d2adffc5ee30313df51f0a68b4d3ea3cec2",
+      "bytes": 2277
+    },
+    "companions/A10.md": {
+      "sha256": "2cf64023006468caecb8e68c2a8eb13ec272646b67f6f71b5dbece01b94d8876",
+      "bytes": 2915
+    },
+    "companions/A11.md": {
+      "sha256": "22495c890b1c5444845832381207e5d93c0f3c22e2c07d652f035ae4aee3c807",
+      "bytes": 2788
+    },
+    "companions/A12.md": {
+      "sha256": "2d2f07d2efe74ebfdc564aab1144115a106eff14f0be2ce250517e291c015a57",
+      "bytes": 3292
+    },
+    "companions/A13.md": {
+      "sha256": "d430320e1ab492ea7062a85c5dbb7c1fb654dc2f16316cdf88c4e595818f0aca",
+      "bytes": 2748
+    },
+    "companions/A14.md": {
+      "sha256": "b6ac3460f94a4f1c4b3077267bb9c64139fb5cdd7379f0cba5b765ecd02d06ed",
+      "bytes": 3268
+    },
+    "companions/A15.md": {
+      "sha256": "7bce7bb83474cea7840cda3e7ca55a74976a4bb2188118fb0ee40a39df7c17f6",
+      "bytes": 3288
+    },
+    "companions/A16.md": {
+      "sha256": "f1107f81fc97726a207c66eaa75c530174ff0fcbf5c81ad28cae7dcad75934bc",
+      "bytes": 3234
+    },
+    "companions/A17.md": {
+      "sha256": "1092196daf3b0a532aeb467e6c146b77cd2b52827d2acb3c4ffa1fde8649c874",
+      "bytes": 3197
+    },
+    "companions/A18.md": {
+      "sha256": "262b7f8ae40026c4f01a5371890502420e6467c3fd0a63f6f97cad9ab3560fec",
+      "bytes": 2602
+    },
+    "companions/A19.md": {
+      "sha256": "c5d81cd055222063b3bf34b2d50bfb382f9cd7ca339ff51ac028eb2ee0e161ee",
+      "bytes": 2698
+    },
+    "companions/A20.md": {
+      "sha256": "a99ed73e0f3e5f87c546462dd26658a308d4f8b8933d8fcc8d9142ad4dd8a921",
+      "bytes": 2693
+    },
+    "EXCLUDED_HISTORICAL_FILES.csv": {
+      "sha256": "1392c5ddaf2c13c1c23f5950f51f9dbdec96a0cc247177530f7d0f1fac3f5122",
+      "bytes": 23425
+    },
+    "FULL_RELEASE_COMPONENT_PLAN.md": {
+      "sha256": "20d680baee33b5866d740e148b704869608ea0a51a7e6345c85959be266af434",
+      "bytes": 2094
+    },
+    "INCLUSION_LIST.csv": {
+      "sha256": "97ed4cb06248cb26f8798e2d1cb849eeba9037bafc297beac2bcb74a35efbf3c",
+      "bytes": 6002
+    },
+    "INCLUSION_PLAN.json": {
+      "sha256": "4b0b4c9d4ec4357dca879520e51b6de8b35b61e4a60a4c889d0e375628280ceb",
+      "bytes": 34821
+    },
+    "LICENSE_FIRST_PARTY_METHODS.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "preparation_receipt.json": {
+      "sha256": "c50e90740840672ce56772c8938349e167e26846f9b844859cb4c99d09c90a47",
+      "bytes": 581
+    },
+    "README.md": {
+      "sha256": "c09da70bf2933926abfc17b74a4f445f437e94cf8ea39e24df012c0136f8c2c9",
+      "bytes": 7575
+    },
+    "source_baseline/WARIS-v0.12.0-rc13-docs-review-1.zip": {
+      "sha256": "64b635f93b164e6f3e859b7c5c67f4436c9e0339b0e5cea79b5022aa444c4158",
+      "bytes": 445052
+    },
+    "SOURCE_COMPONENTS.json": {
+      "sha256": "669aaad2c5c5bfc09104ce3e4dbd802c5ab812b0c31715a0e1a5b1b590773d2b",
+      "bytes": 12178
+    },
+    "support/benchmark/independent_benchmark_reconstruction.csv": {
+      "sha256": "37672c64b36896905ad64b63451c544be19cd0df586b481042f1d103eafb16b2",
+      "bytes": 5102
+    },
+    "support/geography/dated_scope_2026-10-20.md": {
+      "sha256": "60f9dc142f4773ab7bde4e5cd5ca76c4599565e2eeeb96404cedc71fd7e9185a",
+      "bytes": 2925
+    },
+    "support/geography/geography_reconciliation.json": {
+      "sha256": "24c4a18b9658c5a9fe91ccccf3a41d8e08c5e5cc315eb08b005756ead2261447",
+      "bytes": 632
+    },
+    "support/geography/verified_top_level_geography_20261020.csv": {
+      "sha256": "9a6121f4ea9e8cf823a27108046f7863705eeb8e70d8ee0d79d6a9eb416d95c9",
+      "bytes": 10972
+    },
+    "support/grp/acquisition_receipt_2026-10-18.json": {
+      "sha256": "cb994c3f84795e89710d84ea995e8334b48748af3eef7552414d10a4e7a3ad4c",
+      "bytes": 53723
+    },
+    "support/grp/selected_2021_observations.csv": {
+      "sha256": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+      "bytes": 16516
+    },
+    "support/grp/selected_historical_note_unit_projection.csv": {
+      "sha256": "6c34a6d93c689d05b0e258991632a9e3f4f7457e14e18f85aa2794ae201d3987",
+      "bytes": 6870
+    },
+    "support/metadata/license_portal_receipt.json": {
+      "sha256": "616529d4e64c12040c6063d57ec6fa27accc16842b9db95fc2c6e4c16b8231b7",
+      "bytes": 241
+    },
+    "support/metadata/metadata_reference_verification.csv": {
+      "sha256": "2521552166649200b7150331d631e1a10cbb4dd21105eb98a2d1bd4e1695853d",
+      "bytes": 4699
+    },
+    "support/metadata/selected_source_receipts.json": {
+      "sha256": "bed0beea725f9bb3fc0e73aa71959f772f5cb84a9ede810f5dfd057e55ee5239",
+      "bytes": 2851
+    },
+    "support/operational/operational_claims_reviewed.csv": {
+      "sha256": "7c1a3029417ff86969efe50fc2fa5d7fffa8099f8a4764eb7787ed338e65ae67",
+      "bytes": 1597
+    },
+    "support/operational/operational_recount.json": {
+      "sha256": "23c83cd9de185703c25c9a1318beec493421b15ff782a7606a3827c6cf553bfc",
+      "bytes": 629
+    },
+    "support/query/metadata_reconciliation.json": {
+      "sha256": "c668532788d0e647be0c00110bb48efed2c6b99de3f80e47accae918c75d0517",
+      "bytes": 801
+    },
+    "support/query/metadata_verification.csv": {
+      "sha256": "af95997ad892fd7facf06765764a47be2631b0e57aab071853eeb3c016de658d",
+      "bytes": 20879
+    },
+    "support/rescale/rescale_arithmetic_reconstruction.csv": {
+      "sha256": "906570ea0d5072d2353a3d6585c6fa06935d809e75f6b15492c32d54365f355a",
+      "bytes": 26793
+    },
+    "support/rescale/scenario_scope_findings.json": {
+      "sha256": "1c7e086590c88500193cf4a78b2bb3e367b53ce38c8f646159b85fae985d12f2",
+      "bytes": 856
+    },
+    "support/rescale/synthetic_seed42_inputs.csv": {
+      "sha256": "d4bfdd69ff8383e59b063cea32d3327dcac523dfaac7e52bf8a6fb917c69e01c",
+      "bytes": 11279
+    },
+    "support/typed/confirmed_series_reconciled.csv": {
+      "sha256": "3e52960d40139248a95184c92fd787c3d19f34deddba994d0451b9bf00158b71",
+      "bytes": 4600
+    },
+    "support/typed/dated_attribution_2026-10-20.md": {
+      "sha256": "01ad1e52fdaffaa1ed1072336e0c1fb6db3bb4f226f82cbecd2dced2295f8ee9",
+      "bytes": 2204
+    },
+    "support/typed/dated_provenance_2026-10-20.json": {
+      "sha256": "28b7f66d9bbe7310bca697918248bbb7f6b9d2d0ed88a0988e069c719181add7",
+      "bytes": 917
+    },
+    "support/typed/oblast_candidates_reconciled.csv": {
+      "sha256": "50dce11484f8029b585886843640bc5848efce5847ff9505ec17fe33551f346e",
+      "bytes": 8218
+    },
+    "support/workflow/qualified_operational_recount.json": {
+      "sha256": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+      "bytes": 521
+    },
+    "tools/test_selection.py": {
+      "sha256": "c5d720f54a494aa75a8fdb6cf802dfe236b9c1ce29bbde2074d1fefbd4520c0f",
+      "bytes": 2519
+    },
+    "tools/validate_selection.py": {
+      "sha256": "0940d1a20cd562faacd90df7b72c0700512f8d109ee79b44569c887dd33a36fc",
+      "bytes": 4986
+    }
+  }
+}

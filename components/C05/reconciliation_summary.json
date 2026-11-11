@@ -1,0 +1,16 @@
+{
+  "metadata_rows_verified": 19,
+  "metadata_artifacts_verified": 2,
+  "typed_DSD_components": 21,
+  "key_axes": 5,
+  "benchmark_regions": 25,
+  "synthetic_sectors": 150,
+  "numeric_cells_independently_matched": 250,
+  "max_absolute_numeric_difference": 1.1368683772161603e-13,
+  "network_denied_seed42_replays": 2,
+  "period_coverage": "25 selected WARIS regions for 2021; not current economic or whole-country coverage",
+  "historical_HTTP_authenticated": false,
+  "sector_allocation_approved": false,
+  "production_scoring_changed": false,
+  "unverified_FIU_claims": "excluded"
+}

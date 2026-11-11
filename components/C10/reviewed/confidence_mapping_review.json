@@ -1,0 +1,24 @@
+{
+  "field_rows": 63,
+  "group_rows": 43,
+  "legacy_group_arithmetic_matches": true,
+  "silently_defaulted_fields": [
+    {
+      "field_name": "ukrstat_oblast_baseline_candidates.csv",
+      "confidence_level": "Medium-High"
+    },
+    {
+      "field_name": "official_regional_baseline_proxy",
+      "confidence_level": "Medium-High"
+    },
+    {
+      "field_name": "official_baseline_proxy",
+      "confidence_level": "Medium-High"
+    }
+  ],
+  "default_numeric_value": 1,
+  "default_is_not_a_measurement": true,
+  "strict_label_guard_rejects_retained_inputs": true,
+  "mapping_policy_replacement_approved": false,
+  "empirical_calibration_established": false
+}

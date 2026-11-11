@@ -1,0 +1,2 @@
+latest_period,candidate_count,period_parseable_count,period_coverage_status,current_use_in_scoring,notes
+2021-01-01,25,25,full_expected_coverage_for_period,not_yet_used,Latest-period coverage is a readiness check only. Confirm whether this period is appropriate for the intended revenue-baseline use before scoring.

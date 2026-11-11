@@ -1,0 +1,73 @@
+{
+  "country": "UKR",
+  "period": [
+    1991,
+    2024
+  ],
+  "rows": 136,
+  "grain": "country_indicator_year",
+  "duplicates": 0,
+  "null_values": 8,
+  "receipts": [
+    {
+      "indicator_code": "NY.GDP.MKTP.CD",
+      "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NY.GDP.MKTP.CD?format=json&date=1991:2024&per_page=100",
+      "response_sha256": "6d12d65b09825b2e8c7528b1fafb9211ccda6e6c9a54e1589f689613236e10f5",
+      "source_page_sha256": "9475837a1364cbf1dcc863f68c5c4c00119551f2ddbabc646c433682a02e41bf",
+      "retrieved_at_utc": "2026-10-18T20:09:51.581727+00:00",
+      "source_last_updated": "2026-10-08",
+      "rows": 34,
+      "null_values": 0,
+      "license": "CC BY 4.0",
+      "source_page_license_checked": true
+    },
+    {
+      "indicator_code": "GC.TAX.TOTL.GD.ZS",
+      "source_url": "https://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS",
+      "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/GC.TAX.TOTL.GD.ZS?format=json&date=1991:2024&per_page=100",
+      "response_sha256": "fe5b4093d7a927c0a4ca0a1477da2061d3402c138251623735d001f4d4d7bb7e",
+      "source_page_sha256": "09eb679a5b3b6793b9d592fe8b13d4221e98495ff4933d0dc09a92718ed4066b",
+      "retrieved_at_utc": "2026-10-18T20:09:52.008753+00:00",
+      "source_last_updated": "2026-10-08",
+      "rows": 34,
+      "null_values": 8,
+      "license": "CC BY 4.0",
+      "source_page_license_checked": true
+    },
+    {
+      "indicator_code": "NE.EXP.GNFS.CD",
+      "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.CD",
+      "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NE.EXP.GNFS.CD?format=json&date=1991:2024&per_page=100",
+      "response_sha256": "1e41142805915e3629e60d0617dbef23f1f79bcb7a406eb56d957385cbc33801",
+      "source_page_sha256": "974b895bdb8551cc4a6826656e7a610e5453e6f529fe4c37b1c5cadd419271ce",
+      "retrieved_at_utc": "2026-10-18T20:09:51.660872+00:00",
+      "source_last_updated": "2026-10-08",
+      "rows": 34,
+      "null_values": 0,
+      "license": "CC BY 4.0",
+      "source_page_license_checked": true
+    },
+    {
+      "indicator_code": "NE.IMP.GNFS.CD",
+      "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.CD",
+      "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NE.IMP.GNFS.CD?format=json&date=1991:2024&per_page=100",
+      "response_sha256": "3d275d5d92c5fc2138e926c237237b49a8f99620aeb3f9d54f1cd4b9c7815fc2",
+      "source_page_sha256": "5fb9eac3ec909275e0dbf4516901ce640ebf54c73037f5bdcebe16fa53400fe7",
+      "retrieved_at_utc": "2026-10-18T20:09:51.632783+00:00",
+      "source_last_updated": "2026-10-08",
+      "rows": 34,
+      "null_values": 0,
+      "license": "CC BY 4.0",
+      "source_page_license_checked": true
+    }
+  ],
+  "supplement_sha256": "422d6de7e5f90c1d89343fea3df638ccaa7282152b5b455a1d19bf643cb11595",
+  "transformations": "Select Ukraine and 1991-2024; normalize columns/units, retain nulls, preserve reported values; no interpolation, scaling or scoring integration.",
+  "credits_by_indicator": {
+    "GC.TAX.TOTL.GD.ZS": "Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+    "NE.EXP.GNFS.CD": "Country official statistics, National Statistical Offices (NSOs); National Accounts data files, Central Banks; Staff estimates, World Bank (WB)",
+    "NE.IMP.GNFS.CD": "Country official statistics, National Statistical Offices (NSOs); National Accounts data files, Central Banks; Staff estimates, World Bank (WB)",
+    "NY.GDP.MKTP.CD": "Country official statistics, National Statistical Organizations and/or Central Banks; National Accounts data files, Organisation for Economic Co-operation and Development (OECD); Staff estimates, World Bank (WB)"
+  }
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Unreleased rc13 code baseline; documentation package rc13-docs-review-1. Cite the exact package hash and limitations. No public release date is claimed."
+title: "WARIS Ukraine Wartime AML Revenue Integrity Scoring Model"
+type: software
+authors:
+  - family-names: Keen
+    given-names: Jason
+version: "0.12.0-rc13-docs-review-1"
+license: MIT

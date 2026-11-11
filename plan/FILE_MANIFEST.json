@@ -1,0 +1,106 @@
+{
+  "plan_id": "WARIS-rc13-full-release-inclusion-plan-1",
+  "self_hash_excluded": true,
+  "files": {
+    "companions/C01.md": {
+      "sha256": "eb0d6ba78af0ec24725e1da6ba36403e46880b3819453310e10a705a27adc4b3",
+      "bytes": 2234
+    },
+    "companions/C02.md": {
+      "sha256": "12d6c234665a3fe0acd0dea0cabe2a207296825ea501626a6c8ee4ba457ae448",
+      "bytes": 2304
+    },
+    "companions/C03.md": {
+      "sha256": "e7ff16a32185a09be9d99ec8cf47770886bda32a4b0fd185ae870cbfa1394955",
+      "bytes": 2317
+    },
+    "companions/C04.md": {
+      "sha256": "fa26936036de75e668d18cde8e82ba1abab63dfa165630e78e2c67d61f9b6693",
+      "bytes": 2365
+    },
+    "companions/C05.md": {
+      "sha256": "b9087a56c6a97fb9a960c25b2f9b4721809c1cbb221a1ea5c5db7d1db0768f4b",
+      "bytes": 2250
+    },
+    "companions/C06.md": {
+      "sha256": "e9b1890fc087d3111d02cf3ed64e55e576695c4241c7b47a4e1f7a201ba367ca",
+      "bytes": 2423
+    },
+    "companions/C07.md": {
+      "sha256": "014bca688db18d9d8de63eb4ef302be0c205c189065f8880ec0f4ac04b5bca38",
+      "bytes": 2263
+    },
+    "companions/C08.md": {
+      "sha256": "fb7f65ec7ff7aeed2c20dcb5c4112aa6a94c95108a321a4b3b2102d10a3236d6",
+      "bytes": 2285
+    },
+    "companions/C09.md": {
+      "sha256": "5584c71ec6516c69d5f9f651299838f0add620b5ae455f404b3e0860982d7006",
+      "bytes": 2362
+    },
+    "companions/C10.md": {
+      "sha256": "ea313f2c0ca596c654e7f97d1e75be69fd2806c6277e7999c644c5d3d50af42c",
+      "bytes": 2434
+    },
+    "companions/C11.md": {
+      "sha256": "49473b30b74c47b29441fc22ce1d76145c9c8c3e212462dae47c93e7b3f6da57",
+      "bytes": 2325
+    },
+    "COMPONENT_DECISIONS.csv": {
+      "sha256": "ef9c160a1fbc20d50e505b3c754a3a2bfe0a21686d4be1dd4606d09b87e76ad4",
+      "bytes": 17199
+    },
+    "DUPLICATE_CONTENT_MAP.json": {
+      "sha256": "96e06d3a1d72537cd1727154e80faa2c4377e925b78f3b67ed23dbe1ae118c6d",
+      "bytes": 24092
+    },
+    "FULL_RELEASE_INCLUSION_PLAN.md": {
+      "sha256": "64e9c26c4753938ff381041ca8bcd2be54de002b623fd8c42e11c86cbb66d926",
+      "bytes": 7610
+    },
+    "FULL_RELEASE_PLAN.json": {
+      "sha256": "b699d41dc6af850cbf6c28bbf0104aba45aa4e412c503d2646b637879183f8b5",
+      "bytes": 12262
+    },
+    "MEMBER_INCLUSION_LIST.csv": {
+      "sha256": "fa657e4e1e94c26643493eda5f24d53457aa5caee10e2f0147416bf9d0d64fad",
+      "bytes": 114777
+    },
+    "PREPARATION_RECEIPT.json": {
+      "sha256": "e234b64e365b48c9d2c2e7ec08cad88b0faa8c8c3c1b45835a18ed160adb570d",
+      "bytes": 396
+    },
+    "reader/literature/ATTRIBUTION_AND_CHANGES.md": {
+      "sha256": "5d7cb19870a904da4dd5f065736011b89eae818ab2dac855eb96d87bc8985e93",
+      "bytes": 1725
+    },
+    "reader/literature/conceptual_page_crosswalk_six_themes.csv": {
+      "sha256": "0bfc8dbff5e9ef27349d019c7c4fd45f8aeb341d1469e309c6d071ae100bc678",
+      "bytes": 1446
+    },
+    "README.md": {
+      "sha256": "ebac9a6cedb82d968c3ba743454e11ad43c3d5565b42ae76fbe496c5b0dd4e8f",
+      "bytes": 680
+    },
+    "RELEASE_GATES.csv": {
+      "sha256": "84cae4bf1a3e8e2dfc27229c16ec555c9a350fae7f1e6e0e996f1d7f84de9f16",
+      "bytes": 1376
+    },
+    "SOURCE_BOUNDARIES.json": {
+      "sha256": "57a6aeeb553463f7fa1c3106eef2d8420e9d198562e6c245db3dc9bf3947854d",
+      "bytes": 797
+    },
+    "tools/test_plan.py": {
+      "sha256": "7610621c278145a123e0064568ce288dc9c7dfab97ae77dc66336321c9671727",
+      "bytes": 3285
+    },
+    "tools/validate_plan.py": {
+      "sha256": "702bf072ffb1a87b1924f55eb05749f0a02bee0bca1ceb879fa0530b8558172c",
+      "bytes": 6246
+    },
+    "TRANSFORMATIONS.json": {
+      "sha256": "0a3112d4df4467e5930c25d160748c51920725b54cd6ce0ef98ff5bf1c79bc41",
+      "bytes": 1075
+    }
+  }
+}

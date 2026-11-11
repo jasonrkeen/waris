@@ -1,0 +1,37 @@
+{
+  "policy_id": "confidence-categorical-1+acled-context-only-1",
+  "review_date_local": "2026-10-22",
+  "parent_candidate": "0.12.0-rc12-controlled-review",
+  "parent_zip_sha256": "b65c0262ecaad14b15ea492268a162fd5b4520ead14c54b40cb40e952f6c1023",
+  "status": "controlled_engineering_policy_not_external_validation",
+  "frozen_before_new_retained_sample_profile": true,
+  "confidence": {
+    "accepted_labels": ["High", "Medium-High", "Medium", "Medium-Low", "Low", "Unknown"],
+    "meaning": "First-party qualitative documentation declarations; not probabilities or empirical reliability estimates",
+    "aggregation": "Counts per declared label; Unknown separate; no numeric rank or mean",
+    "reject": ["missing label", "unrecognised spelling", "missing or duplicated field identity", "missing group keys", "unrecognised replacement priority"],
+    "replacement_priority": "Highest declared High/Medium/Low urgency, kept as a categorical decision, not confidence"
+  },
+  "acled": {
+    "use": "private_sample_context_inspection_only",
+    "production_scoring": false,
+    "legacy_proxy_and_blend": "retired; no alternative numeric weights selected",
+    "missing_regions": "not_observed_in_retained_sample; counts and fatalities null, never infer zero occurrence",
+    "mapping": "Exact normalized explicit aliases only; Kyiv City remains distinct; no substring matches or new geography inferred",
+    "fatalities": "Preserve reported source zero; distinguish missing; incomplete group total null; reject negative/nonfinite/nonnumeric nonmissing",
+    "duplicates": "Reject duplicated or blank event IDs rather than silently deduplicating",
+    "coverage": "Observed sample membership only; no population or complete-frame inference",
+    "sampling_or_acquisition_evidence": "Unrecovered; current account/acquisition gate stays closed"
+  },
+  "diagnostics": [
+    "Private retained-file structure, grain, explicit missingness and mapping counts",
+    "Compare legacy rc8 and rc12 alias-policy effects without overwriting either",
+    "Recount model-row exposure to the old absent-region zero fill; no corrected production scores",
+    "Synthetic counterexample for sample min-max dependence; no empirical blend calibration",
+    "Mutation tests for label, join grain, fatalities, date and scope failures",
+    "Exact source ZIP tests and unchanged synthetic scoring/Monte Carlo bytes"
+  ],
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

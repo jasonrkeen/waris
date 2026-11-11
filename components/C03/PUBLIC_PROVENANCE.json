@@ -1,0 +1,15 @@
+{
+  "clearance_date": "2026-10-20",
+  "scope": "Two exact coarse procedure CSVs plus dated selected metadata shortlist; see rights and methods",
+  "reviewed_study_source_archive_sha256": "a51ea4e4c2aca5cccb7d5229eaedee1f1698bbebf4b19c5c99eaab04934f9c86",
+  "reviewed_study_plan_sha256": "a63ccf9b2071d363dd81e5b609cc767e17c7ca1777b4e1d3c681fb413d3ef8a6",
+  "reviewed_private_result_sha256": "80f16c7432cb488805e701f158e75a10f48ca9c0792cdd2a8f3590245c8862a4",
+  "metadata_original_sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+  "raw_source_bytes_or_record_membership_distributed": false,
+  "independent_acquisition_reconstruction_without_private_inputs": false,
+  "original_historical_HTTP_reconstructed": false,
+  "production_score_change": false,
+  "unverified_FIU_claims": "excluded",
+  "full_research_release": "blocked",
+  "publication_or_push": false
+}

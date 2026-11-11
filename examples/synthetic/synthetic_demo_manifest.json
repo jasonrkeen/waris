@@ -1,0 +1,41 @@
+{
+  "release_candidate": "0.12.0-rc13-methodology-review",
+  "model_version": "0.12.0",
+  "data_mode": "synthetic_only",
+  "network_allowed": false,
+  "official_grp_posture": "benchmark_only",
+  "random_seed": 42,
+  "monte_carlo_runs": 5000,
+  "python": "3.12.14",
+  "dependencies": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "streamlit": "1.65.0",
+    "reportlab": "5.0.1",
+    "requests": "2.34.2",
+    "matplotlib": "3.11.2",
+    "python-dotenv": "1.2.4"
+  },
+  "files": {
+    "synthetic_inputs.csv": {
+      "rows": 150,
+      "sha256": "bd008283fbd0c89610fc16a2b717c587843ebec47cd0871f64023513fa9c194d"
+    },
+    "waris_scored_oblast_sector.csv": {
+      "rows": 150,
+      "sha256": "c9814bf64a5e07837b2bb1ce8753c4af0213a977e2b11ccbf88bda608c4a2ff7"
+    },
+    "waris_oblast_summary.csv": {
+      "rows": 25,
+      "sha256": "5db18ecf1597af97e0609cf86db6b6051376541d18075548cd1acb2abd403a13"
+    },
+    "waris_sector_summary.csv": {
+      "rows": 6,
+      "sha256": "520c53fe29bf0726d84f43fc8fe58f8a41f17e1a29222c094d43e08cc44cf7d8"
+    },
+    "waris_monte_carlo_results.csv": {
+      "rows": 150,
+      "sha256": "2fc37134c314bf058879fd845117ebe1f4c2e3f3c790a6dc4c66d1c758e6457a"
+    }
+  }
+}

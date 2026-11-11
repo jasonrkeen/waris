@@ -1,0 +1,25 @@
+{
+  "queue_rows": 25,
+  "question_rows": 200,
+  "checklist_rows": 200,
+  "review_status_counts": {
+    "not_started": 25
+  },
+  "nonblank_analyst_dispositions": 0,
+  "nonblank_review_dates": 0,
+  "checklist_status_counts": {
+    "not_started": 200
+  },
+  "control_declaration_counts": {
+    "pass": 6,
+    "review_required": 1
+  },
+  "historical_freshness_label_counts": {
+    "fresh": 27,
+    "empty": 1
+  },
+  "manifest_run_id_consistent_with_retained_JSON": true,
+  "manifest_version_consistent": true,
+  "current_source_freshness_verified": false,
+  "measured_false_positive_rate_available": false
+}

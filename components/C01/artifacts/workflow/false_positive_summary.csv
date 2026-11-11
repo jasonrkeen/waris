@@ -1,0 +1,9 @@
+summary_area,status,value,recommended_next_action
+False-positive risk register,created,7,Use risk-layer false-positive patterns to frame analyst review and report limitations.
+False-positive controls,created,7,Review any control with status other than pass.
+False-positive review checklist,created,200,Use checklist rows when completing analyst disposition fields.
+Source freshness integration,review_required,source_freshness_monitoring_only,Review source-freshness posture before relying on source-context flags.
+Operational artifact crosswalk,pass,operational_review_artifact_crosswalk.csv,Use the crosswalk to confirm review-support artifacts remain outside scoring.
+Control status counts,computed,"{'pass': 6, 'review_required': 1}","Investigate review_required, missing_column, or not_available statuses."
+Production score change control,control_active,none,"False-positive controls do not alter WARIS scores, risk bands, or Monte Carlo outputs."
+Use limitation,control_active,human_review_support_only,"Do not treat false-positive controls as allegations, clearances, or automated decisions."

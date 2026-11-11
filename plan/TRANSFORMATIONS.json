@@ -1,0 +1,28 @@
+[
+  {
+    "id": "N01",
+    "path": "reader/literature/conceptual_page_crosswalk_six_themes.csv",
+    "sha256": "0bfc8dbff5e9ef27349d019c7c4fd45f8aeb341d1469e309c6d071ae100bc678",
+    "bytes": 1446,
+    "role": "reader_facing_six_theme_page_crosswalk",
+    "source_component": "C04",
+    "source_member": "WARIS_Cleared_Research_Supplements_2026-10-18/docs/typology_conceptual_page_crosswalk.csv",
+    "source_sha256": "62a8a82a2057618053c556450e69eac541d18cc9510a336c1b8206afd1c483c7",
+    "transformation": "Filter existing rows to permitted six IDs only; preserve fields and text, serialize CSV. Original ten-row file remains preserved in its frozen predecessor ZIP and is not the reader-facing selection.",
+    "required_companions": [
+      "companions/C04.md",
+      "SOURCE_BOUNDARIES.json",
+      "reader/literature/ATTRIBUTION_AND_CHANGES.md"
+    ],
+    "original_rows": 10,
+    "selected_rows": 6,
+    "allowed_ids": [
+      "WAML-001",
+      "WAML-002",
+      "WAML-003",
+      "WAML-004",
+      "WAML-005",
+      "WAML-010"
+    ]
+  }
+]

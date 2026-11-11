@@ -1,0 +1,11 @@
+{
+  "review_date_local": "2026-10-22",
+  "network_denied_replays": 2,
+  "rescale_numeric_cells_matched": 1200,
+  "legacy_bridge_rows_matched": 4,
+  "legacy_review_rows_matched": 4,
+  "replacement_rows_reproduced_privately": 25,
+  "masked_use_flags_reproduced_in_mutation_test": true,
+  "source_candidate_changed": false,
+  "publication_or_push": false
+}

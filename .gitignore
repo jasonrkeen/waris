@@ -1,0 +1,18 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
+runtime/data/
+runtime/outputs/
+private/
+replay_outputs/
+
+# Local configuration and alternate environment names
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.venv*/
+venv/

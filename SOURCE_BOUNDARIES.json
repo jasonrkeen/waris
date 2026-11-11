@@ -1,0 +1,17 @@
+{
+  "current_code_baseline": "0.12.0-rc13-methodology-review",
+  "current_documentation_baseline": "0.12.0-rc13-docs-review-1",
+  "official_GRP": "benchmark_only",
+  "GRP_sector_economic_allocation": "not_approved",
+  "GRP_scoring_and_Monte_Carlo": "prohibited",
+  "expanded_procurement": "review_only",
+  "ACLED": "private_context_only_acquisition_gated_old_proxy_and_blend_retired",
+  "confidence": "categorical_counts_no_numeric_mean_or_adjusted_score",
+  "literature": "six_theme_reference_only_no_scoring",
+  "SFMS": "selected_verified_national_context_only",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false,
+  "archival_C11": "replay_dependency_only_never_current_runtime",
+  "new_acquisition_authorized": false,
+  "full_research_release": "blocked"
+}

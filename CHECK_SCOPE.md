@@ -1,0 +1,9 @@
+# Current release-documentation and distribution check scope
+
+This separate child reconciles assembled-root citation, security, contribution, data, source notices and release scope. It does not change model code, observations, weights, seed, data-contract inputs, presentation code or output bytes. The parent security-integrated candidate's 405 tests plus three subtests per platform are dated evidence; this child's fresh exact checks are recorded separately.
+
+Two nested Git attribute files are explicit packaging adapters with original bytes/hashes retained. The root validator permits no other runtime/component byte change and checks the 426-row distribution crosswalk. Root Git attributes disable line-ending normalization. Local Git index/checkout tests compare every candidate member with automatic conversion both enabled and disabled; they create no commit, remote or push. An unchanged archived attribute file is evidence, not an active normalization instruction.
+
+New checks reject expanded metadata exceptions, changed originals, code/data drift even after resealing, incorrect source/distribution mappings, invented public identifiers/date, enabled-reporting claims, citation mismatches and broken current reader links. The citation is separately validated against the official CFF 1.2.0 schema. Current root requirements and the existing platform PNG encoding policy remain unchanged.
+
+The PDF remains the already visually inspected canonical bytes; no new visual review or empirical AML validation is inferred from metadata checks. GRP remains benchmark-only, unverified FIU claims remain excluded, historical acquisition gaps remain missing and live preflight stays gated before credentials/provider access. GitHub private vulnerability reporting was selected by the user but is not enabled. No remote CI, repository setup, provider contact or publication occurred.

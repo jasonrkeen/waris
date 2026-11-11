@@ -1,0 +1,9 @@
+{
+  "created_at_utc": "2026-10-20T14:21:08.587405+00:00",
+  "plan_sha256": "a63ccf9b2071d363dd81e5b609cc767e17c7ca1777b4e1d3c681fb413d3ef8a6",
+  "code": {
+    "frame_study.py": "acd8cf89151c38097a0d597929460e304a77bd21a09647a246d63f37c4df4cfa",
+    "lot_study.py": "f3dfe8a3bf893ec17f75f675981e2240d550d607c66cfb8ea0fb2e6afd535874",
+    "capture_prozorro_sample.py": "b8e1ad793cee0257f0fa919beec1b151089dc16bcd52be0f7244521895074b1e"
+  }
+}

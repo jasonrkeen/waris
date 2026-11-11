@@ -1,0 +1,23 @@
+{
+  "official_url": "https://fiu.gov.ua/assets/userfiles/440/2026/ENG_I%20quarter_NABU.pdf",
+  "page": 1,
+  "research_tool_source": "turn102view0",
+  "source_period_explicit_in_PDF": "2026-01-01 through 2026-03-31",
+  "rows_checked": 10,
+  "numeric_fields_checked": 20,
+  "all_categories_match": true,
+  "duplicate_category_labels_preserved_rows": [
+    3,
+    8
+  ],
+  "category_referral_sum_matches_published_total": true,
+  "decimal_funds_sum_matches_published_total": true,
+  "local_download_status": 403,
+  "local_response_was_PDF": false,
+  "local_PDF_byte_custody": false,
+  "visual_layout_verified": false,
+  "text_extraction_verified": true,
+  "historical_download_authenticated": false,
+  "annual_report_2023_verified": false,
+  "original_WARIS_layer_mapping_validated": false
+}

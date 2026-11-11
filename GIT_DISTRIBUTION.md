@@ -1,0 +1,9 @@
+# Exact-byte Git distribution
+
+Frozen hashes require exact working-tree bytes. The parent package's inherited runtime and rc11 attribute files forced LF normalization; a local index/checkout diagnostic changed 212 of its 508 files with automatic line-ending conversion enabled. No remote was involved.
+
+The current root `.gitattributes` and two nested attribute files use `* -text`, disabling Git text normalization. Only the two nested Git metadata files differ within the runtime/component views; original bytes and hashes are retained in [GIT_METADATA_OVERRIDES.json](GIT_METADATA_OVERRIDES.json). This is an explicit packaging adaptation, not an invisible repair or source/model change. The immutable selection plan still identifies original members. Root validation checks each original against that plan/source archive and permits only these two predetermined replacement files; all other code/data changes fail even after resealing the inventory.
+
+Run current checks from an external extraction directory before and after an ordinary checkout. Local preparation tests both automatic-line-ending settings and compares every tracked file to the candidate. Test repositories are throwaway local index/checkout probes without commits, remotes or pushes. The root workflow's checkout must still be verified remotely during later authorized setup. Keep current attributes and their original companions together; do not apply global renormalization or automated archive rewrites.
+
+The historical replay fingerprint includes original Git metadata. The top-level offline replay driver restores only the two recorded original attribute files in disposable copies outside the candidate before running frozen historical helpers. It validates both targets before writing and never restores legacy metadata into the Git-ready distribution itself. The root checker runs that full supported offline replay as an integration check; a unit-only pass is not substituted for this step.

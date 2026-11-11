@@ -1,0 +1,26 @@
+{
+  "version": "recorded-cursor-frame-1",
+  "max_pages": 10,
+  "page_size": 100,
+  "sample_per_procedure": 40,
+  "seed": "8c2f527124ef9a29703e66315a1ed306668dd1cc32ac76707fc5640c07693454",
+  "procedures": [
+    "aboveThreshold",
+    "priceQuotation"
+  ],
+  "target": "Unique IDs first observed in at most ten consecutive descending API pages, starting without offset. Operational recorded frame only; not national, calendar-period, creation-date or all-completed procurement.",
+  "frame_stop": "Follow next_page.offset on fixed base endpoint. Stop at first empty page or after page 10 regardless of outcomes. Nonempty short pages do not terminate early. Missing/repeated/unsafe cursor before cap fails. No retries, substitutions or extra pages.",
+  "duplicates": "Reject duplicate IDs within a page. Across pages keep first observed metadata and record duplicate and conflicting metadata counts. Do not infer snapshot isolation or period completeness.",
+  "selection": "After all frame pages, define two domains by first-observed exact procedure and status complete. Independently sample min(40,N) IDs without replacement using random.Random(seed+procedure).sample on sorted IDs. Seed generated before frame acquisition. Census when N<=40; zero domain remains zero. Freeze private selection with N,n, inclusion probability and N/n weight before detail requests.",
+  "budget": "At most 1000 feed records and 80 details. This fixed feasibility budget is not a power calculation; no stopping when a desired rate or eligible count appears.",
+  "eligibility": "Reused immutable lot-aware rules determine detail eligibility and counts. Feed-to-detail changes remain sample members; no replacements, no reclassification into the other sampling domain.",
+  "estimands": "Conditional on recorded feed-defined domain, detail-time eligible units and exactly-one-visible/active-linked-object totals estimated by tender-cluster Horvitz-Thompson weights N/n. Ratio is weighted numerator/denominator, not an unbiased ratio estimate. Detail-domain drift contributes zero eligible units; unknown eligible counts withhold rates. Domains and unit types never pooled.",
+  "support": "At least five distinct sampled eligible tender clusters in exact domain, detail procedure and unit type, with complete eligible count observation; otherwise null. Finite-frame weights do not correct frame undercoverage, hidden records, modification bias or changes during traversal. No confidence intervals or national extrapolation.",
+  "provenance": "Plan/code frozen before first request, complete frame/selection before first detail, per-attempt retained response hashes and exact inventories verified. HTTP/schema failure leaves failed_partial and no analysis.",
+  "boundaries": "No production score changes. GRP benchmark only; expanded procurement review only; FIU national context only with unverified annual claims excluded; literature reference only.",
+  "publication": "All provider data, IDs, selected membership, record URLs, weights and numeric diagnostics private pending separate review. MIT code is not source-data permission.",
+  "references": [
+    "https://prozorro-api-docs-uk.readthedocs.io/uk/master/basic-actions/feed.html",
+    "https://data.open-contracting.org/en/publication/154"
+  ]
+}

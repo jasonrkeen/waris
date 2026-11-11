@@ -1,0 +1,47 @@
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Packaging and coverage artifacts
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime logs and temporary files
+*.log
+*.tmp
+~$*
+
+# Provider-licensed source exports (download locally; do not redistribute)
+data/raw/acled_ukraine_events_raw.csv
+data/raw/acled_ukraine_events_checkpoint.csv
+
+# Timestamped fallback reports
+outputs/reports/waris_ukraine_aml_risk_report_*.pdf
+
+.venv-*/
+# Local provider data and all generated artifacts
+data/
+outputs/
+
+.ipynb_checkpoints/

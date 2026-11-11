@@ -1,0 +1,8 @@
+constraint_index,cube_index,component,record_kind,listed_value_count,cube_include_as_supplied,component_include_as_supplied,remove_prefix_as_supplied,annotation_value,positive_query_selector_inferred,observation_availability_inferred,used_in_scoring
+0,0,NACE,component_metadata_not_observed_value,1,true,false,false,,False,False,False
+0,0,INDICATOR,component_metadata_not_observed_value,28,true,false,false,,False,False,False
+0,0,FREQ,component_metadata_not_observed_value,1,true,false,false,,False,False,False
+0,0,REGION,component_metadata_not_observed_value,28,true,false,false,,False,False,False
+0,,series_count,constraint_annotation_not_observed_value,,,,,28,False,False,False
+0,,time_period_start,constraint_annotation_not_observed_value,,,,,2004-01-01,False,False,False
+0,,time_period_end,constraint_annotation_not_observed_value,,,,,2022-01-01,False,False,False

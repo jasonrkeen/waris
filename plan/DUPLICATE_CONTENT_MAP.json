@@ -1,0 +1,434 @@
+[
+  {
+    "id": "D001",
+    "sha256": "e11c34ac1b4496b60d1366c87d248ac9e6cdc15bbb0eba7db797b82c29ed395a",
+    "canonical_same_bytes_locator": "components/C01/artifacts/benchmark/official_baseline_benchmark_comparison.csv",
+    "members": [
+      "components/C01/artifacts/benchmark/official_baseline_benchmark_comparison.csv",
+      "components/C05/benchmark/official_baseline_benchmark_comparison.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D002",
+    "sha256": "2480d005bae60a48b81863ac896aed9f49ac701b2ddcd88202c48d26c7cc5806",
+    "canonical_same_bytes_locator": "components/C01/artifacts/benchmark/official_baseline_period_coverage.csv",
+    "members": [
+      "components/C01/artifacts/benchmark/official_baseline_period_coverage.csv",
+      "components/C05/benchmark/official_baseline_period_coverage.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D003",
+    "sha256": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+    "canonical_same_bytes_locator": "components/C01/artifacts/historical_extraction/ukrstat_confirmed_oblast_baseline_candidates.csv",
+    "members": [
+      "components/C01/artifacts/historical_extraction/ukrstat_confirmed_oblast_baseline_candidates.csv",
+      "components/C08/historical/ukrstat_confirmed_oblast_baseline_candidates.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D004",
+    "sha256": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+    "canonical_same_bytes_locator": "components/C01/artifacts/historical_extraction/ukrstat_confirmed_series_parsed.csv",
+    "members": [
+      "components/C01/artifacts/historical_extraction/ukrstat_confirmed_series_parsed.csv",
+      "components/C08/historical/ukrstat_confirmed_series_parsed.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D005",
+    "sha256": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911",
+    "canonical_same_bytes_locator": "components/C01/artifacts/historical_extraction/ukrstat_oblast_baseline_candidates.csv",
+    "members": [
+      "components/C01/artifacts/historical_extraction/ukrstat_oblast_baseline_candidates.csv",
+      "components/C08/historical/ukrstat_oblast_baseline_candidates.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D006",
+    "sha256": "fa3d58f9eb07ddf0bd29ef9d17c6b10a1ee0a7b147d2496a9d2c02e92f2d92aa",
+    "canonical_same_bytes_locator": "components/C01/artifacts/illustrative_scenario/official_baseline_rescale_scenario.csv",
+    "members": [
+      "components/C01/artifacts/illustrative_scenario/official_baseline_rescale_scenario.csv",
+      "components/C09/historical/official_baseline_rescale_scenario.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D007",
+    "sha256": "58d279a5fedc8b4ec11e3e05d126bff90bbb9d0da9491dd5378abc3669143e5c",
+    "canonical_same_bytes_locator": "components/C01/artifacts/metadata/ukrstat_observation_query_candidates.csv",
+    "members": [
+      "components/C01/artifacts/metadata/ukrstat_observation_query_candidates.csv",
+      "components/C03/metadata/ukrstat_observation_query_candidates.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D008",
+    "sha256": "366e2bd2dab2de2fb7c85c10b9cdd25867de7c429304878b4e2919214bb8db55",
+    "canonical_same_bytes_locator": "components/C01/artifacts/metadata/ukrstat_regional_accounts_metadata_clues.csv",
+    "members": [
+      "components/C01/artifacts/metadata/ukrstat_regional_accounts_metadata_clues.csv",
+      "components/C05/metadata/ukrstat_regional_accounts_metadata_clues.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D009",
+    "sha256": "e16cb2a2b7373e38cd51b32c4ade7d4db540568ded6608bfbcd2e67007dc0043",
+    "canonical_same_bytes_locator": "components/C01/artifacts/metadata/ukrstat_registry_references.csv",
+    "members": [
+      "components/C01/artifacts/metadata/ukrstat_registry_references.csv",
+      "components/C05/metadata/ukrstat_registry_references.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D010",
+    "sha256": "577b33283a4667c035698cee1c87c7a301747503572832282706ed3cf0e1623f",
+    "canonical_same_bytes_locator": "components/C01/artifacts/methods/false_positive_risk_register.csv",
+    "members": [
+      "components/C01/artifacts/methods/false_positive_risk_register.csv",
+      "components/C04/first_party_methods/false_positive_risk_register.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D011",
+    "sha256": "74b34b4756191e7be57442dd973af2fc0238635c32796bd2a754ab8a48ef27eb",
+    "canonical_same_bytes_locator": "components/C01/artifacts/methods/model_monitoring_plan.csv",
+    "members": [
+      "components/C01/artifacts/methods/model_monitoring_plan.csv",
+      "components/C04/first_party_methods/model_monitoring_plan.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D012",
+    "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+    "canonical_same_bytes_locator": "components/C01/artifacts/methods/oblast_name_crosswalk.csv",
+    "members": [
+      "components/C01/artifacts/methods/oblast_name_crosswalk.csv",
+      "components/C04/first_party_methods/oblast_name_crosswalk.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D013",
+    "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+    "canonical_same_bytes_locator": "components/C01/artifacts/methods/operational_review_artifact_crosswalk.csv",
+    "members": [
+      "components/C01/artifacts/methods/operational_review_artifact_crosswalk.csv",
+      "components/C04/first_party_methods/operational_review_artifact_crosswalk.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D014",
+    "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+    "canonical_same_bytes_locator": "components/C01/artifacts/methods/prozorro_procurement_crosswalk.csv",
+    "members": [
+      "components/C01/artifacts/methods/prozorro_procurement_crosswalk.csv",
+      "components/C04/first_party_methods/prozorro_procurement_crosswalk.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D015",
+    "sha256": "6743766a40c03c19b073762b6479a6cf83ab4775fdae51ab7a5148c9506a27c2",
+    "canonical_same_bytes_locator": "components/C01/artifacts/operational/official_baseline_operational_controls_context_bridge.csv",
+    "members": [
+      "components/C01/artifacts/operational/official_baseline_operational_controls_context_bridge.csv",
+      "components/C09/historical/official_baseline_operational_controls_context_bridge.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D016",
+    "sha256": "ed8dad38db1c5022d98349afdfa175aaac76c905a76f248eb8c30a4c7746744f",
+    "canonical_same_bytes_locator": "components/C01/artifacts/workflow/analyst_review_summary.csv",
+    "members": [
+      "components/C01/artifacts/workflow/analyst_review_summary.csv",
+      "components/C10/historical/analyst_review_summary.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D017",
+    "sha256": "5221e02c4d3eed674fd4081a007cfa01aa0b91c6b2819f6af2a349f4b276cd3a",
+    "canonical_same_bytes_locator": "components/C01/artifacts/workflow/false_positive_controls.csv",
+    "members": [
+      "components/C01/artifacts/workflow/false_positive_controls.csv",
+      "components/C10/historical/false_positive_controls.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D018",
+    "sha256": "674cb3f41fedd36d8a4b3a834c5e503ad7c5d583067b1ed2102a4b149b6171b8",
+    "canonical_same_bytes_locator": "components/C01/artifacts/workflow/false_positive_summary.csv",
+    "members": [
+      "components/C01/artifacts/workflow/false_positive_summary.csv",
+      "components/C10/historical/false_positive_summary.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D019",
+    "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+    "canonical_same_bytes_locator": "components/C01/LICENSE_FIRST_PARTY_METHODS.txt",
+    "members": [
+      "components/C01/LICENSE_FIRST_PARTY_METHODS.txt",
+      "components/C02/LICENSE",
+      "components/C03/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C04/LICENSE_CODE_AND_FIRST_PARTY_METHODS.txt",
+      "components/C05/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C06/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C07/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C08/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C09/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C10/LICENSE_FIRST_PARTY_CODE.txt",
+      "components/C11/LICENSE"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D020",
+    "sha256": "37672c64b36896905ad64b63451c544be19cd0df586b481042f1d103eafb16b2",
+    "canonical_same_bytes_locator": "components/C01/support/benchmark/independent_benchmark_reconstruction.csv",
+    "members": [
+      "components/C01/support/benchmark/independent_benchmark_reconstruction.csv",
+      "components/C05/benchmark/independent_benchmark_reconstruction.csv",
+      "components/C07/review/reviewed_benchmark_input.csv",
+      "components/C09/reviewed/official_benchmark_input.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D021",
+    "sha256": "cb994c3f84795e89710d84ea995e8334b48748af3eef7552414d10a4e7a3ad4c",
+    "canonical_same_bytes_locator": "components/C01/support/grp/acquisition_receipt_2026-10-18.json",
+    "members": [
+      "components/C01/support/grp/acquisition_receipt_2026-10-18.json",
+      "components/C04/grp/acquisition_receipt.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D022",
+    "sha256": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+    "canonical_same_bytes_locator": "components/C01/support/grp/selected_2021_observations.csv",
+    "members": [
+      "components/C01/support/grp/selected_2021_observations.csv",
+      "components/C04/grp/ukrstat_GRP_2021_benchmark_2026-10-18.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D023",
+    "sha256": "616529d4e64c12040c6063d57ec6fa27accc16842b9db95fc2c6e4c16b8231b7",
+    "canonical_same_bytes_locator": "components/C01/support/metadata/license_portal_receipt.json",
+    "members": [
+      "components/C01/support/metadata/license_portal_receipt.json",
+      "components/C05/metadata/license_portal_receipt.json",
+      "components/C06/evidence/license_portal_receipt.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D024",
+    "sha256": "2521552166649200b7150331d631e1a10cbb4dd21105eb98a2d1bd4e1695853d",
+    "canonical_same_bytes_locator": "components/C01/support/metadata/metadata_reference_verification.csv",
+    "members": [
+      "components/C01/support/metadata/metadata_reference_verification.csv",
+      "components/C05/metadata/metadata_reference_verification.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D025",
+    "sha256": "bed0beea725f9bb3fc0e73aa71959f772f5cb84a9ede810f5dfd057e55ee5239",
+    "canonical_same_bytes_locator": "components/C01/support/metadata/selected_source_receipts.json",
+    "members": [
+      "components/C01/support/metadata/selected_source_receipts.json",
+      "components/C05/metadata/selected_source_receipts.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D026",
+    "sha256": "7c1a3029417ff86969efe50fc2fa5d7fffa8099f8a4764eb7787ed338e65ae67",
+    "canonical_same_bytes_locator": "components/C01/support/operational/operational_claims_reviewed.csv",
+    "members": [
+      "components/C01/support/operational/operational_claims_reviewed.csv",
+      "components/C09/reviewed/operational_claims_reviewed.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D027",
+    "sha256": "23c83cd9de185703c25c9a1318beec493421b15ff782a7606a3827c6cf553bfc",
+    "canonical_same_bytes_locator": "components/C01/support/operational/operational_recount.json",
+    "members": [
+      "components/C01/support/operational/operational_recount.json",
+      "components/C09/reviewed/operational_recount.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D028",
+    "sha256": "c668532788d0e647be0c00110bb48efed2c6b99de3f80e47accae918c75d0517",
+    "canonical_same_bytes_locator": "components/C01/support/query/metadata_reconciliation.json",
+    "members": [
+      "components/C01/support/query/metadata_reconciliation.json",
+      "components/C03/metadata/metadata_reconciliation.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D029",
+    "sha256": "af95997ad892fd7facf06765764a47be2631b0e57aab071853eeb3c016de658d",
+    "canonical_same_bytes_locator": "components/C01/support/query/metadata_verification.csv",
+    "members": [
+      "components/C01/support/query/metadata_verification.csv",
+      "components/C03/metadata/metadata_verification.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D030",
+    "sha256": "906570ea0d5072d2353a3d6585c6fa06935d809e75f6b15492c32d54365f355a",
+    "canonical_same_bytes_locator": "components/C01/support/rescale/rescale_arithmetic_reconstruction.csv",
+    "members": [
+      "components/C01/support/rescale/rescale_arithmetic_reconstruction.csv",
+      "components/C09/reviewed/rescale_arithmetic_reconstruction.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D031",
+    "sha256": "1c7e086590c88500193cf4a78b2bb3e367b53ce38c8f646159b85fae985d12f2",
+    "canonical_same_bytes_locator": "components/C01/support/rescale/scenario_scope_findings.json",
+    "members": [
+      "components/C01/support/rescale/scenario_scope_findings.json",
+      "components/C09/reviewed/scenario_scope_findings.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D032",
+    "sha256": "d4bfdd69ff8383e59b063cea32d3327dcac523dfaac7e52bf8a6fb917c69e01c",
+    "canonical_same_bytes_locator": "components/C01/support/rescale/synthetic_seed42_inputs.csv",
+    "members": [
+      "components/C01/support/rescale/synthetic_seed42_inputs.csv",
+      "components/C09/reviewed/synthetic_seed42_inputs.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D033",
+    "sha256": "3e52960d40139248a95184c92fd787c3d19f34deddba994d0451b9bf00158b71",
+    "canonical_same_bytes_locator": "components/C01/support/typed/confirmed_series_reconciled.csv",
+    "members": [
+      "components/C01/support/typed/confirmed_series_reconciled.csv",
+      "components/C08/reconciled/confirmed_series_reconciled.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D034",
+    "sha256": "01ad1e52fdaffaa1ed1072336e0c1fb6db3bb4f226f82cbecd2dced2295f8ee9",
+    "canonical_same_bytes_locator": "components/C01/support/typed/dated_attribution_2026-10-20.md",
+    "members": [
+      "components/C01/support/typed/dated_attribution_2026-10-20.md",
+      "components/C08/ATTRIBUTION_AND_RIGHTS.md"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D035",
+    "sha256": "28b7f66d9bbe7310bca697918248bbb7f6b9d2d0ed88a0988e069c719181add7",
+    "canonical_same_bytes_locator": "components/C01/support/typed/dated_provenance_2026-10-20.json",
+    "members": [
+      "components/C01/support/typed/dated_provenance_2026-10-20.json",
+      "components/C08/PUBLIC_PROVENANCE.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D036",
+    "sha256": "50dce11484f8029b585886843640bc5848efce5847ff9505ec17fe33551f346e",
+    "canonical_same_bytes_locator": "components/C01/support/typed/oblast_candidates_reconciled.csv",
+    "members": [
+      "components/C01/support/typed/oblast_candidates_reconciled.csv",
+      "components/C08/reconciled/oblast_candidates_reconciled.csv"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D037",
+    "sha256": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+    "canonical_same_bytes_locator": "components/C01/support/workflow/qualified_operational_recount.json",
+    "members": [
+      "components/C01/support/workflow/qualified_operational_recount.json",
+      "components/C10/reviewed/qualified_operational_recount.json"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D038",
+    "sha256": "b8e1ad793cee0257f0fa919beec1b151089dc16bcd52be0f7244521895074b1e",
+    "canonical_same_bytes_locator": "components/C02/capture_prozorro_sample.py",
+    "members": [
+      "components/C02/capture_prozorro_sample.py",
+      "components/C11/tools/capture_prozorro_sample.py"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D039",
+    "sha256": "acbf3637343b1c81c6becc55bc03673e49f216b97c5516030ecf3cf102a47acd",
+    "canonical_same_bytes_locator": "components/C02/requirements-dev.txt",
+    "members": [
+      "components/C02/requirements-dev.txt",
+      "components/C11/requirements-dev.txt"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D040",
+    "sha256": "73d4817e63405a50e324d2acf6e0e7a16e6c129bc6c5f0dbd7bea10496d07f23",
+    "canonical_same_bytes_locator": "components/C02/requirements.lock.txt",
+    "members": [
+      "components/C02/requirements.lock.txt",
+      "components/C11/requirements.lock.txt"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D041",
+    "sha256": "f3fbb1804dd6e627133e97faf8b3aa5d733cdaff934dd8d6998d1e2e4a567be3",
+    "canonical_same_bytes_locator": "components/C02/requirements.txt",
+    "members": [
+      "components/C02/requirements.txt",
+      "components/C11/requirements.txt"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  },
+  {
+    "id": "D042",
+    "sha256": "532ceae1823dd429423b1eb74a2b694179c484f03a083d86f8d0f5415853de1e",
+    "canonical_same_bytes_locator": "components/C04/docs/LITERATURE_REFERENCE_SCOPE.md",
+    "members": [
+      "components/C04/docs/LITERATURE_REFERENCE_SCOPE.md",
+      "components/C11/docs/LITERATURE_REFERENCE_SCOPE.md"
+    ],
+    "physical_policy": "Retain copies where frozen relative replay/companions require them; do not treat repeated bytes as corroboration. No automatic global deduplication."
+  }
+]

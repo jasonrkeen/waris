@@ -1,0 +1,60 @@
+[
+  {
+    "artifact": "dsd6",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/datastructure/SSSU/DSD_REGIONAL_ACCOUNTS/6.0.0?detail=full&references=all",
+    "retrieved_at_utc": "2026-10-20T23:52:15.123807+00:00",
+    "http_status": 200,
+    "bytes": 5197594,
+    "sha256": "ef253fa9995fe82a8f5f070e3915300a2ba664d6deca652573a18f79f27ff394"
+  },
+  {
+    "artifact": "units",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/codelist/SSSU/CL_UNITS_OF_MEASURE/1.38.2?detail=full&references=none",
+    "retrieved_at_utc": "2026-10-20T23:55:26.517033+00:00",
+    "http_status": 200,
+    "bytes": 31989,
+    "sha256": "30c4b2ea3132721d39194e145ba9f37c8efcc0095690acad3fe3231173fb2526"
+  },
+  {
+    "artifact": "katottg2",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/codelist/SSSU/CL_KATOTTG/2.0.5?detail=full&references=none",
+    "retrieved_at_utc": "2026-10-20T23:55:27.641039+00:00",
+    "http_status": 200,
+    "bytes": 4754115,
+    "sha256": "3a7d7c6ec77d7e65ffdbbbbbefdf39ccabe86ee31499d5f18ba2c90d907a9497"
+  },
+  {
+    "artifact": "dsd5",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/datastructure/SSSU/DSD_REGIONAL_ACCOUNTS/5.0.0?detail=full&references=none",
+    "retrieved_at_utc": "2026-10-20T23:55:26.440288+00:00",
+    "http_status": 200,
+    "bytes": 5888,
+    "sha256": "4628705c09422177d99a3070564e832ac98f6cfc4656f083415c89f9a436485e"
+  },
+  {
+    "artifact": "df75",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/dataflow/SSSU/DF_REGIONAL_ACCOUNTS/7.5.0?detail=full&references=none",
+    "retrieved_at_utc": "2026-10-20T23:55:27.048107+00:00",
+    "http_status": 200,
+    "bytes": 912,
+    "sha256": "b151c6d71e96ab32134de47e97f9c38bfc297f9638d3e0d30013448d903d213f"
+  },
+  {
+    "artifact": "df7",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/dataflow/SSSU/DF_REGIONAL_ACCOUNTS/7.0.0?detail=full&references=none",
+    "retrieved_at_utc": "2026-10-20T23:55:27.121141+00:00",
+    "http_status": 200,
+    "bytes": 832,
+    "sha256": "c8b32b740bc2f654be00c9371981bbd806de2cd8b2d38cd3d4aa03cb79a018f5"
+  },
+  {
+    "codelist": "CL_NACE_UA",
+    "version": "2.12.0",
+    "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/structure/codelist/SSSU/CL_NACE_UA/2.12.0?detail=full&references=none",
+    "started_at_utc": "2026-10-20T15:19:40.225385+00:00",
+    "status": 200,
+    "sha256": "5af3ae783d143b8ebca473a24f7651f05e9ada751c9d86d7be9e7e943699096b",
+    "bytes": 315428,
+    "content_type": "application/vnd.sdmx.structure+json;version=2.0.0"
+  }
+]

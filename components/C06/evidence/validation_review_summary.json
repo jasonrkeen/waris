@@ -1,0 +1,19 @@
+{
+  "legacy_register_rows": 22,
+  "historical_status_counts": {
+    "pass": 21,
+    "review_required": 1
+  },
+  "replayed_status_counts": {
+    "pass": 21,
+    "review_required": 1
+  },
+  "status_matches": 22,
+  "all_field_difference_count": 1,
+  "historical_field_equality_claimed": false,
+  "network_denied_validation_replays": 2,
+  "parsed_series_values_verified": 18,
+  "empirical_validation_established": false,
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

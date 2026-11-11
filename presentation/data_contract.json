@@ -1,0 +1,86 @@
+{
+  "schema": "WARIS-controlled-presentation-1",
+  "build_id": "WARIS-rc13-controlled-report-dashboard-1",
+  "date_local": "2026-10-25",
+  "parent_candidate_sha256": "6df4c8c3ca5dbd19afce8ab1acdd61baeb593f3943ed60e9dfffb6b54f481272",
+  "model_version": "0.12.0",
+  "code_baseline": "0.12.0-rc13-methodology-review",
+  "inputs": {
+    "synthetic": {
+      "path": "examples/synthetic/waris_scored_oblast_sector.csv",
+      "sha256": "c9814bf64a5e07837b2bb1ce8753c4af0213a977e2b11ccbf88bda608c4a2ff7",
+      "source_class": "synthetic_model_output",
+      "scope_period": "25 regions x 6 sectors; no empirical observation period"
+    },
+    "monte_carlo": {
+      "path": "examples/synthetic/waris_monte_carlo_results.csv",
+      "sha256": "2fc37134c314bf058879fd845117ebe1f4c2e3f3c790a6dc4c66d1c758e6457a",
+      "source_class": "synthetic_sensitivity",
+      "scope_period": "5000 assumed perturbation draws per row; no empirical probabilities"
+    },
+    "grp": {
+      "path": "components/C04/grp/ukrstat_GRP_2021_benchmark_2026-10-18.csv",
+      "sha256": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+      "source_class": "official_benchmark",
+      "scope_period": "2021 annual GRP; million UAH; 25 selected regions"
+    },
+    "procurement_observed": {
+      "path": "components/C03/procurement/procurement_observed_summary.csv",
+      "sha256": "4b17f1d3921d0672e36302a20856f7a7dbcc1ca896a74b3171f74df46b1c1367",
+      "source_class": "review_only_observed_objects",
+      "scope_period": "20 October 2026 recorded API frame; two distinct procedure/unit domains"
+    },
+    "procurement_weighted": {
+      "path": "components/C03/procurement/procurement_frame_weighted_estimates.csv",
+      "sha256": "a1a67abb834e623f2c8485f84d6f98c56b4456575523b688493cfe9229028a6c",
+      "source_class": "review_only_finite_frame_estimates",
+      "scope_period": "Same recorded frame; N/n cluster expansion, not national estimates"
+    },
+    "world_bank": {
+      "path": "components/C04/world_bank/world_bank_national_context_2026-10-18.csv",
+      "sha256": "422d6de7e5f90c1d89343fea3df638ccaa7282152b5b455a1d19bf643cb11595",
+      "source_class": "national_context",
+      "scope_period": "Ukraine; four indicators, 1991-2024 slots; snapshot 18 October 2026"
+    },
+    "sfms": {
+      "path": "components/C10/reviewed/sfms_q1_2026_selected_facts.csv",
+      "sha256": "59ecf5bcb4fd45e4362fb6c7a89be4da0874d9f3629b575d5861292a20264116",
+      "source_class": "national_context",
+      "scope_period": "2026 Q1 referral documents/associated amounts; source-reported, text-only verification"
+    },
+    "literature": {
+      "path": "components/C04/literature/waris_wartime_aml_typology_register.csv",
+      "sha256": "c6590c30679bbbe6f0585f5449e986940f8397a96e9406ad4f3fe3d7bbe33b21",
+      "source_class": "conceptual_reference",
+      "scope_period": "Six selected attributed Utenkova themes; project mappings are interpretations"
+    },
+    "literature_pages": {
+      "path": "reader/literature/conceptual_page_crosswalk_six_themes.csv",
+      "sha256": "0bfc8dbff5e9ef27349d019c7c4fd45f8aeb341d1469e309c6d071ae100bc678",
+      "source_class": "conceptual_reference",
+      "scope_period": "Printed-page crosswalk for six permitted themes only"
+    },
+    "controls": {
+      "path": "components/C10/reviewed/qualified_operational_recount.json",
+      "sha256": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+      "source_class": "historical_declarations",
+      "scope_period": "Historical workflow counts, not completed reviews or effectiveness"
+    },
+    "sfms_receipt": {
+      "path": "components/C10/reviewed/sfms_verification_receipt.json",
+      "sha256": "cb486e310dce5663ba6e9cd744038063c1465bef759773341377273b8897ef5b",
+      "source_class": "dated_verification_limit",
+      "scope_period": "Retained 22 October source-text check; no local PDF custody/visual verification"
+    },
+    "boundaries": {
+      "path": "SOURCE_BOUNDARIES.json",
+      "sha256": "57a6aeeb553463f7fa1c3106eef2d8420e9d198562e6c245db3dc9bf3947854d",
+      "source_class": "methodology_policy",
+      "scope_period": "GRP benchmark-only; unverified FIU claims excluded; acquisition gated"
+    }
+  },
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "model_data_mode": "synthetic_only",
+  "publication": false
+}

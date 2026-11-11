@@ -1,0 +1,20 @@
+{
+  "review_date_local": "2026-10-20",
+  "historical_scoped_tables": {
+    "ukrstat_confirmed_series_parsed.csv": "86e5b647e3885a31ea3830fe48e29d747443b7ccdc584aeaed9f67b7a6161f52",
+    "ukrstat_confirmed_oblast_baseline_candidates.csv": "b99d12ba0a179f577f431c5f9113aec034e7a0aa0111df8507655a209b7c06f0",
+    "ukrstat_oblast_baseline_candidates.csv": "310cc410e01a0855d042562eaccbdca6841fe600371910445ed875d167b05911"
+  },
+  "explicit_time_labels_required": true,
+  "availability_year_inference": false,
+  "legacy_parser_generalization_validated": false,
+  "historical_HTTP_authenticated": false,
+  "bulk_codelist_listing_bundled": false,
+  "source_response_bodies_bundled": false,
+  "source_candidate_changed": false,
+  "used_in_scoring": false,
+  "sector_allocation_approved": false,
+  "full_research_release": "blocked",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

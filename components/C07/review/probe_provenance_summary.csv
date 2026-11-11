@@ -1,0 +1,9 @@
+table,recorded_probe_rows,recorded_HTTP_status_counts,explicit_body_key_associations,preview_only_ambiguous_rows,preview_only_single_compatible_rows,rows_without_compatible_body,HTTP_status_headers_and_request_time,public_scope
+ukrstat_availability_discovery_results.csv,6,"{""200"": 6}",0,2,1,3,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_confirmed_series_probe_results.csv,4,"{""200"": 4}",0,4,0,0,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_data_endpoint_discovery_results.csv,15,"{""200"": 10, ""400"": 5}",0,10,0,5,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_dsd_endpoint_probe_results.csv,5,"{""200"": 5}",0,0,2,3,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_endpoint_probe_results.csv,7,"{""200"": 1, ""400"": 3, ""404"": 3}",0,0,1,6,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_oblast_baseline_probe_results.csv,25,"{""200"": 25}",25,0,0,0,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_observation_matrix_probe_results.csv,24,"{""200"": 24}",0,24,0,0,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.
+ukrstat_observation_probe_results.csv,13,"{""200"": 8, ""400"": 5}",0,8,0,5,not_independently_authenticated,Retained diagnostic inventory only; no historical acquisition authentication or scoring approval.

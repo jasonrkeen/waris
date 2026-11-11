@@ -1,0 +1,18 @@
+{
+  "assembly_id": "WARIS-v0.12.0-rc13-assembled-review-1",
+  "date_local": "2026-10-25",
+  "assembled_at_utc": "2026-10-26T02:18:16.696040+00:00",
+  "assembly_run_id": "WARIS-ASSEMBLY-fde5e452bf324a03a89a12e54a10f5ab",
+  "plan_zip": "WARIS-rc13-full-release-inclusion-plan-1.zip",
+  "plan_sha256": "5553df8d04947d0ff07573aa818734a5e3594a31e1cf3f70e6007b6416328ebc",
+  "components": 11,
+  "selected_direct_members": 317,
+  "omitted_reader_crosswalks": 1,
+  "runtime_files_byte_preserved": 109,
+  "runtime_source_zip_sha256": "64b635f93b164e6f3e859b7c5c67f4436c9e0339b0e5cea79b5022aa444c4158",
+  "runtime_changed": false,
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "full_live_or_historical_pipeline_run": false,
+  "publication_or_push": false
+}

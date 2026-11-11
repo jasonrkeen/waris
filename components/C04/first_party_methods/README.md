@@ -1,0 +1,3 @@
+# Scoped first-party methods supplement
+
+Six catalogs/control documents are project definitions, proposed monitoring and limitations, not provider observations or independent validation. Existing geography/keyword/control crosswalk clearance is retained. Two additional historical static files reproduce exactly. model_limitations_register.csv is a separately cleared corrected rc8 regeneration; the historical file remains held. Status labels are project self-assessments. MIT follows owner-confirmed code intent. No populated ranked review template, provider records or historical research scores are included.

@@ -1,0 +1,3 @@
+# Assembly changes — 25 October 2026
+
+Created a separate assembled review candidate from frozen plan 1. Materialised exactly the selected predecessor members, copied N01 and its attribution, exposed an unchanged runtime view of embedded rc13, and added offline assembly validation/replay/dashboard check tools. No prior code, weights, seeds, source gates, records or delivered packages were edited. The separately reproduced synthetic example, if present, is a new clearly labelled engineering output, never a relabelled historical mixed score. Parent manifests retain their original provenance role.

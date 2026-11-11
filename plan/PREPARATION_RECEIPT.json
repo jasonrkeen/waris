@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-23",
+  "prior_delivery_hashes_verified": 75,
+  "selected_components": 11,
+  "known_zip_decisions": 52,
+  "selected_direct_members": 317,
+  "omitted_direct_members": 1,
+  "duplicate_content_groups": 42,
+  "new_projection_rows": 6,
+  "runtime_changes": false,
+  "new_acquisition_or_terms_review": false,
+  "full_pipeline_execution": false,
+  "published": false
+}

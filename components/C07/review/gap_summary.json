@@ -1,0 +1,23 @@
+{
+  "regions": 25,
+  "mean_absolute_independently_scaled_index_gap": 44.13243412986237,
+  "largest_absolute_gap_region": "Cherkasy",
+  "largest_signed_index_gap": -93.54547021378961,
+  "gap_band_counts": {
+    "very_large_gap": 4,
+    "large_gap": 7,
+    "moderate_gap": 5,
+    "small_gap": 7,
+    "minimal_gap": 2
+  },
+  "ratio_band_counts": {
+    "official_share_lower": 5,
+    "official_share_much_lower": 10,
+    "roughly_aligned": 3,
+    "official_share_much_higher": 2,
+    "official_share_higher": 5
+  },
+  "threshold_status": "Legacy uncalibrated descriptive bins, not validated cutoffs",
+  "economic_error_or_AML_validity_established": false,
+  "production_scoring_changed": false
+}

@@ -1,0 +1,29 @@
+region_code,source_region_label,geography_role,period_min,period_max,numeric_observations,explicit_unavailable,absent_slots,unit_code,unit_label,scale_code,scale_label,source_timeseries_note,wide_export_series_note_not_per_year,used_in_scoring
+UA00000000000000000,Ukraine,national_aggregate,2004,2021,18,0,0,1090,UAH,6,Millions,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False
+UA01000000000013043,Autonomous Republic of Crimea,outside_WARIS_universe,2004,2021,10,8,0,1090,UAH,6,Millions,,Not available.,False
+UA05000000000010236,Vinnytska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA07000000000024379,Volynska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA12000000000090473,Dnipropetrovska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA14000000000091971,Donetska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA18000000000041385,Zhytomyrska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA21000000000011690,Zakarpatska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA23000000000064947,Zaporizka,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA26000000000069363,Ivano-Frankivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA32000000000030281,Kyivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA35000000000016081,Kirovohradska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA44000000000018893,Luhanska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA46000000000026241,Lvivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA48000000000039575,Mykolaivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA51000000000030770,Odeska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA53000000000028050,Poltavska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA56000000000066151,Rivnenska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA59000000000057109,Sumska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA61000000000060328,Ternopilska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA63000000000041885,Kharkivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA65000000000030969,Khersonska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA68000000000099709,Khmelnytska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA71000000000010357,Cherkaska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA73000000000044923,Chernivetska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA74000000000025378,Chernihivska,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA80000000000093317,Kyiv,WARIS_region,2004,2021,18,0,0,1090,UAH,6,Millions,,,False
+UA85000000000065278,Sevastopol,outside_WARIS_universe,2004,2021,10,7,1,1090,UAH,6,Millions,,Not available.,False

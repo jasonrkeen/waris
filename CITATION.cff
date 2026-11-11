@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Unpublished controlled rc13 candidate. Cite this exact candidate version together with the external archive SHA-256 and source limitations; no public release date or repository URL is claimed."
+title: "WARIS Ukraine Wartime AML Revenue Integrity Scoring Model: controlled research package"
+type: software
+authors:
+  - family-names: Keen
+    given-names: Jason
+version: "0.12.0-rc13-release-review-1"
+license: MIT
+abstract: "A reproducible synthetic AML research architecture with separate official GRP benchmarks, descriptive procurement research, national context and conceptual literature. GRP is benchmark-only; unverified FIU claims are excluded. This package is not an empirically validated AML decision system."

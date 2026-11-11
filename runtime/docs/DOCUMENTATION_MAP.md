@@ -1,0 +1,9 @@
+# Documentation map and precedence
+
+The current reader entry point is README.md. MODEL_CARD.md, DATA_POLICY.md, RELEASE_CHECKLIST.md, FULL_RESEARCH_ASSEMBLY.md, release_specification.json and the current package manifests define this documentation revision's scope. METHODOLOGY_POLICY.json and METHODOLOGY_REVIEW.md define the unchanged rc13 code policy. HISTORICAL_ARTIFACT_DISPOSITIONS.csv records the 13 individual exclusions. UPDATE_GUIDE_ASSESSMENT.md reconciles the guide's four filenames without implementing its unspecified proposals.
+
+docs/history/rc13-before-consolidation preserves each replaced active document and manifest byte-for-byte. These files are historical evidence, not executable/current instructions. docs/LEGACY_README.md and the dated technical reviews (including CONTROLLED_RC12_REVIEW.md) likewise retain their stage/date. Earlier append-only candidate narratives do not override current preflight gates or source boundaries. External receipt paths in historical documents are not a promise those private attachments are present in the source ZIP.
+
+THIRD_PARTY_NOTICES.md and the provider/indicator CSVs retain their recorded source-review dates. This pass does not refresh provider terms, authenticate historical sources, or upgrade prior partial checks. In particular ACLED is context-only with acquisition gated; unverified FIU claims stay excluded; GRP remains benchmark-only. No historical positive readiness label is a scoring or publication approval.
+
+The documentation package identifier differs from the unchanged code-baseline identifier. offline_demo.py still reports rc13-methodology-review, while RELEASE_MANIFEST.json reports rc13-docs-review-1. Both retain model version 0.12.0. CONTROLLED_REVIEW_MANIFEST.json binds actual source/document bytes. Root manifests exclude their own hash-bearing self-reference; historical copies are separate immutable inputs.

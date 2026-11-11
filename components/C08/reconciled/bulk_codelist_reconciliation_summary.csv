@@ -1,0 +1,5 @@
+dimension_heuristic_not_authoritative_DSD_mapping,codelist,version,rows_matched,raw_listing_publicly_bundled,query_validity_or_source_rights_inferred
+FREQ,CL_FREQ,2.0.2,9,False,False
+INDICATOR,CL_REGIONAL_ACCOUNTS_INDICATOR,2.1.1,29,False,False
+NACE,CL_NACE_UA,2.12.0,1128,False,False
+REGION,CL_KATOTTG,1.2.19,31768,False,False

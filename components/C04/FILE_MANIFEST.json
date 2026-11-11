@@ -1,0 +1,93 @@
+{
+  "self_excluded": "FILE_MANIFEST.json",
+  "files": {
+    "ATTRIBUTION_AND_SCOPE.md": {
+      "sha256": "dc64d452a6a411ff63d44a4bb8f1be528d7b9f0c535bda8788eed36777fe2be6",
+      "bytes": 7630
+    },
+    "docs/LITERATURE_REFERENCE_SCOPE.md": {
+      "sha256": "532ceae1823dd429423b1eb74a2b694179c484f03a083d86f8d0f5415853de1e",
+      "bytes": 2748
+    },
+    "docs/typology_conceptual_page_crosswalk.csv": {
+      "sha256": "62a8a82a2057618053c556450e69eac541d18cc9510a336c1b8206afd1c483c7",
+      "bytes": 2322
+    },
+    "first_party_methods/false_positive_risk_register.csv": {
+      "sha256": "577b33283a4667c035698cee1c87c7a301747503572832282706ed3cf0e1623f",
+      "bytes": 4112
+    },
+    "first_party_methods/model_limitations_register.csv": {
+      "sha256": "ace52d86395974603640b72bc3e8bb93c58da06e76dfcc99b1e263b944845d47",
+      "bytes": 9152
+    },
+    "first_party_methods/model_monitoring_plan.csv": {
+      "sha256": "74b34b4756191e7be57442dd973af2fc0238635c32796bd2a754ab8a48ef27eb",
+      "bytes": 7935
+    },
+    "first_party_methods/oblast_name_crosswalk.csv": {
+      "sha256": "5f867b465597fba64b58d2e7d5284003a10e8c350b457ba3f57d474577613761",
+      "bytes": 4181
+    },
+    "first_party_methods/operational_review_artifact_crosswalk.csv": {
+      "sha256": "6b546723f057096884c40185e8d513ce845d993c3adee55841d2f508dd179301",
+      "bytes": 5462
+    },
+    "first_party_methods/prozorro_procurement_crosswalk.csv": {
+      "sha256": "058d580b9761011ccabd7903a09e913eaee62053a83c378a0cdd4d65debb54f8",
+      "bytes": 18591
+    },
+    "first_party_methods/README.md": {
+      "sha256": "5f284b38d7d2232052c724f1f320d8461fcedf5904487f90c619eb2292c8970d",
+      "bytes": 616
+    },
+    "grp/acquisition_receipt.json": {
+      "sha256": "cb994c3f84795e89710d84ea995e8334b48748af3eef7552414d10a4e7a3ad4c",
+      "bytes": 53723
+    },
+    "grp/replay_grp_benchmark.py": {
+      "sha256": "6a7ca3c45613056104e58e944962f8526cfc4ae8fdcaad4cde7181b12b4c9906",
+      "bytes": 2575
+    },
+    "grp/ukrstat_GRP_2021_benchmark_2026-10-18.csv": {
+      "sha256": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+      "bytes": 16516
+    },
+    "LICENSE_CODE_AND_FIRST_PARTY_METHODS.txt": {
+      "sha256": "0f24759ec8f4fa0399812440d6d7f7c5e1209453fbca3835b638a86f031e99b5",
+      "bytes": 1067
+    },
+    "literature/waris_wartime_aml_typology_layer_map.csv": {
+      "sha256": "851339d4fa37d648d4e0900fc2bda937e9d512217700a1978aea865b3e9503c9",
+      "bytes": 32552
+    },
+    "literature/waris_wartime_aml_typology_register.csv": {
+      "sha256": "c6590c30679bbbe6f0585f5449e986940f8397a96e9406ad4f3fe3d7bbe33b21",
+      "bytes": 14397
+    },
+    "literature/waris_wartime_aml_typology_summary.csv": {
+      "sha256": "f1718577820c7f77f690bc1b42a8e05729763b9c3e74065ea753498408a66611",
+      "bytes": 14485
+    },
+    "literature/wartime_aml_typology_layer_alignment_crosswalk.csv": {
+      "sha256": "9be043235e569328bc3cf1275f370ec63c782d25d37c2dfb009857df2139a5ea",
+      "bytes": 6241
+    },
+    "README.md": {
+      "sha256": "e9543a74b59127e58315f0b80f6f1483625dc5a14446abb9127bb314adb37c6e",
+      "bytes": 697
+    },
+    "world_bank/acquisition_receipt.json": {
+      "sha256": "32e5cec0b035bf5dc3cd099a6a1d67b08f5650472cb6d85838be9b60e3536f9b",
+      "bytes": 3894
+    },
+    "world_bank/replay_world_bank_context.py": {
+      "sha256": "f10bc7493d1b6f6ba568bc48d37dcbcf7d92ad61807e1d507b3ace4710452690",
+      "bytes": 3246
+    },
+    "world_bank/world_bank_national_context_2026-10-18.csv": {
+      "sha256": "422d6de7e5f90c1d89343fea3df638ccaa7282152b5b455a1d19bf643cb11595",
+      "bytes": 83509
+    }
+  }
+}

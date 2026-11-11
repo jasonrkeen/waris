@@ -1,0 +1,21 @@
+{
+  "queue_rows": 25,
+  "question_rows": 200,
+  "checklist_rows": 200,
+  "control_rows": 7,
+  "declared_control_status_counts": {
+    "pass": 6,
+    "review_required": 1
+  },
+  "queue_status_counts": {
+    "not_started": 25
+  },
+  "nonblank_dispositions": 0,
+  "nonblank_review_dates": 0,
+  "checklist_status_counts": {
+    "not_started": 200
+  },
+  "empirical_false_positive_rate_established": false,
+  "runtime_control_effectiveness_established": false,
+  "provider_freshness_established": false
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "This is an unreleased research candidate. Cite the exact version and validation limitations."
+title: "WARIS Ukraine Wartime AML Revenue Integrity Scoring Model"
+type: software
+authors:
+  - family-names: Keen
+    given-names: Jason
+version: "0.12.0-rc5"
+license: MIT

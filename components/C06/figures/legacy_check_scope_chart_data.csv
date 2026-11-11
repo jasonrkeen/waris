@@ -1,0 +1,7 @@
+scope_group,check_count,check_ids
+"Artifact, identity or structural checks",11,OBV-001;OBV-002;OBV-003;OBV-004;OBV-005;OBV-006;OBV-007;OBV-008;OBV-009;OBV-010;OBV-011
+Historical HTTP timing remains unverified,1,OBV-012
+Known single-series parser facts,1,OBV-013
+Scoring change control remains unapproved,1,OBV-014
+Context/document presence; content not cleared,4,OBV-015;OBV-017;OBV-019;OBV-021
+Declared context flags; content not verified,4,OBV-016;OBV-018;OBV-020;OBV-022

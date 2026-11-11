@@ -1,0 +1,30 @@
+{
+  "candidate": "WARIS-v0.12.0-rc13-security-integrated-review-1",
+  "receipt_id": "WARIS-SECURITY-550839c6ad33490eabd6afd2af039b88",
+  "assembled_at_utc": "2026-10-26T11:41:30.275520+00:00",
+  "date_local": "2026-10-26",
+  "parent_candidate_sha256": "de224b5a1c54278e4ad588d49a2a8350c9d471a1fbecf1ff6b315dfc77aceab3",
+  "changes": "current root installation/configuration/CI and reader documentation only",
+  "historical_runtime_and_components_unchanged": true,
+  "presentation_source_inputs_and_output_bytes_unchanged": true,
+  "root_dependency_changes": {
+    "certifi": [
+      "2026.7.22",
+      "2026.10.23"
+    ],
+    "pillow": [
+      "12.3.0",
+      "13.0.0"
+    ],
+    "streamlit": [
+      "1.65.0",
+      "1.66.1"
+    ]
+  },
+  "bootstrap_pip": "26.2.2",
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false,
+  "remote_CI_executed": false,
+  "platform_reproducibility_policy": "Windows canonical bytes; Linux x86_64 encoding-only PNG differences with exact metadata/dimensions/pixels; PDF/CSV/source/metric bytes unchanged; independent same-platform builds byte-identical"
+}

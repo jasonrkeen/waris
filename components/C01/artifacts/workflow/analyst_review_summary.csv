@@ -1,0 +1,8 @@
+summary_area,status,value,recommended_next_action
+Review queue records,created,25,Review top-ranked records and complete analyst disposition fields.
+Review questions,created,200,Use questions to structure non-accusatory human review.
+Current use control,control_active,analyst_review_workflow_only,"Do not treat queue entries as allegations, findings, or enforcement recommendations."
+Production score change control,control_active,none,"Review workflow does not alter WARIS scores, risk bands, or Monte Carlo outputs."
+Human review control,control_active,human_review_required=True; automated_adverse_action_allowed=False; entity_level_findings_allowed=False,Keep review decisions documented and analyst-led.
+False-positive control context,available,"{'pass': 6, 'review_required': 1}",Use false-positive controls before assigning analyst disposition.
+Source freshness context,available,review_required,Check source-freshness posture before relying on source-context flags.

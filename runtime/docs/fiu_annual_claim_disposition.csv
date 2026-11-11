@@ -1,0 +1,7 @@
+typology_support_id,inherited_locator,exact_page_verification,public_fiu_context_table,internal_source_register,source_file_sha256,reason,provisional_index_evidence
+FIU-TYP-001,section 4.3.1,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,none accepted for exact-page verification
+FIU-TYP-002,section 4.3.2,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,none accepted for exact-page verification
+FIU-TYP-003,section 4.3.3,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,none accepted for exact-page verification
+FIU-TYP-004,section 4.3.4,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,none accepted for exact-page verification
+FIU-TYP-005,section 4.3.5,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,one official-report search excerpt includes section 4.3.5; not accepted as exact-page/full-text verification
+FIU-TYP-007,international-cooperation sections; exact pages unspecified,not_completed,withheld_in_rc5,preserved,not_available,public source download blocked; browser failed; user cannot locate local copy,none accepted for exact-page verification

@@ -1,0 +1,26 @@
+waris_oblast,ukrstat_oblast_name,normalization_status,current_use_in_scoring,notes
+Cherkasy,Cherkaska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Chernihiv,Chernihivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Chernivtsi,Chernivetska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Dnipropetrovsk,Dnipropetrovska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Donetsk,Donetska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Ivano-Frankivsk,Ivano-Frankivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Kharkiv,Kharkivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Kherson,Khersonska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Khmelnytskyi,Khmelnytska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Kirovohrad,Kirovohradska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Kyiv,Kyivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Luhansk,Luhanska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Lviv,Lvivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Mykolaiv,Mykolaivska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Odesa,Odeska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Poltava,Poltavska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Rivne,Rivnenska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Sumy,Sumska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Ternopil,Ternopilska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Vinnytsia,Vinnytska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Volyn,Volynska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Zakarpattia,Zakarpatska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Zaporizhzhia,Zaporizka,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Zhytomyr,Zhytomyrska,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.
+Kyiv City,Kyiv,mapped,not_a_scoring_field,Name crosswalk only. Supports validation of official Ukrstat baseline candidates against canonical WARIS geography.

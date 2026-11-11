@@ -1,0 +1,17 @@
+{
+  "schema": "WARIS-git-attributes-only-1",
+  "overrides": {
+    "runtime/.gitattributes": {
+      "original_sha256": "e1357bb602862385b16147b77b4e0d5f6af570b6fa228d3142f2bc41f6d62fb3",
+      "replacement_sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "archived_original": "provenance/git_attributes/runtime.original.gitattributes",
+      "scope": "Git line-ending metadata only; no source/data/model change"
+    },
+    "components/C11/.gitattributes": {
+      "original_sha256": "e1357bb602862385b16147b77b4e0d5f6af570b6fa228d3142f2bc41f6d62fb3",
+      "replacement_sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "archived_original": "provenance/git_attributes/archival_rc11.original.gitattributes",
+      "scope": "Git line-ending metadata only; no source/data/model change"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "WARIS-release-scope-1",
+  "candidate": "WARIS-v0.12.0-rc13-release-review-1",
+  "citation_version": "0.12.0-rc13-release-review-1",
+  "model_version": "0.12.0",
+  "code_baseline": "0.12.0-rc13-methodology-review",
+  "presentation_build_id": "WARIS-rc13-controlled-report-dashboard-1",
+  "package_status": "unpublished_candidate",
+  "publication_authorized": false,
+  "published": false,
+  "public_release_date": null,
+  "repository_url": null,
+  "release_tag": null,
+  "doi": null,
+  "author": {
+    "family_names": "Keen",
+    "given_names": "Jason"
+  },
+  "code_license": "MIT",
+  "model_data_mode": "synthetic_only",
+  "official_GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "full_live_pipeline": "gated_before_credentials_or_provider_access",
+  "research_scope": "full_selected_research_package_with_separate_synthetic_demonstration_benchmarks_and_scoped_appendices",
+  "selected_components": 11,
+  "selected_component_members": 317,
+  "historical_ledger": {
+    "scoped_eligible_entries": 23,
+    "unique_included_historical_files": 20,
+    "aliases": 3,
+    "excluded_entries": 152,
+    "held_entries": 0
+  },
+  "source_boundaries_sha256": "57a6aeeb553463f7fa1c3106eef2d8420e9d198562e6c245db3dc9bf3947854d",
+  "security_reporting": {
+    "selected_route": "github_private_vulnerability_reporting",
+    "configured": false,
+    "verified_endpoint": null,
+    "setup_requires_separate_repository_authorization": true
+  },
+  "remote_CI_executed": false,
+  "git_metadata_override_paths": [
+    "runtime/.gitattributes",
+    "components/C11/.gitattributes"
+  ],
+  "empirical_AML_validation_claimed": false,
+  "source_permission_upgrade_claimed": false
+}

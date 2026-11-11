@@ -1,0 +1,8 @@
+metadata_type,id,name,agencyID,version,relevance_to_waris,notes
+codelist,CL_KATOTTG,Codificator of administrative-territorial units and territories of territorial communities,SSSU,1.2.19,Likely geography / administrative-territorial unit codelist.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+codelist,CL_FREQ,Frequency,SDMX,2.0.2,Likely observation frequency selector.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+codelist,CL_UNITS_OF_MEASURE,Units of measure codelist,SSSU,1.38.2,Likely unit-of-measure codelist.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+codelist,CL_REGIONAL_ACCOUNTS_INDICATOR,Regional accounts indicators codelist,SSSU,2.1.1,Likely regional accounts indicator selector.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+codelist,CL_KATOTTG,KATOTTG ,SSSU,2.0.5,Likely geography / administrative-territorial unit codelist.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+codelist,CL_NACE_UA,Classification of economic activities - NACE 2010,SSSU,2.12.0,Likely economic activity classification.,Useful metadata clue discovered. Still requires actual dimension order before observation query construction.
+concept_scheme,CS_REGIONAL_ACCOUNTS,Regional accounts (2.02.01.02),SSSU,4.0.0,Regional accounts concept scheme.,Useful concept-scheme clue discovered. Still requires actual data structure dimensions before observation query construction.

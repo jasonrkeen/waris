@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-23",
+  "runtime_changes": false,
+  "source_baseline_sha256": "64b635f93b164e6f3e859b7c5c67f4436c9e0339b0e5cea79b5022aa444c4158",
+  "original_ledger_sha256": "a62e28139eb1c8c086d1e1e6e1cb761ce22c6ee6e856652851791558017e7ee1",
+  "historical_inventory_rows": 175,
+  "eligible_selected_inventory_rows": 23,
+  "unique_original_files": 20,
+  "duplicate_aliases": 3,
+  "excluded_historical_rows": 152,
+  "new_provider_permission_determination": false,
+  "new_acquisition": false,
+  "source_boundaries_preserved": true,
+  "published_or_pushed": false
+}

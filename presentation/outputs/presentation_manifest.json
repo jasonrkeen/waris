@@ -1,0 +1,153 @@
+{
+  "build_id": "WARIS-rc13-controlled-report-dashboard-1",
+  "contract_sha256": "3d185175cd8f97ff9b3a71131015b63e2cd971194abbea217132b67efe0b9929",
+  "parent_candidate_sha256": "6df4c8c3ca5dbd19afce8ab1acdd61baeb593f3943ed60e9dfffb6b54f481272",
+  "input_hashes": {
+    "synthetic": "c9814bf64a5e07837b2bb1ce8753c4af0213a977e2b11ccbf88bda608c4a2ff7",
+    "monte_carlo": "2fc37134c314bf058879fd845117ebe1f4c2e3f3c790a6dc4c66d1c758e6457a",
+    "grp": "8d8cd8eb8d361569d3374be529eea8965084de0cc143dbdc9e24b90aa7410490",
+    "procurement_observed": "4b17f1d3921d0672e36302a20856f7a7dbcc1ca896a74b3171f74df46b1c1367",
+    "procurement_weighted": "a1a67abb834e623f2c8485f84d6f98c56b4456575523b688493cfe9229028a6c",
+    "world_bank": "422d6de7e5f90c1d89343fea3df638ccaa7282152b5b455a1d19bf643cb11595",
+    "sfms": "59ecf5bcb4fd45e4362fb6c7a89be4da0874d9f3629b575d5861292a20264116",
+    "literature": "c6590c30679bbbe6f0585f5449e986940f8397a96e9406ad4f3fe3d7bbe33b21",
+    "literature_pages": "0bfc8dbff5e9ef27349d019c7c4fd45f8aeb341d1469e309c6d071ae100bc678",
+    "controls": "014f12219800fdece93286d0e452f1756a4b0eb6219231d48576fb61d960b6e5",
+    "sfms_receipt": "cb486e310dce5663ba6e9cd744038063c1465bef759773341377273b8897ef5b",
+    "boundaries": "57a6aeeb553463f7fa1c3106eef2d8420e9d198562e6c245db3dc9bf3947854d"
+  },
+  "metrics": {
+    "synthetic_rows": 150,
+    "synthetic_mean_score": 40.87456046489513,
+    "synthetic_min_score": 14.685507377982026,
+    "synthetic_max_score": 66.06763103657788,
+    "mean_assumed_p05_p95_width": 7.152895203852853,
+    "WB_latest_available_in_snapshot": [
+      {
+        "country_code": "UKR",
+        "indicator_code": "GC.TAX.TOTL.GD.ZS",
+        "indicator_name": "Tax revenue (% of GDP)",
+        "year": "2024",
+        "value": "21.0177678568632",
+        "value_status": "reported_api_value",
+        "unit": "percent_of_GDP",
+        "series_license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_url": "https://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS",
+        "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/GC.TAX.TOTL.GD.ZS?format=json&date=1991:2024&per_page=100",
+        "api_response_sha256": "fe5b4093d7a927c0a4ca0a1477da2061d3402c138251623735d001f4d4d7bb7e",
+        "retrieved_at_utc": "2026-10-18T20:09:52.008753+00:00",
+        "source_last_updated": "2026-10-08",
+        "underlying_provider_credit": "Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+        "use_scope": "national_context_only_not_scoring",
+        "missing_slots": 8
+      },
+      {
+        "country_code": "UKR",
+        "indicator_code": "NE.EXP.GNFS.CD",
+        "indicator_name": "Exports of goods and services (current US$)",
+        "year": "2024",
+        "value": "56624210504.8448",
+        "value_status": "reported_api_value",
+        "unit": "current_USD",
+        "series_license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.CD",
+        "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NE.EXP.GNFS.CD?format=json&date=1991:2024&per_page=100",
+        "api_response_sha256": "1e41142805915e3629e60d0617dbef23f1f79bcb7a406eb56d957385cbc33801",
+        "retrieved_at_utc": "2026-10-18T20:09:51.660872+00:00",
+        "source_last_updated": "2026-10-08",
+        "underlying_provider_credit": "Country official statistics, National Statistical Offices (NSOs); National Accounts data files, Central Banks; Staff estimates, World Bank (WB)",
+        "use_scope": "national_context_only_not_scoring",
+        "missing_slots": 0
+      },
+      {
+        "country_code": "UKR",
+        "indicator_code": "NE.IMP.GNFS.CD",
+        "indicator_name": "Imports of goods and services (current US$)",
+        "year": "2024",
+        "value": "95448348221.436",
+        "value_status": "reported_api_value",
+        "unit": "current_USD",
+        "series_license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.CD",
+        "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NE.IMP.GNFS.CD?format=json&date=1991:2024&per_page=100",
+        "api_response_sha256": "3d275d5d92c5fc2138e926c237237b49a8f99620aeb3f9d54f1cd4b9c7815fc2",
+        "retrieved_at_utc": "2026-10-18T20:09:51.632783+00:00",
+        "source_last_updated": "2026-10-08",
+        "underlying_provider_credit": "Country official statistics, National Statistical Offices (NSOs); National Accounts data files, Central Banks; Staff estimates, World Bank (WB)",
+        "use_scope": "national_context_only_not_scoring",
+        "missing_slots": 0
+      },
+      {
+        "country_code": "UKR",
+        "indicator_code": "NY.GDP.MKTP.CD",
+        "indicator_name": "GDP (current US$)",
+        "year": "2024",
+        "value": "190833835445.1",
+        "value_status": "reported_api_value",
+        "unit": "current_USD",
+        "series_license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+        "api_url": "https://api.worldbank.org/v2/country/UKR/indicator/NY.GDP.MKTP.CD?format=json&date=1991:2024&per_page=100",
+        "api_response_sha256": "6d12d65b09825b2e8c7528b1fafb9211ccda6e6c9a54e1589f689613236e10f5",
+        "retrieved_at_utc": "2026-10-18T20:09:51.581727+00:00",
+        "source_last_updated": "2026-10-08",
+        "underlying_provider_credit": "Country official statistics, National Statistical Organizations and/or Central Banks; National Accounts data files, Organisation for Economic Co-operation and Development (OECD); Staff estimates, World Bank (WB)",
+        "use_scope": "national_context_only_not_scoring",
+        "missing_slots": 0
+      }
+    ],
+    "SFMS_published_total": {
+      "source_row": "total",
+      "reporting_period": "2026-Q1",
+      "category_as_published": "total",
+      "row_role": "published_total_do_not_add",
+      "referral_documents": "70",
+      "source_reported_associated_funds_million_UAH": "27241.11",
+      "category_label_repeated_in_source": "False",
+      "context_only": "True",
+      "used_in_scoring": "False",
+      "used_in_monte_carlo": "False"
+    },
+    "GRP_regions": 25,
+    "permitted_literature_themes": 6,
+    "historical_completed_analyst_dispositions": 0
+  },
+  "outputs": {
+    "charts/assumed_sensitivity.csv": {
+      "sha256": "c61048bbdd3a96ff0451eb39fffebb268fdc8b680fc7ca5ca10a0f0b93d607e8",
+      "bytes": 18990
+    },
+    "charts/assumed_sensitivity.png": {
+      "sha256": "169a22acca8f6da01beccf303396cc815c7a015276c5aec37ff1a18a15f81604",
+      "bytes": 58104
+    },
+    "charts/GRP_2021_benchmark.csv": {
+      "sha256": "c9f82951934182778c15c185649a79e3c7aba0289e4cc70720ededfb133d968a",
+      "bytes": 1548
+    },
+    "charts/GRP_2021_benchmark.png": {
+      "sha256": "b03af25c24714166e01ae5642f209ec872c4854ce16293fd39cdf3b8c9c00a65",
+      "bytes": 94351
+    },
+    "charts/synthetic_score_distribution.csv": {
+      "sha256": "6ec4bd8055daa64c7c0fff789b3b801b911ccd3539655f604e4bdb68341ca2d4",
+      "bytes": 302
+    },
+    "charts/synthetic_score_distribution.png": {
+      "sha256": "a913b20775a65b2be00dedc13f714fc3d1f25e0535aea7a678d6caa9d75b79d6",
+      "bytes": 42426
+    },
+    "WARIS_Controlled_Research_Report_rc13.pdf": {
+      "sha256": "5a757d3536709018022b212c433696b4c83a7e1c8c36be8ad9c095dab71db686",
+      "bytes": 232031
+    }
+  },
+  "full_legacy_live_pipeline_executed": false,
+  "GRP": "benchmark_only",
+  "unverified_FIU_claims": "excluded",
+  "published": false
+}

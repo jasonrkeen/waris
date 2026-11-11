@@ -1,0 +1,489 @@
+region_code,source_region_label,waris_oblast,geography_role,indicator_code,nace_code,frequency,period,value_million_UAH,unit_code,unit_label,scale_code,scale_label,decimals_code,source_observation_flag,source_observation_note,source_timeseries_note,wide_export_series_note_not_per_year,used_in_scoring,use_scope
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2004,345113,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2005,441452,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2006,544153,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2007,720731,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2008,948056,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2009,913345,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2010,1082569,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2011,1302079,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2012,1459096,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2013,1522657,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2014,1586915,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2015,1988544,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2016,2385367,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2017,2981227,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2018,3560302,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2019,3977198,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2020,4222026,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA00000000000000000,Ukraine,,national_aggregate_not_additive_to_regions,GRP,_Z,A,2021,5450849,1090,UAH,6,Millions,0,,,"Data exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and a part of temporarily occupied territories in the Donetsk and Luhansk regions.",,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2004,9901,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2005,12848,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2006,16044,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2007,20874,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2008,27365,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2009,27396,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2010,32426,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2011,38220,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2012,44536,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA01000000000013043,Autonomous Republic of Crimea,,outside_WARIS_universe,GRP,_Z,A,2013,46393,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2004,8123,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2005,10207,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2006,12414,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2007,15381,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2008,20094,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2009,20104,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2010,23589,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2011,29099,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2012,33024,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2013,36191,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2014,43990,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2015,59871,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2016,74411,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2017,92288,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2018,111489,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2019,129097,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2020,135867,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA05000000000010236,Vinnytska,Vinnytsia,WARIS_region,GRP,_Z,A,2021,173531,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2004,4994,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2005,6553,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2006,7687,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2007,10072,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2008,12784,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2009,12225,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2010,14429,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2011,17637,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2012,20005,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2013,20622,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2014,24195,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2015,31688,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2016,35744,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2017,51919,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2018,60445,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2019,75637,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2020,77404,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA07000000000024379,Volynska,Volyn,WARIS_region,GRP,_Z,A,2021,92535,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2004,30040,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2005,41227,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2006,52347,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2007,71173,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2008,104687,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2009,93331,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2010,116136,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2011,140020,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2012,147970,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2013,152905,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2014,176540,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2015,215206,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2016,244478,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2017,313527,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2018,369356,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2019,390325,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2020,398732,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA12000000000090473,Dnipropetrovska,Dnipropetrovsk,WARIS_region,GRP,_Z,A,2021,582363,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2004,45617,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2005,58044,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2006,72361,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2007,92093,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2008,117646,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2009,103739,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2010,128986,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2011,161021,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2012,170775,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2013,164926,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2014,119983,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2015,115012,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2016,137500,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2017,165932,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2018,192161,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2019,204893,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2020,206309,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA14000000000091971,Donetska,Donetsk,WARIS_region,GRP,_Z,A,2021,283326,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2004,5947,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2005,7430,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2006,8784,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2007,11127,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2008,15008,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2009,14731,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2010,18743,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2011,21928,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2012,24849,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2013,25676,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2014,29815,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2015,38425,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2016,47919,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2017,61424,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2018,77103,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2019,85267,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2020,91365,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA18000000000041385,Zhytomyrska,Zhytomyr,WARIS_region,GRP,_Z,A,2021,113919,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2004,5297,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2005,6700,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2006,8185,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2007,10508,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2008,13208,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2009,12542,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2010,15299,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2011,18054,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2012,21404,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2013,21400,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2014,24120,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2015,28952,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2016,32390,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2017,43037,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2018,52445,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2019,61325,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2020,62022,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA21000000000011690,Zakarpatska,Zakarpattia,WARIS_region,GRP,_Z,A,2021,75626,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2004,15255,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2005,19968,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2006,24787,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2007,33158,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2008,42445,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2009,37446,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2010,42736,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2011,49525,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2012,54828,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2013,54352,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2014,65968,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2015,89061,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2016,104323,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2017,130187,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2018,147043,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2019,155158,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2020,167260,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA23000000000064947,Zaporizka,Zaporizhzhia,WARIS_region,GRP,_Z,A,2021,228906,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2004,7311,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2005,9622,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2006,11316,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2007,13916,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2008,17883,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2009,17241,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2010,20446,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2011,26752,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2012,32286,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2013,33196,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2014,37643,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2015,45854,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2016,51404,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2017,63809,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2018,78439,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2019,86679,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2020,90398,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA26000000000069363,Ivano-Frankivska,Ivano-Frankivsk,WARIS_region,GRP,_Z,A,2021,119680,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2004,11883,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2005,15362,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2006,19188,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2007,26221,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2008,35687,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2009,37548,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2010,44953,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2011,59154,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2012,69663,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2013,68931,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2014,79561,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2015,104030,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2016,128638,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2017,156829,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2018,198142,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2019,218647,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2020,242406,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA32000000000030281,Kyivska,Kyiv,WARIS_region,GRP,_Z,A,2021,291519,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2004,5594,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2005,6877,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2006,8187,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2007,9989,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2008,13961,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2009,13389,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2010,15749,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2011,20041,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2012,22056,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2013,25313,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2014,28758,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2015,38447,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2016,46021,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2017,52978,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2018,64417,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2019,73066,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2020,75208,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA35000000000016081,Kirovohradska,Kirovohrad,WARIS_region,GRP,_Z,A,2021,99564,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2004,14672,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2005,19716,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2006,24159,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2007,32280,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2008,42985,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2009,38451,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2010,45541,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2011,57202,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2012,58767,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2013,55108,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2014,31393,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2015,23849,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2016,31356,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2017,30265,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2018,35204,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2019,40291,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2020,43204,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA44000000000018893,Luhanska,Luhansk,WARIS_region,GRP,_Z,A,2021,52135,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2004,13992,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2005,17192,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2006,21486,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2007,27987,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2008,35534,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2009,35955,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2010,41655,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2011,52103,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2012,61962,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2013,63329,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2014,72923,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2015,94690,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2016,114842,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2017,147308,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2018,177233,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2019,214400,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2020,236254,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA46000000000026241,Lvivska,Lviv,WARIS_region,GRP,_Z,A,2021,296182,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2004,7934,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2005,9553,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2006,11876,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2007,14767,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2008,19410,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2009,20336,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2010,24055,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2011,27633,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2012,29205,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2013,32030,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2014,35408,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2015,48195,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2016,57815,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2017,69299,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2018,79903,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2019,92427,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2020,96648,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA48000000000039575,Mykolaivska,Mykolaiv,WARIS_region,GRP,_Z,A,2021,124162,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2004,17029,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2005,20762,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2006,24898,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2007,33116,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2008,46994,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2009,48647,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2010,53878,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2011,61499,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2012,64743,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2013,69760,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2014,74934,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2015,99761,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2016,119800,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2017,149392,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2018,173224,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2019,197153,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2020,220242,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA51000000000030770,Odeska,Odesa,WARIS_region,GRP,_Z,A,2021,271669,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2004,13983,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2005,18099,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2006,22179,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2007,28355,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2008,34118,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2009,33629,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2010,44291,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2011,52252,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2012,56580,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2013,58464,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2014,69831,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2015,95867,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2016,116272,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2017,150543,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2018,174089,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2019,187289,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2020,188424,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA53000000000028050,Poltavska,Poltava,WARIS_region,GRP,_Z,A,2021,266694,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2004,5599,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2005,7263,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2006,8924,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2007,11180,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2008,14074,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2009,13469,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2010,15882,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2011,19302,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2012,21795,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2013,22004,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2014,28724,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2015,35252,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2016,39469,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2017,48796,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2018,56835,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2019,67363,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2020,71901,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA56000000000066151,Rivnenska,Rivne,WARIS_region,GRP,_Z,A,2021,88859,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2004,6275,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2005,8025,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2006,9566,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2007,12341,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2008,16210,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2009,16060,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2010,18333,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2011,22907,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2012,24933,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2013,26765,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2014,30397,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2015,41567,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2016,46287,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2017,56473,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2018,68476,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2019,75827,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2020,80432,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA59000000000057109,Sumska,Sumy,WARIS_region,GRP,_Z,A,2021,105254,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2004,3948,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2005,5137,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2006,6452,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2007,8276,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2008,10618,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2009,11173,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2010,12726,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2011,16294,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2012,17957,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2013,18085,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2014,21676,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2015,26656,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2016,31072,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2017,40715,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2018,49127,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2019,57140,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2020,62661,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA61000000000060328,Ternopilska,Ternopil,WARIS_region,GRP,_Z,A,2021,81485,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2004,20524,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2005,25618,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2006,32023,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2007,43868,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2008,59389,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2009,58923,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2010,65293,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2011,76866,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2012,82223,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2013,85315,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2014,96596,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2015,124843,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2016,154871,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2017,187238,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2018,233279,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2019,247592,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2020,257805,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA63000000000041885,Kharkivska,Kharkiv,WARIS_region,GRP,_Z,A,2021,319796,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2004,5200,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2005,6469,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2006,7565,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2007,9034,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2008,13174,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2009,13436,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2010,15649,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2011,18448,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2012,19357,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2013,20767,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2014,23250,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2015,32215,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2016,38743,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2017,47819,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2018,55152,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2019,61939,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2020,68467,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA65000000000030969,Khersonska,Kherson,WARIS_region,GRP,_Z,A,2021,88182,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2004,6344,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2005,7958,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2006,9603,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2007,12339,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2008,16061,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2009,15758,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2010,18096,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2011,22843,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2012,26237,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2013,26426,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2014,32162,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2015,41088,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2016,48859,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2017,63808,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2018,75638,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2019,83006,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2020,96380,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA68000000000099709,Khmelnytska,Khmelnytskyi,WARIS_region,GRP,_Z,A,2021,119876,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2004,6623,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2005,9014,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2006,10957,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2007,13656,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2008,19101,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2009,18707,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2010,22354,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2011,27012,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2012,31265,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2013,33087,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2014,38466,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2015,50843,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2016,59412,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2017,73073,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2018,93287,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2019,103466,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2020,108822,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA71000000000010357,Cherkaska,Cherkasy,WARIS_region,GRP,_Z,A,2021,131154,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2004,3277,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2005,4234,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2006,5126,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2007,6672,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2008,8833,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2009,8484,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2010,9892,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2011,11969,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2012,13166,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2013,13757,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2014,15049,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2015,18506,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2016,21239,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2017,28579,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2018,33905,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2019,41660,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2020,45054,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA73000000000044923,Chernivetska,Chernivtsi,WARIS_region,GRP,_Z,A,2021,54582,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2004,6181,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2005,7627,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2006,8950,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2007,11532,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2008,14918,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2009,14636,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2010,17008,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2011,21165,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2012,23934,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2013,24237,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2014,28156,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2015,36966,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2016,43362,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2017,56611,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2018,70611,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2019,77981,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2020,84068,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA74000000000025378,Chernihivska,Chernihiv,WARIS_region,GRP,_Z,A,2021,113474,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2004,61357,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2005,77124,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2006,95267,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2007,135900,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2008,169564,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2009,169537,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2010,196639,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2011,223774,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2012,275685,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2013,312552,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2014,357377,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2015,451700,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2016,559140,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2017,699378,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2018,833299,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2019,949570,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2020,1014693,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA80000000000093317,Kyiv,Kyiv City,WARIS_region,GRP,_Z,A,2021,1276376,1090,UAH,6,Millions,0,,,,,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2004,2213,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2005,2823,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2006,3822,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2007,4916,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2008,6305,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2009,6452,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2010,7785,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2011,9359,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2012,9891,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only
+UA85000000000065278,Sevastopol,,outside_WARIS_universe,GRP,_Z,A,2013,11066,1090,UAH,6,Millions,0,,,,Not available.,False,historical_unit_and_benchmark_evidence_only

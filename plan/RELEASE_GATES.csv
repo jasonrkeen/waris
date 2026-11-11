@@ -1,0 +1,9 @@
+gate,status,evidence
+Known component and member selection,settled_for_this_plan,"COMPONENT_DECISIONS.csv, MEMBER_INCLUSION_LIST.csv; 23 historical entries remain scoped and 152 excluded."
+Companion and dependency specification,specified_and_local_bytes_checked,"C01–C11 scope notes, exact predecessor hashes, transformation N01; not public historical acquisition reconstruction."
+Rights/provenance scope,dated_scoped_evidence_retained,No new entitlement/legal approval; no restricted individual/raw inputs selected. Missing original acquisition evidence stays explicitly missing.
+Controlled application integration,not_executed,Plan-only. Legacy generators/caches do not become approved reader outputs. No automatic update/export of old files.
+Qualifying full run and frozen replay,not_executed,Existing synthetic and component-local engineering checks are distinct from a complete final research build.
+"Final reports, charts and dashboard QA",outstanding_for_final_assembly,Previously reviewed GRP figures retain their dates. No new full PDF/dashboard visual certification.
+Final security/dependency/platform checks,outstanding_for_final_assembly,Current inventory/integrity/known-value checks are distinct from fresh advisories or intended-platform CI.
+Publication,not_authorized_or_performed,Requires a later explicit user instruction after readiness.

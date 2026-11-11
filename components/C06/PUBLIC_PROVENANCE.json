@@ -1,0 +1,18 @@
+{
+  "review_date_local": "2026-10-20",
+  "historical_evidence_rows": 488,
+  "matched_legacy_fields_per_row": 17,
+  "source_series": 28,
+  "WARIS_series": 25,
+  "expected_slots": 504,
+  "explicit_unavailable": 15,
+  "absent_slots": 1,
+  "wide_note_field_differences": 20,
+  "original_acquisition_date_recovered": false,
+  "source_candidate_changed": false,
+  "used_in_scoring": false,
+  "sector_allocation_approved": false,
+  "full_research_release": "blocked",
+  "unverified_FIU_claims": "excluded",
+  "publication_or_push": false
+}

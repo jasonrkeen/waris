@@ -1,0 +1,23 @@
+check_id,historical_status,replayed_status,reviewed_scope,current_interpretation,empirical_model_validation,production_scoring_approval
+OBV-001,pass,pass,retained_artifact_availability,Candidate file has 25 rows; this is not empirical validation.,False,False
+OBV-002,pass,pass,selected_universe_coverage,"25 unique WARIS regions, not full territorial or current coverage.",False,False
+OBV-003,pass,pass,mapping_control_only,Retained names/codes mapped; current geography control does not prove historical boundaries.,False,False
+OBV-004,pass,pass,retained_no_scoring_flag,Retained candidate rows declare not_yet_used; no production approval.,False,False
+OBV-005,pass,pass,retained_pending_flag,"Pending label is a workflow state, not evidence of successful validation.",False,False
+OBV-006,pass,pass,units_reconciled_selected_history,488 values and units matched; old code fields contain labels and require corrected projection.,False,False
+OBV-007,pass,pass,series_identity_reconciled,Selected series are GRP; this does not establish suitability for risk scoring.,False,False
+OBV-008,pass,pass,series_identity_reconciled,NACE _Z means not applicable for these selected series; no sector allocation inferred.,False,False
+OBV-009,pass,pass,series_identity_reconciled,Annual frequency verified for selected series.,False,False
+OBV-010,pass,pass,selected_period_only,"Selected WARIS candidate year is 2021, not current economic conditions.",False,False
+OBV-011,pass,pass,selected_numeric_sanity,25 selected 2021 GRP values are numeric and positive; this is not predictive validity.,False,False
+OBV-012,pass,pass,historical_HTTP_timing_unverified,Retained response records exist and numerical facts reconcile; original request timing/completeness is not recovered.,False,False
+OBV-013,pass,pass,selected_parser_facts_reconciled,Retained single-series parsed observations can be compared to the decoded source series; this does not validate arbitrary parser inputs.,False,False
+OBV-014,review_required,review_required,scoring_block_retained,"Transformation logic, SME review and formal scoring change control remain unapproved.",False,False
+OBV-015,pass,pass,content_not_cleared_by_presence,Review-table presence is not clearance of procurement claims or historical coverage.,False,False
+OBV-016,pass,pass,declared_control_flags_only,Review-only flags do not verify procurement content or scoring effectiveness.,False,False
+OBV-017,pass,pass,content_not_cleared_by_presence,Literature-table presence does not verify all detailed typology claims.,False,False
+OBV-018,pass,pass,declared_control_flags_only,Reference-only flags are not source verification or empirical validation.,False,False
+OBV-019,pass,pass,unverified_FIU_claims_excluded,Presence of a held context table cannot clear any unverified FIU claim; no source claims reproduced in this projection.,False,False
+OBV-020,pass,pass,unverified_FIU_claims_excluded,National-context/no-scoring flags do not verify the underlying FIU claims; they remain excluded.,False,False
+OBV-021,pass,pass,documentation_presence_only,Operational-control rows document review workflow; no effectiveness validation.,False,False
+OBV-022,pass,pass,declared_control_flags_only,Documentation/no-scoring flags are not empirical validation.,False,False

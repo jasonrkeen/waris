@@ -1,0 +1,18 @@
+{
+  "package": "0.12.0-rc13-docs-review-1",
+  "code_baseline": "0.12.0-rc13-methodology-review",
+  "model_version": "0.12.0",
+  "review_date": "2026-10-23",
+  "status": "unreleased_documentation_review",
+  "full_research_release": "blocked",
+  "runtime_code_unchanged": true,
+  "original_parent_zip_sha256": "749e185f8fcc3647e6431a02782bb9fff0d313db2a75a5392711083963bb35b2",
+  "historical_counts": {
+    "eligible_with_companions": 23,
+    "excluded_unchanged": 152,
+    "held": 0
+  },
+  "code_manifest_authority": "CONTROLLED_REVIEW_MANIFEST.json",
+  "manifest_self_hash_excluded": true,
+  "publication_or_push": false
+}

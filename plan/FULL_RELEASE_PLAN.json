@@ -1,0 +1,196 @@
+{
+  "plan_id": "WARIS-rc13-full-release-inclusion-plan-1",
+  "date": "2026-10-23",
+  "artifact_type": "assembly_selection_plan_not_an_integrated_release_or_run_receipt",
+  "selection_scope": "All known ZIP components in outputs at freeze; future generated files are explicitly gated rather than silently selected.",
+  "components": [
+    {
+      "id": "C01",
+      "source_zip": "WARIS-rc13-selected-appendix-review-1.zip",
+      "sha256": "651c8d2bfa9445e44ded864fb00c08f4c74418d0ac0e13455ef8ccdad50d709b",
+      "bytes": 591168,
+      "role": "current_source_and_historical_appendix",
+      "dependencies": [],
+      "mandatory_scope_companion": "companions/C01.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "current_rc13_baseline_embedded",
+      "scope": "Current rc13 documentation/runtime baseline is embedded unchanged. Twenty unique historical files cover 23 eligible ledger entries; three aliases are not independent evidence. All 152 exclusions and 20 companions stay attached. Runtime remains synthetic-demo supported; no live or scoring integration."
+    },
+    {
+      "id": "C02",
+      "source_zip": "WARIS_Recorded_Frame_Source_2026-10-20.zip",
+      "sha256": "a51ea4e4c2aca5cccb7d5229eaedee1f1698bbebf4b19c5c99eaab04934f9c86",
+      "bytes": 31269,
+      "role": "recorded_procurement_frame_methods",
+      "dependencies": [],
+      "mandatory_scope_companion": "companions/C02.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Frozen first-party 1000-record traversal design and lot/lifecycle rules. Sampling frame is finite, mutable and operational, not national or complete-period. Missing/ambiguous bids remain unknown; lots and no-lot tenders, procedures and sampling domains stay separate. Capture scripts are retained methods, not authorised execution. Private snapshot/selection is not bundled."
+    },
+    {
+      "id": "C03",
+      "source_zip": "WARIS_Cleared_Procurement_Metadata_Supplement_2026-10-20.zip",
+      "sha256": "f02468f6269d599a6590148e33265c18e44db04ffe2e938aa7d62c553035efb1",
+      "bytes": 22266,
+      "role": "procurement_descriptive_projection_and_metadata",
+      "dependencies": [
+        "C02"
+      ],
+      "mandatory_scope_companion": "companions/C03.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Two procedure-specific public projections only: observed object counts versus finite-frame estimates. Fractional expansion totals are estimates, not observed people/tenders. No national inference, firm count, criminality, formal anonymity, pooling, scoring or Monte Carlo. Two coarse procedure/unit types remain distinct. Dated selected metadata checks are planning context, not executed queries."
+    },
+    {
+      "id": "C04",
+      "source_zip": "WARIS_Cleared_Research_Supplements_2026-10-18.zip",
+      "sha256": "9c016721fad0a27d0c77a513f466f586c512d890290c849b422cf5b53fa4235f",
+      "bytes": 44009,
+      "role": "curated_literature_GRP_World_Bank_methods",
+      "dependencies": [
+        "C01"
+      ],
+      "mandatory_scope_companion": "companions/C04.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Six literature themes only (001–005,010), conceptual attribution/adaptation, no calibrated indicators or author endorsement. World Bank four-indicator/136-row national context retains missing states, years and underlying credits, not current regional observations. Selected official 2021 GRP is benchmark-only. Corrected limitations/registers are methods, not evidence of performance. The ten-row literature page crosswalk is superseded for reader use by N01."
+    },
+    {
+      "id": "C05",
+      "source_zip": "WARIS_Cleared_Ukrstat_Metadata_Benchmark_Supplement_2026-10-20.zip",
+      "sha256": "901eb9b0772e12f192376b136faac51ee8d53de3601fc6b873be0bb43992d043",
+      "bytes": 28432,
+      "role": "typed_DSD_and_benchmark_reconstruction",
+      "dependencies": [
+        "C01",
+        "C04",
+        "C11"
+      ],
+      "mandatory_scope_companion": "companions/C05.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Selected 21-component typed DSD and dated exact-version metadata; attributes/measures are not key dimensions. Independent arithmetic compares synthetic indices and official GRP, not measured revenue error. Historical replay helper requires exact archival rc11 fingerprints; this does not reinstate rc11 as current runtime."
+    },
+    {
+      "id": "C06",
+      "source_zip": "WARIS_Cleared_Historical_GRP_Validation_Supplement_2026-10-20.zip",
+      "sha256": "a7ade1d02e88ce276eac41df5102418f731c3c2772f0ba18954c2bc25add2ca0",
+      "bytes": 324525,
+      "role": "curated_historical_GRP_units_and_validation_scope",
+      "dependencies": [
+        "C04",
+        "C11"
+      ],
+      "mandatory_scope_companion": "companions/C06.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "488 curated numeric observations across 28 series/2004–2021, not a bulk raw export. Preserve 15 unavailable slots and one absent Sevastopol-2014 slot without inventing rows. National aggregate overlaps regions and must not be summed with them. Preserve long/API versus wide-series notes, units and territorial limits. Check/figure counts are source-presence/documentation, not AML or operational validation. Three reviewed figures retain exact plotted tables and dated visual review only."
+    },
+    {
+      "id": "C07",
+      "source_zip": "WARIS_Cleared_Probe_Gap_Merge_Supplement_2026-10-20.zip",
+      "sha256": "332809aad2d9536d9ac33e9434acb16052608f03743ddf845e980527f839bd38",
+      "bytes": 22297,
+      "role": "corrected_probe_gap_merge_narratives",
+      "dependencies": [
+        "C04",
+        "C05"
+      ],
+      "mandatory_scope_companion": "companions/C07.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Reconciled gap arithmetic and neutral claims supersede old overstatement/understatement narratives. Recorded statuses, compatible prefixes and retained logs do not authenticate HTTP times or recover missing responses. Source-scale differences are arbitrary-index comparisons, not revenue discrepancy, significance, risk thresholds or scoring permission."
+    },
+    {
+      "id": "C08",
+      "source_zip": "WARIS_Cleared_Candidate_Parser_Availability_Supplement_2026-10-20.zip",
+      "sha256": "e20c8be3651c66b3aef62e2e40c2a65f55319e6c526617adbfab1a97f285ff3a",
+      "bytes": 24476,
+      "role": "typed_annual_candidates_and_query_limits",
+      "dependencies": [
+        "C04",
+        "C06"
+      ],
+      "mandatory_scope_companion": "companions/C08.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Selected explicit annual labels/units/notes correct legacy blanks and fallback assumptions. Latest is retained-response latest; UPDATED is not acquisition time. Constraints/metadata paths do not prove observations or positive selectors. Bulk code listing stays private. Corrected strict parser scope is selected annual GRP, not universal SDMX certification."
+    },
+    {
+      "id": "C09",
+      "source_zip": "WARIS_Cleared_Operational_Scenario_Supplement_2026-10-22.zip",
+      "sha256": "d714b5008aa80c2cdb789d0ec1eccaa3ca0e36ebbc3520fcfa94ff526b67aa72",
+      "bytes": 43634,
+      "role": "operational_declarations_and_index_illustrations",
+      "dependencies": [
+        "C01",
+        "C04",
+        "C05",
+        "C11"
+      ],
+      "mandatory_scope_companion": "companions/C09.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Four historical bridge rows, synthetic rescale arithmetic and 25-row replacement reference without mixed scores. Index units/shares are synthetic and not currency/economic sector allocation. Equal six-sector support required. Presence, pass/fresh labels and run-ID consistency do not prove execution or effectiveness. Old masking review and mixed-score replacement remain excluded. No runtime integration or scoring approval."
+    },
+    {
+      "id": "C10",
+      "source_zip": "WARIS_Cleared_Mixed_Metadata_SFMS_Supplement_2026-10-22.zip",
+      "sha256": "125a4e2ee145b087e1e8b2769ab153708c4b2fd61ab8d2b731e0fd8b369f0787",
+      "bytes": 15160,
+      "role": "historical_metadata_and_selected_SFMS_national_context",
+      "dependencies": [
+        "C01"
+      ],
+      "mandatory_scope_companion": "companions/C10.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "separate_review_component_no_score_integration",
+      "scope": "Ten national Q1-2026 referral-category facts were text-verified in the dated review only. Direct local retrieval returned 403 HTML: no local PDF custody or visual-layout verification. Preserve duplicate category labels at rows 3/8; published total is not additive to categories. Documents/funds are not unique people, convictions or independently established criminal loss. No regional/sector allocation or unverified annual claims. Old confidence defect diagnostics do not override rc13 categorical policy."
+    },
+    {
+      "id": "C11",
+      "source_zip": "WARIS-v0.12.0-rc11-source-review.zip",
+      "sha256": "0d4b79da8ccb0698d2e536c92cec33e1bd0d56f54082c41b576310a116261606",
+      "bytes": 392720,
+      "role": "archival_replay_dependency_only",
+      "dependencies": [],
+      "mandatory_scope_companion": "companions/C11.md",
+      "plan_action": "select_scoped_members_for_future_local_assembly",
+      "runtime_status": "archival_replay_only",
+      "scope": "Exact older cleaned first-party source is selected solely because frozen reconstruction helpers require rc11 fingerprints. Keep under archival_replay, never as current runtime, live entry point, authoritative policy or source of public cached outputs. No automatic execution/export. rc13 rules override historical ACLED/confidence/fallback instructions. Missing private acquisition inputs remain missing."
+    }
+  ],
+  "transformations": [
+    "N01"
+  ],
+  "component_dependencies_are_required": true,
+  "whole_predecessor_ZIPs_are_not_wholesale_publication_approvals": true,
+  "member_selection_authority": "MEMBER_INCLUSION_LIST.csv",
+  "duplicate_policy": "Identify same bytes but preserve replay-relative context; no independent evidence from copies.",
+  "historical_inventory": {
+    "total": 175,
+    "eligible_scoped": 23,
+    "excluded": 152,
+    "held": 0
+  },
+  "boundaries": {
+    "current_code_baseline": "0.12.0-rc13-methodology-review",
+    "current_documentation_baseline": "0.12.0-rc13-docs-review-1",
+    "official_GRP": "benchmark_only",
+    "GRP_sector_economic_allocation": "not_approved",
+    "GRP_scoring_and_Monte_Carlo": "prohibited",
+    "expanded_procurement": "review_only",
+    "ACLED": "private_context_only_acquisition_gated_old_proxy_and_blend_retired",
+    "confidence": "categorical_counts_no_numeric_mean_or_adjusted_score",
+    "literature": "six_theme_reference_only_no_scoring",
+    "SFMS": "selected_verified_national_context_only",
+    "unverified_FIU_claims": "excluded",
+    "publication_or_push": false,
+    "archival_C11": "replay_dependency_only_never_current_runtime",
+    "new_acquisition_authorized": false,
+    "full_research_release": "blocked"
+  },
+  "release_gates": "RELEASE_GATES.csv",
+  "published": false
+}
